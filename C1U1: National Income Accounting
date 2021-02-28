@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T22:37:37.831Z" agent="5.0 (X11)" etag="HdSvrS8aZxqX6cx374vW" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T22:39:00.117Z" agent="5.0 (X11)" etag="lIEWYLFgieC4AkNXOi1f" version="14.4.3" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
     <mxGraphModel dx="3943" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -52,13 +52,13 @@
         <mxCell id="DeuK-r0RuM_mpVfZK10v-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-14" target="DeuK-r0RuM_mpVfZK10v-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeuK-r0RuM_mpVfZK10v-14" value="Gross Domestic Product (GDP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-14" value="Gross Domestic Product (`GDP_{MP}`)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-16" target="DeuK-r0RuM_mpVfZK10v-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeuK-r0RuM_mpVfZK10v-16" value="Gross National Product (GNP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-16" value="Gross National Product (`GNP_{MP}`)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-19" target="DeuK-r0RuM_mpVfZK10v-22">
@@ -232,24 +232,20 @@
         <mxCell id="DeuK-r0RuM_mpVfZK10v-84" value="`NDP_(MP)=GDP_(MP)-\text{Depreciation}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1590" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DeuK-r0RuM_mpVfZK10v-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="DeuK-r0RuM_mpVfZK10v-87" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="920" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-87" target="DeuK-r0RuM_mpVfZK10v-92">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-87" value="&lt;div&gt;Net National Product at market prices &lt;br&gt;&lt;/div&gt;&lt;div&gt;(`\text{NNP}_(MP)`)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="840" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DeuK-r0RuM_mpVfZK10v-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="DeuK-r0RuM_mpVfZK10v-90" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="1010" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-90" value="&lt;div&gt;`\text{NNP}_{MP} = GNP_{MP}–\text{Depreciation}`&lt;/div&gt;&lt;div&gt;`\text{NNP}_{MP} = NDP_{MP}&amp;nbsp; + \text{Net Factor Income from Abroad}`&lt;/div&gt;&lt;div&gt;`\text{NNP}_{MP} = GDP_{MP}&amp;nbsp; + \text{Net Factor Income from Abroad} –\text{Depreciation}`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="1030" width="510" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-92" target="DeuK-r0RuM_mpVfZK10v-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-92" value="Net National Product at Market Prices(NNPMP) is a measure of the market value of all&amp;nbsp; final&amp;nbsp; economic&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services,&amp;nbsp; produced&amp;nbsp; by&amp;nbsp; normal&amp;nbsp; residents&amp;nbsp; within&amp;nbsp; the domestic territory of a country including Net Factor Income from Abroad during an accounting year excluding depreciation. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="915" width="280" height="90" as="geometry" />
+          <mxGeometry x="160" y="920" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
