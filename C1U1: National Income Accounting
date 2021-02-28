@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T18:00:00.706Z" agent="5.0 (X11)" etag="ss_8suZ1AMRoydSU9szK" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T18:54:26.236Z" agent="5.0 (X11)" etag="vl8KWwuBte7i3zgIzxTe" version="14.4.3" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="1703" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1881" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,8 +58,32 @@
         <mxCell id="DeuK-r0RuM_mpVfZK10v-16" value="Gross National Product (GNP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-19" target="DeuK-r0RuM_mpVfZK10v-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-19" value="Gross&amp;nbsp; domestic&amp;nbsp; product&amp;nbsp; (GDP)&amp;nbsp; is&amp;nbsp; a&amp;nbsp; measure&amp;nbsp; of&amp;nbsp; the&amp;nbsp; market&amp;nbsp; value&amp;nbsp; of&amp;nbsp; all&amp;nbsp; final&amp;nbsp; economic&amp;nbsp;&amp;nbsp; goods&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; services,&amp;nbsp;&amp;nbsp; gross&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; depreciation,&amp;nbsp;&amp;nbsp; produced&amp;nbsp;&amp;nbsp; within&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; domestic&amp;nbsp; territory&amp;nbsp; of&amp;nbsp; a&amp;nbsp; country&amp;nbsp; during&amp;nbsp; a&amp;nbsp; given&amp;nbsp; time&amp;nbsp; period.&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="420" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-21" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="530" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DeuK-r0RuM_mpVfZK10v-21">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-23" value="Whats included" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="DeuK-r0RuM_mpVfZK10v-22">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-24" value="whats not included" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="DeuK-r0RuM_mpVfZK10v-22">
+          <mxGeometry x="140" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DeuK-r0RuM_mpVfZK10v-21">
+          <mxGeometry y="40" width="280" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-26" value="Only goods and services produced domestically (i.e including capital goods)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="DeuK-r0RuM_mpVfZK10v-25">
+          <mxGeometry width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-27" value="&lt;div&gt;1) sale of used goods&lt;/div&gt;&lt;div&gt;2) sale of illegal goods&lt;/div&gt;&lt;div&gt;3) intermediary goods(cuz they will be counted in final goods)&lt;/div&gt;&lt;div&gt;4) non-economic production(hobbies, house keeping)&lt;/div&gt;&lt;div&gt;5) financial assets like stocks, bonds&lt;/div&gt;&lt;div&gt;6) inputs&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="DeuK-r0RuM_mpVfZK10v-25">
+          <mxGeometry x="140" width="140" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
