@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T18:54:26.236Z" agent="5.0 (X11)" etag="vl8KWwuBte7i3zgIzxTe" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T21:52:31.003Z" agent="5.0 (X11)" etag="R8ke_AtyUV93_LORV5rB" version="14.4.3" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="1881" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,6 +64,12 @@
         <mxCell id="DeuK-r0RuM_mpVfZK10v-19" value="Gross&amp;nbsp; domestic&amp;nbsp; product&amp;nbsp; (GDP)&amp;nbsp; is&amp;nbsp; a&amp;nbsp; measure&amp;nbsp; of&amp;nbsp; the&amp;nbsp; market&amp;nbsp; value&amp;nbsp; of&amp;nbsp; all&amp;nbsp; final&amp;nbsp; economic&amp;nbsp;&amp;nbsp; goods&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; services,&amp;nbsp;&amp;nbsp; gross&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; depreciation,&amp;nbsp;&amp;nbsp; produced&amp;nbsp;&amp;nbsp; within&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; domestic&amp;nbsp; territory&amp;nbsp; of&amp;nbsp; a&amp;nbsp; country&amp;nbsp; during&amp;nbsp; a&amp;nbsp; given&amp;nbsp; time&amp;nbsp; period.&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="420" width="280" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-21" target="DeuK-r0RuM_mpVfZK10v-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-21" target="DeuK-r0RuM_mpVfZK10v-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-21" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="-240" y="530" width="280" height="250" as="geometry" />
         </mxCell>
@@ -84,6 +90,24 @@
         </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-27" value="&lt;div&gt;1) sale of used goods&lt;/div&gt;&lt;div&gt;2) sale of illegal goods&lt;/div&gt;&lt;div&gt;3) intermediary goods(cuz they will be counted in final goods)&lt;/div&gt;&lt;div&gt;4) non-economic production(hobbies, house keeping)&lt;/div&gt;&lt;div&gt;5) financial assets like stocks, bonds&lt;/div&gt;&lt;div&gt;6) inputs&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="DeuK-r0RuM_mpVfZK10v-25">
           <mxGeometry x="140" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-31" target="DeuK-r0RuM_mpVfZK10v-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-31" value="&lt;div&gt;Real&amp;nbsp; GDP&lt;/div&gt;(GDP at constant price)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="840" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-32" target="DeuK-r0RuM_mpVfZK10v-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-32" value="&lt;div&gt;Nominal&amp;nbsp; GDP&lt;/div&gt;(GDP at current prices)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="840" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-35" value="When&amp;nbsp; GDP&amp;nbsp; is&amp;nbsp; estimated&amp;nbsp; on&amp;nbsp; the&amp;nbsp; basis&amp;nbsp; of&amp;nbsp; current&amp;nbsp; year’s&amp;nbsp; market&amp;nbsp; prices,&amp;nbsp; it&amp;nbsp; is&amp;nbsp; called&amp;nbsp; ‘nominal GDP’ or ‘GDP at current prices’." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="900" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-37" value="&lt;div&gt;GDP measured in the prices of the base year&lt;/div&gt;eg: if 205 is kept as the base year then that years price will be kept constant to calculate RGDP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="900" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
