@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T20:08:24.533Z" agent="5.0 (X11)" etag="KAtCYwjlWBpmrTJc4pEP" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T16:11:04.040Z" agent="5.0 (X11)" etag="HkuILI1wrYV2apE0gha8" version="14.4.3" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1445" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,10 +247,10 @@
         <mxCell id="DeuK-r0RuM_mpVfZK10v-27" value="&lt;div&gt;1) sale of used goods&lt;/div&gt;&lt;div&gt;2) sale of illegal goods&lt;/div&gt;&lt;div&gt;3) intermediary goods(cuz they will be counted in final goods)&lt;/div&gt;&lt;div&gt;4) non-economic production(hobbies, house keeping)&lt;/div&gt;&lt;div&gt;5) financial assets like stocks, bonds&lt;/div&gt;&lt;div&gt;6) inputs&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="DeuK-r0RuM_mpVfZK10v-25" vertex="1">
           <mxGeometry x="140" width="140" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="SH0EK-gtSCAdAVg-5snC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-104" target="SH0EK-gtSCAdAVg-5snC-1" visible="0">
+        <mxCell id="SH0EK-gtSCAdAVg-5snC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DeuK-r0RuM_mpVfZK10v-104" target="SH0EK-gtSCAdAVg-5snC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeuK-r0RuM_mpVfZK10v-104" value="Gross Domestic Product (`GDP_{FC}`)" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="DeuK-r0RuM_mpVfZK10v-104" value="Gross Domestic Product (`GDP_{FC}`)" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="130" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-105" value="" style="swimlane;startSize=0;" parent="1" vertex="1" visible="0">
@@ -279,6 +279,9 @@
         <mxCell id="DeuK-r0RuM_mpVfZK10v-67" value="1) Foreign residents or foreign companies income/profits/production in india" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="DeuK-r0RuM_mpVfZK10v-65" vertex="1">
           <mxGeometry x="140" width="140" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DeuK-r0RuM_mpVfZK10v-109" target="odwpZeZwMHebjpMu6Clq-7" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeuK-r0RuM_mpVfZK10v-109" value="Gross National Product (`GNP_{FC}`)" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="410" y="360" width="120" height="40" as="geometry" />
         </mxCell>
@@ -291,20 +294,95 @@
             <mxPoint x="180" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SH0EK-gtSCAdAVg-5snC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SH0EK-gtSCAdAVg-5snC-1" target="SH0EK-gtSCAdAVg-5snC-4" visible="0">
+        <mxCell id="SH0EK-gtSCAdAVg-5snC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SH0EK-gtSCAdAVg-5snC-1" target="SH0EK-gtSCAdAVg-5snC-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SH0EK-gtSCAdAVg-5snC-1" value="&lt;div&gt;Market Price = Factor Cost + Net Indirect Taxes&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Market Price&amp;nbsp; = Factor Cost + Indirect Taxes –&amp;nbsp;&amp;nbsp; Subsidies&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="SH0EK-gtSCAdAVg-5snC-1" value="&lt;div&gt;Market Price = Factor Cost + Net Indirect Taxes&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Market Price&amp;nbsp; = Factor Cost + Indirect Taxes –&amp;nbsp;&amp;nbsp; Subsidies&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="420" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SH0EK-gtSCAdAVg-5snC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SH0EK-gtSCAdAVg-5snC-4" target="SH0EK-gtSCAdAVg-5snC-6" visible="0">
+        <mxCell id="SH0EK-gtSCAdAVg-5snC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SH0EK-gtSCAdAVg-5snC-4" target="SH0EK-gtSCAdAVg-5snC-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SH0EK-gtSCAdAVg-5snC-4" value="&lt;div&gt;Factor Cost = Market Price - Net Indirect Taxes&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Factor Cost&amp;nbsp; = Market Price -&amp;nbsp;&amp;nbsp; Indirect Taxes + Subsidies&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="SH0EK-gtSCAdAVg-5snC-4" value="&lt;div&gt;Factor Cost = Market Price - Net Indirect Taxes&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Factor Cost&amp;nbsp; = Market Price -&amp;nbsp;&amp;nbsp; Indirect Taxes + Subsidies&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="480" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SH0EK-gtSCAdAVg-5snC-6" value="&lt;div&gt;Gross Domestic Product at Factor Cost (GDPFC) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;= GDP MP – Indirect Taxes + Subsidies &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;= Compensation of employees+ Operating Surplus (rent + interest+ profit)+ Mixed Income of Self-&amp;nbsp;&amp;nbsp; employed+ Depreciation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" visible="0" parent="1">
+        <mxCell id="odwpZeZwMHebjpMu6Clq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SH0EK-gtSCAdAVg-5snC-6" target="odwpZeZwMHebjpMu6Clq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SH0EK-gtSCAdAVg-5snC-6" value="&lt;div&gt;Gross Domestic Product at Factor Cost (GDPFC) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;= GDP MP – Indirect Taxes + Subsidies &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;= Compensation of employees+ Operating Surplus (rent + interest+ profit)+ Mixed Income of Self-&amp;nbsp;&amp;nbsp; employed+ Depreciation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="35" y="540" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-1" target="odwpZeZwMHebjpMu6Clq-3" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-1" value="Personal Income" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="560" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-3" value="Personal income is the amount of money collectively received by the inhabitants of a country. Sources of personal income include money earned from employment, dividends and distributions paid by investments, rents derived from property ownership, and profit sharing from businesses." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="490" y="420" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-5" value="&lt;div&gt;Net &lt;br&gt;&lt;/div&gt;&lt;div&gt;Domestic Product &lt;br&gt;&lt;/div&gt;&lt;div&gt;(`NDP_{FC}`)&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="130" y="680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-7" value="&lt;div&gt;Net &lt;br&gt;&lt;/div&gt;&lt;div&gt;National Product &lt;br&gt;&lt;/div&gt;&lt;div&gt;(`\text{NNP}_{FC}`)&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="410" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-9" target="odwpZeZwMHebjpMu6Clq-10" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-9" value="Per Capita Income" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="710" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-10" value="The GDP per capita is a measure of a country&#39;s economic output per person." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="640" y="420" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-12" target="odwpZeZwMHebjpMu6Clq-19" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-12" value="&lt;div&gt;Disposable &lt;br&gt;&lt;/div&gt;&lt;div&gt;Personal Income &lt;br&gt;&lt;/div&gt;&lt;div&gt;(`DI`)&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="650" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-14" target="odwpZeZwMHebjpMu6Clq-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-14" value="Net National Disposable Income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="560" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-15" target="odwpZeZwMHebjpMu6Clq-28" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-15" value="Gross&amp;nbsp; National&amp;nbsp; Disposable&amp;nbsp; Income&amp;nbsp; (GNDI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="745" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-19" target="odwpZeZwMHebjpMu6Clq-23" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-19" value="Disposable personal income is a measure of amount of money in the hands of the&amp;nbsp; individuals&amp;nbsp; that&amp;nbsp; is&amp;nbsp; available&amp;nbsp; for&amp;nbsp; their&amp;nbsp; consumption&amp;nbsp; or&amp;nbsp; savings. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="575" y="530" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-23" target="odwpZeZwMHebjpMu6Clq-14" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-23" target="odwpZeZwMHebjpMu6Clq-15" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-23" value="DI = PI - Personal Income Taxes – Non tax payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="560" y="610" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-26" value="NDI is to know what is the amount of goods and services the domestic economy has at its disposal." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="540" y="770" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-28" value="&amp;nbsp;Gross national disposable income measures the income available to the total economy for final consumption and gross saving " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="725" y="770" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="odwpZeZwMHebjpMu6Clq-32" target="odwpZeZwMHebjpMu6Clq-33" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-32" value="Private Income" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="830" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="odwpZeZwMHebjpMu6Clq-33" value="Private&amp;nbsp; income&amp;nbsp; is&amp;nbsp; a&amp;nbsp; measure&amp;nbsp; of&amp;nbsp; the&amp;nbsp; income&amp;nbsp; (both&amp;nbsp; factor&amp;nbsp; income&amp;nbsp; and&amp;nbsp; transfer&amp;nbsp; income)&amp;nbsp; which&amp;nbsp; accrues&amp;nbsp; to&amp;nbsp; private&amp;nbsp; sector&amp;nbsp; from&amp;nbsp; all&amp;nbsp; sources&amp;nbsp; within&amp;nbsp; and&amp;nbsp; outside&amp;nbsp; the&amp;nbsp; country. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="790" y="510" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
