@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T20:35:57.619Z" agent="5.0 (X11)" etag="ARQE4j3_k-8WQnx38JoX" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T20:36:42.627Z" agent="5.0 (X11)" etag="l-Yv1HFjINF22MSG8Kz3" version="14.7.0" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="4645" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4438" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -487,61 +487,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-3" value="&lt;div&gt;Formulas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2500" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="-2500" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-4" target="eDKoylN6W1mRxu2Zqgho-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-4" value="`GDP_(MP) = \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports)}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2855" y="310" width="830" height="40" as="geometry" />
+          <mxGeometry x="-2855" y="340" width="830" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-9" target="eDKoylN6W1mRxu2Zqgho-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-9" value="&lt;div&gt;`GNP_(MP) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) + (Receipts - payments) to abroad}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`GNP_(MP) = GDP_(MP) + \text{Net factor income form abroad}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2980" y="480" width="1080" height="100" as="geometry" />
+          <mxGeometry x="-2980" y="510" width="1080" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-10" target="eDKoylN6W1mRxu2Zqgho-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-10" value="&lt;div&gt;`GDP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) - Income tax - subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;`= GDP_(MP)\text{ - Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2937.5" y="370" width="995" height="90" as="geometry" />
+          <mxGeometry x="-2937.5" y="400" width="995" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-15" target="eDKoylN6W1mRxu2Zqgho-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-15" value="&lt;div&gt;`GNP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) + (Receipts - payments) to abroad - Income tax + subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`GNP_(FC) = GNP_(MP) - \text{Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3060" y="600" width="1240" height="90" as="geometry" />
+          <mxGeometry x="-3060" y="630" width="1240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-17" target="eDKoylN6W1mRxu2Zqgho-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-17" value="`NDP_(MP) = GDP_(MP) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2597.5" y="710" width="315" height="40" as="geometry" />
+          <mxGeometry x="-2597.5" y="740" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-21" target="eDKoylN6W1mRxu2Zqgho-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-21" value="`NDP_(FC) = GDP_(FC) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2597.5" y="770" width="315" height="40" as="geometry" />
+          <mxGeometry x="-2597.5" y="800" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-22" value="`\text{NNP}_(MP) = GNP_(MP) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2597.5" y="830" width="315" height="40" as="geometry" />
+          <mxGeometry x="-2597.5" y="860" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-23" target="eDKoylN6W1mRxu2Zqgho-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-23" value="&lt;div&gt;`\text{NNP}_(FC) = \text{NNP}_(FC) - \text{Depreciation}`&lt;/div&gt;&lt;div&gt;`\text{NNP}_(FC)= \text{National income}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2597.5" y="900" width="315" height="40" as="geometry" />
+          <mxGeometry x="-2597.5" y="940" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-28" target="eDKoylN6W1mRxu2Zqgho-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-28" value="Value added method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1660" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-29" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-1680" y="330" width="400" height="280" as="geometry" />
+          <mxGeometry x="-1800" y="340" width="400" height="280" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-29">
           <mxGeometry width="400" height="40" as="geometry" />
@@ -610,49 +610,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-53" value="Income method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="245" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1000" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-54" value="&lt;div&gt;`\text{net national income} = \text{Rent + wages Interest + Profit + Mixed income + net factor income from abroad} `&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Operating Surplus = Rent + interest + profit}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Net national income} = \text{Operating surplus + Compensation ot employees + Mixed income + Net income from abroad}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1240" y="305" width="840" height="110" as="geometry" />
+          <mxGeometry x="-1360" y="340" width="840" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-56" target="eDKoylN6W1mRxu2Zqgho-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-56" value="Personal income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2500" y="960" width="120" height="40" as="geometry" />
+          <mxGeometry x="-2500" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-58" target="eDKoylN6W1mRxu2Zqgho-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-58" value="&lt;div&gt;PI = NI - Undistributed profits - Net interest payments made by households - Corporate Tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;+Transfer Payments to the households from firms and government.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2720" y="1080" width="560" height="40" as="geometry" />
+          <mxGeometry x="-2720" y="1120" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-59" target="eDKoylN6W1mRxu2Zqgho-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-59" value="PI =&amp;nbsp;&amp;nbsp; National Income + income received but not earned – income earned but not received." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2720" y="1020" width="560" height="40" as="geometry" />
+          <mxGeometry x="-2720" y="1060" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-62" target="eDKoylN6W1mRxu2Zqgho-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-62" value="Disposable Personal Income (DI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2500" y="1140" width="120" height="40" as="geometry" />
+          <mxGeometry x="-2500" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-65" target="eDKoylN6W1mRxu2Zqgho-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-65" value="DI = PI - Personal Income Taxes – Non tax payments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2600" y="1200" width="320" height="40" as="geometry" />
+          <mxGeometry x="-2600" y="1240" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-67" target="eDKoylN6W1mRxu2Zqgho-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-67" value="Private Income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2500" y="1260" width="120" height="40" as="geometry" />
+          <mxGeometry x="-2500" y="1300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-68" value="Private&amp;nbsp; Income&amp;nbsp; =&amp;nbsp; Factor&amp;nbsp; income&amp;nbsp; from&amp;nbsp; net&amp;nbsp; domestic&amp;nbsp; product&amp;nbsp; accruing&amp;nbsp; to&amp;nbsp; the&amp;nbsp; private&amp;nbsp; sector&amp;nbsp; +&amp;nbsp;&amp;nbsp;&amp;nbsp; Net&amp;nbsp; factor&amp;nbsp; income&amp;nbsp; from&amp;nbsp; abroad&amp;nbsp; +&amp;nbsp; National&amp;nbsp; debt&amp;nbsp; interest&amp;nbsp; +&amp;nbsp; Current&amp;nbsp; transfers&amp;nbsp; from&amp;nbsp; government&amp;nbsp; +&amp;nbsp; Other&amp;nbsp; net&amp;nbsp; transfers&amp;nbsp; from&amp;nbsp; the&amp;nbsp; rest&amp;nbsp; of&amp;nbsp; the&amp;nbsp; world." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2720" y="1320" width="560" height="50" as="geometry" />
+          <mxGeometry x="-2720" y="1360" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
