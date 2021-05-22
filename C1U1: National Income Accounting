@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T20:01:34.692Z" agent="5.0 (X11)" etag="iimkCbxegoOm_RkhTqw1" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T20:09:02.898Z" agent="5.0 (X11)" etag="0RkcvyzLWn7KovKKVYCm" version="14.7.0" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="4865" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4438" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -606,8 +606,14 @@
         <mxCell id="eDKoylN6W1mRxu2Zqgho-50" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-48">
           <mxGeometry x="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-53" target="eDKoylN6W1mRxu2Zqgho-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-53" value="Income method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-880" y="245" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-54" value="&lt;div&gt;`\text{net national income} = \text{Rent + wages Interest + Profit + Mixed income + net factor income from abroad} `&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Operating Surplus = Rent + interest + profit}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Net national income} = \text{Operating surplus + Compensation ot employees + Mixed income + Net income from abroad}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="305" width="840" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
