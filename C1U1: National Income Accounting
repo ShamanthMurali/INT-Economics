@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T20:09:02.898Z" agent="5.0 (X11)" etag="0RkcvyzLWn7KovKKVYCm" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T20:34:03.930Z" agent="5.0 (X11)" etag="BUbrFsys1Bz5r5H2YsIV" version="14.7.0" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
     <mxGraphModel dx="4438" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -525,14 +525,14 @@
         <mxCell id="eDKoylN6W1mRxu2Zqgho-21" value="`NDP_(FC) = GDP_(FC) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2597.5" y="770" width="315" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-22" target="eDKoylN6W1mRxu2Zqgho-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-22" value="`\text{NNP}_(MP) = GNP_(MP) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2597.5" y="830" width="315" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-23" value="`\text{NNP}_(FC) = \text{NNP}_(FC) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2597.5" y="890" width="315" height="40" as="geometry" />
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-23" target="eDKoylN6W1mRxu2Zqgho-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-23" value="&lt;div&gt;`\text{NNP}_(FC) = \text{NNP}_(FC) - \text{Depreciation}`&lt;/div&gt;&lt;div&gt;`\text{NNP}_(FC)= \text{National income}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2597.5" y="900" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-28" target="eDKoylN6W1mRxu2Zqgho-30">
           <mxGeometry relative="1" as="geometry" />
@@ -614,6 +614,21 @@
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-54" value="&lt;div&gt;`\text{net national income} = \text{Rent + wages Interest + Profit + Mixed income + net factor income from abroad} `&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Operating Surplus = Rent + interest + profit}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Net national income} = \text{Operating surplus + Compensation ot employees + Mixed income + Net income from abroad}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="305" width="840" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-56" target="eDKoylN6W1mRxu2Zqgho-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-56" value="Personal income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2500" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-58" value="&lt;div&gt;PI = NI - Undistributed profits - Net interest payments made by households - Corporate Tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;+Transfer Payments to the households from firms and government.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2720" y="1080" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-59" target="eDKoylN6W1mRxu2Zqgho-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-59" value="PI =&amp;nbsp;&amp;nbsp; National Income + income received but not earned – income earned but not received." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2720" y="1020" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
