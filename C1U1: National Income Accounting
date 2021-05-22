@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T19:41:00.477Z" agent="5.0 (X11)" etag="lT5UELJ_tMqmPMCTXVSM" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T20:01:34.692Z" agent="5.0 (X11)" etag="iimkCbxegoOm_RkhTqw1" version="14.7.0" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="3159" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4865" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -487,34 +487,127 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-3" value="&lt;div&gt;Formulas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-2500" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-4" target="eDKoylN6W1mRxu2Zqgho-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-4" value="`GDP_(MP) = \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports)}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1355" y="300" width="830" height="40" as="geometry" />
+          <mxGeometry x="-2855" y="310" width="830" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-9" target="eDKoylN6W1mRxu2Zqgho-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-9" value="&lt;div&gt;`GNP_(MP) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) + (Receipts - payments) to abroad}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`GNP_(MP) = GDP_(MP) + \text{Net factor income form abroad}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="470" width="1080" height="100" as="geometry" />
+          <mxGeometry x="-2980" y="480" width="1080" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-10" target="eDKoylN6W1mRxu2Zqgho-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-10" value="&lt;div&gt;`GDP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) - Income tax - subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;`= GDP_(MP)\text{ - Income tax - subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1437.5" y="360" width="995" height="90" as="geometry" />
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-10" value="&lt;div&gt;`GDP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) - Income tax - subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;`= GDP_(MP)\text{ - Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2937.5" y="370" width="995" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-15" target="eDKoylN6W1mRxu2Zqgho-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-15" value="&lt;div&gt;`GNP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) + (Receipts - payments) to abroad - Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="590" width="1240" height="40" as="geometry" />
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-15" value="&lt;div&gt;`GNP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) + (Receipts - payments) to abroad - Income tax + subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`GNP_(FC) = GNP_(MP) - \text{Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3060" y="600" width="1240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-17" value="`GDP_(MP) = \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports)}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1355" y="650" width="830" height="40" as="geometry" />
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-17" target="eDKoylN6W1mRxu2Zqgho-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-17" value="`NDP_(MP) = GDP_(MP) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2597.5" y="710" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-21" target="eDKoylN6W1mRxu2Zqgho-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-21" value="`NDP_(FC) = GDP_(FC) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2597.5" y="770" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-22" target="eDKoylN6W1mRxu2Zqgho-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-22" value="`\text{NNP}_(MP) = GNP_(MP) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2597.5" y="830" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-23" value="`\text{NNP}_(FC) = \text{NNP}_(FC) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2597.5" y="890" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-28" target="eDKoylN6W1mRxu2Zqgho-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-28" value="Value added method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-29" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="330" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-29">
+          <mxGeometry width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-31" value="Output from primary sector" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-30">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-32" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-30">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-29">
+          <mxGeometry y="40" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-34" value="(-) Intermediate consumption in primary sector" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-33">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-35" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-33">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-29">
+          <mxGeometry y="80" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-37" value="(+) value of output in secondary sector" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-36">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-38" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-36">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-29">
+          <mxGeometry y="120" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-40" value="(-) Intermediate consumption in secondary sector" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-39">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-41" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-39">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-29">
+          <mxGeometry y="160" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-43" value="(+) value of output in tertiary sector" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-42">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-44" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-42">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-45" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-29">
+          <mxGeometry y="200" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-46" value="(-) Intermediate consumption in tertiary sector" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-45">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-47" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-45">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-48" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-29">
+          <mxGeometry y="240" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-49" value="Gross value added = GDP = " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-48">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-50" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="eDKoylN6W1mRxu2Zqgho-48">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-53" value="Income method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
