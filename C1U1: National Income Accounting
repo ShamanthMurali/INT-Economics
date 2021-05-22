@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T20:34:03.930Z" agent="5.0 (X11)" etag="BUbrFsys1Bz5r5H2YsIV" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T20:35:57.619Z" agent="5.0 (X11)" etag="ARQE4j3_k-8WQnx38JoX" version="14.7.0" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="4438" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4645" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -621,6 +621,9 @@
         <mxCell id="eDKoylN6W1mRxu2Zqgho-56" value="Personal income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2500" y="960" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-58" target="eDKoylN6W1mRxu2Zqgho-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-58" value="&lt;div&gt;PI = NI - Undistributed profits - Net interest payments made by households - Corporate Tax &lt;br&gt;&lt;/div&gt;&lt;div&gt;+Transfer Payments to the households from firms and government.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2720" y="1080" width="560" height="40" as="geometry" />
         </mxCell>
@@ -629,6 +632,27 @@
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-59" value="PI =&amp;nbsp;&amp;nbsp; National Income + income received but not earned – income earned but not received." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2720" y="1020" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-62" target="eDKoylN6W1mRxu2Zqgho-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-62" value="Disposable Personal Income (DI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2500" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-65" target="eDKoylN6W1mRxu2Zqgho-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-65" value="DI = PI - Personal Income Taxes – Non tax payments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2600" y="1200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eDKoylN6W1mRxu2Zqgho-67" target="eDKoylN6W1mRxu2Zqgho-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-67" value="Private Income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2500" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-68" value="Private&amp;nbsp; Income&amp;nbsp; =&amp;nbsp; Factor&amp;nbsp; income&amp;nbsp; from&amp;nbsp; net&amp;nbsp; domestic&amp;nbsp; product&amp;nbsp; accruing&amp;nbsp; to&amp;nbsp; the&amp;nbsp; private&amp;nbsp; sector&amp;nbsp; +&amp;nbsp;&amp;nbsp;&amp;nbsp; Net&amp;nbsp; factor&amp;nbsp; income&amp;nbsp; from&amp;nbsp; abroad&amp;nbsp; +&amp;nbsp; National&amp;nbsp; debt&amp;nbsp; interest&amp;nbsp; +&amp;nbsp; Current&amp;nbsp; transfers&amp;nbsp; from&amp;nbsp; government&amp;nbsp; +&amp;nbsp; Other&amp;nbsp; net&amp;nbsp; transfers&amp;nbsp; from&amp;nbsp; the&amp;nbsp; rest&amp;nbsp; of&amp;nbsp; the&amp;nbsp; world." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2720" y="1320" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
