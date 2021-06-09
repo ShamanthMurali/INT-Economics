@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T07:58:04.593Z" agent="5.0 (X11)" etag="qSImcNuuhf47zWffxKJz" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T08:00:52.665Z" agent="5.0 (X11)" etag="w4MFF5Or37m8pNzWt9Ej" version="14.7.6" type="github">
   <diagram id="SgSrBg5HBLX9Gzpwlofn" name="Page-1">
-    <mxGraphModel dx="7085" dy="3135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2097" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="325" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqwuIrNhXwCuvdxYolj--2" value="3 sector" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="1780" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqwuIrNhXwCuvdxYolj--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iqwuIrNhXwCuvdxYolj--3" target="iqwuIrNhXwCuvdxYolj--7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="-770" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqwuIrNhXwCuvdxYolj--6" value="4 sector" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="1980" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqwuIrNhXwCuvdxYolj--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iqwuIrNhXwCuvdxYolj--7" target="iqwuIrNhXwCuvdxYolj--21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="160" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqwuIrNhXwCuvdxYolj--8" value="investment multiplier" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-770" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="-327" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqwuIrNhXwCuvdxYolj--9" value="Determination of equilibrium of income 2 sector" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="380" width="120" height="50" as="geometry" />
@@ -53,10 +53,10 @@
           <mxGeometry x="-470" y="380" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iqwuIrNhXwCuvdxYolj--19" value="&lt;div&gt;1. Consumption&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; investment&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. government&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="110" width="120" height="50" as="geometry" />
+          <mxGeometry x="1780" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iqwuIrNhXwCuvdxYolj--20" value="&lt;div&gt;1. Consumption&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; investment&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. government&lt;/div&gt;&lt;div&gt;4. Imports and exports&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="110" width="140" height="70" as="geometry" />
+          <mxGeometry x="1970" y="140" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PbBjP5dr3FXXEjAXCdFH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iqwuIrNhXwCuvdxYolj--21" target="PbBjP5dr3FXXEjAXCdFH-2">
           <mxGeometry relative="1" as="geometry" />
@@ -255,6 +255,9 @@
         </mxCell>
         <mxCell id="PbBjP5dr3FXXEjAXCdFH-65" value="&lt;div&gt;I &amp;gt; S = Injection&lt;/div&gt;&lt;div&gt;S &amp;gt; I = leakage&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="2610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbBjP5dr3FXXEjAXCdFH-67" value="Investment multiplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
