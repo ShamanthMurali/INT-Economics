@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T11:10:29.043Z" agent="5.0 (X11)" etag="zxGA0N9PtfFP3Asmlk22" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T11:14:02.437Z" agent="5.0 (X11)" etag="qBX-T5OAGCZBafQwfeA2" version="14.7.6" type="github">
   <diagram id="tASYNJEIHVQ-auHKKPOJ" name="Page-1">
-    <mxGraphModel dx="2097" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3968" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,14 +109,26 @@
         <mxCell id="kAFeOXGMNP89W8bKWZrL-31" value="Expansionary finance policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="947.5" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-34" value="&lt;div&gt;Fiscal Policy&lt;/div&gt;&lt;div&gt;(Finance minister)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-34" target="kAFeOXGMNP89W8bKWZrL-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-34" value="Contraction fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1362.5" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-35" value="&lt;div&gt;Fiscal Policy&lt;/div&gt;&lt;div&gt;(Finance minister)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-35" target="kAFeOXGMNP89W8bKWZrL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-35" value="Expansionary finance policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1222.5" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-38" target="kAFeOXGMNP89W8bKWZrL-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAFeOXGMNP89W8bKWZrL-38" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expenditure&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="947.5" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-39" target="kAFeOXGMNP89W8bKWZrL-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kAFeOXGMNP89W8bKWZrL-39" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expenditure&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080.5" y="640" width="120" height="60" as="geometry" />
@@ -132,6 +144,54 @@
             <mxPoint x="1046" y="694" as="sourcePoint" />
             <mxPoint x="1046" y="677" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-44" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1159" y="665" as="sourcePoint" />
+            <mxPoint x="1159" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-45" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="675" as="sourcePoint" />
+            <mxPoint x="1180" y="692" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-46" target="kAFeOXGMNP89W8bKWZrL-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-46" value="Interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-47" target="kAFeOXGMNP89W8bKWZrL-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-47" value="Interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1362.5" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-50" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1319" y="651" as="sourcePoint" />
+            <mxPoint x="1319" y="668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-51" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="668" as="sourcePoint" />
+            <mxPoint x="1460" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-52" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Recession&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-53" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Inflation / Recovery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080.5" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-56" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Recession&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-57" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Inflation / Recovery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355.5" y="700" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
