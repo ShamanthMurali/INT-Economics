@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T10:59:59.838Z" agent="5.0 (X11)" etag="LucqrdX8J0GtN3G8pp6Q" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T11:10:29.043Z" agent="5.0 (X11)" etag="zxGA0N9PtfFP3Asmlk22" version="14.7.6" type="github">
   <diagram id="tASYNJEIHVQ-auHKKPOJ" name="Page-1">
     <mxGraphModel dx="2097" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,8 +16,11 @@
         <mxCell id="kAFeOXGMNP89W8bKWZrL-1" value="Public finance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-3" target="kAFeOXGMNP89W8bKWZrL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kAFeOXGMNP89W8bKWZrL-3" value="Stabilization Functions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="1155" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kAFeOXGMNP89W8bKWZrL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-4" target="kAFeOXGMNP89W8bKWZrL-15">
           <mxGeometry relative="1" as="geometry" />
@@ -54,6 +57,81 @@
         </mxCell>
         <mxCell id="kAFeOXGMNP89W8bKWZrL-17" value="&lt;div&gt;&amp;nbsp; &lt;u&gt;&lt;b&gt;redistribution&amp;nbsp; function&amp;nbsp; (or&amp;nbsp; market&amp;nbsp; intervention&amp;nbsp; for&amp;nbsp; socio-economic reasons) performed by governments are: &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•taxation policies of the government whereby progressive taxation of the rich is combined with provision of subsidy to the poor households &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•proceeds&amp;nbsp;&amp;nbsp; from&amp;nbsp;&amp;nbsp; progressive&amp;nbsp;&amp;nbsp; taxes&amp;nbsp;&amp;nbsp; used&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp; financing&amp;nbsp;&amp;nbsp; public&amp;nbsp;&amp;nbsp; services,&amp;nbsp;&amp;nbsp; especially those that benefit low-income households (for example, supply of essential food grains at highly subsidized prices to BPL households)&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•employment&amp;nbsp; reservations&amp;nbsp; and&amp;nbsp; preferences&amp;nbsp; to&amp;nbsp; protect&amp;nbsp; certain&amp;nbsp; segments&amp;nbsp; of&amp;nbsp; the population, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•unemployment&amp;nbsp; benefits&amp;nbsp; and&amp;nbsp; transfer&amp;nbsp; payments&amp;nbsp; to&amp;nbsp; provide&amp;nbsp; support&amp;nbsp; to&amp;nbsp; the&amp;nbsp; underprivileged, dependent, and physically handicapped, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•families&amp;nbsp; below&amp;nbsp; the&amp;nbsp; poverty&amp;nbsp; line&amp;nbsp; are&amp;nbsp; provided&amp;nbsp; with&amp;nbsp; monetary&amp;nbsp; aid&amp;nbsp; and&amp;nbsp; aid&amp;nbsp; in&amp;nbsp; kind &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•regulation of manufacture and sale of certain products to ensure health and well-being of consumers, and •special schemes for backward regions and for the vulnerable sections of the population &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="210" y="425" width="510" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-19" target="kAFeOXGMNP89W8bKWZrL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-19" value="&lt;div&gt;it is one of the most vital function of fiscal policy and monetary policy which emphasizes on optimum level of resource allocation &lt;br&gt;&lt;/div&gt;&lt;div&gt;in order to attain the desired level of growth and development&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="140" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-21" target="kAFeOXGMNP89W8bKWZrL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-21" value="&lt;div&gt;The&amp;nbsp; stabilization&amp;nbsp; function&amp;nbsp; is&amp;nbsp; concerned&amp;nbsp; with&amp;nbsp; the&amp;nbsp; performance&amp;nbsp; of&amp;nbsp; the&amp;nbsp; aggregate&amp;nbsp; economy in terms of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•labour employment and capital utilization, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•overall output and income,&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•general price levels,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•balance of international payments,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•the rate of economic growth. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="220" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-23" target="kAFeOXGMNP89W8bKWZrL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-23" target="kAFeOXGMNP89W8bKWZrL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-23" value="Macro economic policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-25" target="kAFeOXGMNP89W8bKWZrL-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-25" target="kAFeOXGMNP89W8bKWZrL-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-25" value="&lt;div&gt;Monetary policy&lt;/div&gt;&lt;div&gt;(RBI governor)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1292.5" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-26" target="kAFeOXGMNP89W8bKWZrL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-26" target="kAFeOXGMNP89W8bKWZrL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-26" value="&lt;div&gt;Fiscal Policy&lt;/div&gt;&lt;div&gt;(Finance minister)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1012.5" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-30" target="kAFeOXGMNP89W8bKWZrL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-30" value="Contraction fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1082.5" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-31" target="kAFeOXGMNP89W8bKWZrL-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-31" value="Expansionary finance policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-34" value="&lt;div&gt;Fiscal Policy&lt;/div&gt;&lt;div&gt;(Finance minister)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1362.5" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-35" value="&lt;div&gt;Fiscal Policy&lt;/div&gt;&lt;div&gt;(Finance minister)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-38" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expenditure&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-39" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expenditure&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080.5" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-40" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1029" y="650" as="sourcePoint" />
+            <mxPoint x="1029" y="667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-41" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1046" y="694" as="sourcePoint" />
+            <mxPoint x="1046" y="677" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
