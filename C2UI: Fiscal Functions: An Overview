@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T09:19:45.479Z" agent="5.0 (X11)" version="14.7.6" etag="VmJc3jIcGw9soivvBQ3l" type="github"><diagram id="tASYNJEIHVQ-auHKKPOJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-09T10:50:28.620Z" agent="5.0 (X11)" etag="Oxq_TFlyz9WspPTkUNUS" version="14.7.6" type="github">
+  <diagram id="tASYNJEIHVQ-auHKKPOJ" name="Page-1">
+    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-1" value="Public finance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-3" value="Stabilization Functions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-4" value="Redistribution function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-5" value="Allocation function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
