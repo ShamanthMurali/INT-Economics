@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T10:54:58.812Z" agent="5.0 (X11)" etag="drVg-YeRelHTxNKLt_iq" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T12:41:50.274Z" agent="5.0 (X11)" etag="hr_LqaDJRVyVyToAW3a4" version="14.7.7" type="github">
   <diagram id="PxakexG5ndWzPj7PKFZY" name="Page-1">
-    <mxGraphModel dx="4803" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2941" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,17 @@
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-2" value="Merit Goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-3" target="9Jaz9FJUo0GVrB3KNpO1-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-3" value="Equitable Distribution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="2020" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-4" target="9Jaz9FJUo0GVrB3KNpO1-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-4" value="Correcting Information Failure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="1760" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-5" target="9Jaz9FJUo0GVrB3KNpO1-13">
           <mxGeometry relative="1" as="geometry" />
@@ -219,6 +225,12 @@
         </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-61" value="&lt;div&gt;Public&amp;nbsp; goods&amp;nbsp; possess&amp;nbsp; the&amp;nbsp; characteristics&amp;nbsp; of&amp;nbsp; non&amp;nbsp; excludable.&amp;nbsp;&amp;nbsp;&amp;nbsp; This&amp;nbsp; creates&amp;nbsp; a problem of free rider When goods are prone to free rider problem,&amp;nbsp;&amp;nbsp; such goods&amp;nbsp; will not have markets as no producer will provide such goods Since&amp;nbsp; such&amp;nbsp; goods&amp;nbsp; do&amp;nbsp; not&amp;nbsp; have&amp;nbsp; a market&amp;nbsp; the&amp;nbsp; government&amp;nbsp; has&amp;nbsp; to&amp;nbsp; provide&amp;nbsp; such goods.In case of pure public goods,&amp;nbsp;&amp;nbsp;&amp;nbsp; which have the characteristic of non rival nature and non exclusion,&amp;nbsp; only Government can provide&amp;nbsp; such goods&amp;nbsp; by using general Government tax revenues.Government provides such goods&amp;nbsp; in two ways&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Government&amp;nbsp; provides&amp;nbsp; such&amp;nbsp; goods&amp;nbsp; free&amp;nbsp; of&amp;nbsp; charge.&amp;nbsp; The&amp;nbsp; provision&amp;nbsp; of&amp;nbsp; such goods&amp;nbsp; is&amp;nbsp; funded&amp;nbsp; from&amp;nbsp; Taxes&amp;nbsp; collected&amp;nbsp; by&amp;nbsp; the&amp;nbsp; Government.&amp;nbsp; For&amp;nbsp; example free medical facility is provided by Government. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.Such goods may be provided by private producers on payment of fees.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The&amp;nbsp; fees&amp;nbsp; charged&amp;nbsp; by&amp;nbsp; private&amp;nbsp; producers&amp;nbsp; will&amp;nbsp; be&amp;nbsp; fixed&amp;nbsp; and&amp;nbsp; regulated&amp;nbsp; by&amp;nbsp; the Government.&amp;nbsp; The&amp;nbsp; government&amp;nbsp; will&amp;nbsp; also&amp;nbsp; make&amp;nbsp; laws&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; quality&amp;nbsp; of&amp;nbsp; such goods. For example fees for higher education is fixed by Government in case of private&amp;nbsp; colleges.&amp;nbsp; Private&amp;nbsp; producers&amp;nbsp; construct&amp;nbsp; and&amp;nbsp; maintain&amp;nbsp; roads&amp;nbsp; and&amp;nbsp; toll charges are collected by such private producers.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="9Jaz9FJUo0GVrB3KNpO1-62">
           <mxGeometry y="40" width="400" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-78" value="&lt;div&gt;1. labeling and content disclosures&lt;/div&gt;&lt;div&gt;2. public awareness program&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. regulation on advertisement and setting advertisement standards&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="140" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-80" value="&lt;div&gt;1. Progressive direct taxes&lt;/div&gt;&lt;div&gt;2. differential indirect taxes&lt;/div&gt;&lt;div&gt;3. poverty alleviation programed&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. special schemes for backward segment of our society&lt;/div&gt;&lt;div&gt;5. providing minimal standard of living&lt;/div&gt;&lt;div&gt;6. employment reservation&lt;/div&gt;&lt;div&gt;7. gender sensitive budgeting&lt;/div&gt;&lt;div&gt;8. land reforms&lt;/div&gt;&lt;div&gt;9. removal of black economy.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="140" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
