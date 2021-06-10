@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T06:19:48.571Z" agent="5.0 (X11)" etag="zlGt_jTAw8G8MLpDMCwc" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T07:06:25.552Z" agent="5.0 (X11)" etag="ng3hvxJlR19MEigR0s4B" version="14.7.6" type="github">
   <diagram id="bC11Y3c3_GZaFNSsFz0K" name="Page-1">
-    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,11 +25,114 @@
         <mxCell id="iTKbe5SUne0fed-IwmjX-3" value="Public goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-4" target="iTKbe5SUne0fed-IwmjX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iTKbe5SUne0fed-IwmjX-4" value="Exrternalities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-5" target="iTKbe5SUne0fed-IwmjX-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iTKbe5SUne0fed-IwmjX-5" value="Market Power" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="-400" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-10" value="Market&amp;nbsp; power&amp;nbsp; or&amp;nbsp; monopoly&amp;nbsp; power&amp;nbsp; is&amp;nbsp; the&amp;nbsp; ability&amp;nbsp; of&amp;nbsp; a&amp;nbsp; firm&amp;nbsp; to&amp;nbsp; profitably&amp;nbsp; raise&amp;nbsp; the&amp;nbsp; market&amp;nbsp; price&amp;nbsp; of&amp;nbsp; a&amp;nbsp; good&amp;nbsp; or&amp;nbsp; service&amp;nbsp; over&amp;nbsp; its&amp;nbsp; marginal&amp;nbsp; cost.&amp;nbsp; Firms&amp;nbsp; that&amp;nbsp; have&amp;nbsp; market&amp;nbsp; power are price makers and therefore, can charge a price that gives them positive economic&amp;nbsp; profits.&amp;nbsp; Excessive&amp;nbsp; market&amp;nbsp; power&amp;nbsp; causes&amp;nbsp; the&amp;nbsp; single&amp;nbsp; producer&amp;nbsp; or&amp;nbsp; a&amp;nbsp; small&amp;nbsp; number of producers to produce and sell less output than would be produced in a competitive market. Market power can cause markets to be inefficient because it keeps price higher and output lower than the outcome of equilibrium of supply and&amp;nbsp; demand. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="140" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-12" value="Externalities&amp;nbsp; are&amp;nbsp; also&amp;nbsp; referred&amp;nbsp; to&amp;nbsp; as&amp;nbsp; &#39;spillover&amp;nbsp; effects&#39;,&amp;nbsp; &#39;neighbourhood&amp;nbsp; effects&#39;&amp;nbsp; &#39;third-party&amp;nbsp; effects&#39;&amp;nbsp; or&amp;nbsp; &#39;side-effects&#39;,&amp;nbsp; as&amp;nbsp; the&amp;nbsp; originator&amp;nbsp; of&amp;nbsp; the&amp;nbsp; externality&amp;nbsp;&amp;nbsp;&amp;nbsp; imposes&amp;nbsp; costs or benefits on others who are not responsible for initiating the effect.Externalities may be unidirectional or reciprocal." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-15" target="iTKbe5SUne0fed-IwmjX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-15" value="Negative Consumption Externalities " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-16" target="iTKbe5SUne0fed-IwmjX-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-16" value="Positive Production Externalities " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-17" target="iTKbe5SUne0fed-IwmjX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-17" value="Negative Production Externalities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-18" target="iTKbe5SUne0fed-IwmjX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-18" value="&lt;div&gt;Positive &lt;br&gt;&lt;/div&gt;&lt;div&gt;Consumption Externalities&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-19" target="iTKbe5SUne0fed-IwmjX-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-25" y="600" />
+              <mxPoint x="380" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-19" value="when a factory which produces aluminium&amp;nbsp; discharges untreated waste water into a nearby river and pollutes the water&amp;nbsp; causing&amp;nbsp; health&amp;nbsp; hazards&amp;nbsp; for&amp;nbsp; people&amp;nbsp; who&amp;nbsp; use&amp;nbsp; the&amp;nbsp; water&amp;nbsp; for&amp;nbsp; drinking&amp;nbsp; and&amp;nbsp; bathing.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="420" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-22" target="iTKbe5SUne0fed-IwmjX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-22" value="case of a firm which offers training to its employees for increasing their&amp;nbsp; skills.&amp;nbsp; The&amp;nbsp; firm&amp;nbsp; generates&amp;nbsp; positive&amp;nbsp; benefits&amp;nbsp; on&amp;nbsp; other&amp;nbsp; firms&amp;nbsp; when&amp;nbsp; they&amp;nbsp; hire&amp;nbsp; such&amp;nbsp; workers&amp;nbsp; as&amp;nbsp; they&amp;nbsp; change&amp;nbsp; their&amp;nbsp; jobs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-24" target="iTKbe5SUne0fed-IwmjX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-24" value="smoking&amp;nbsp; cigarettes&amp;nbsp; in&amp;nbsp; public&amp;nbsp; place&amp;nbsp; causing&amp;nbsp; passive&amp;nbsp; smoking&amp;nbsp; by&amp;nbsp; others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="435" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-26" target="iTKbe5SUne0fed-IwmjX-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="600" />
+              <mxPoint x="380" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-26" value="health&amp;nbsp; club&amp;nbsp; by&amp;nbsp; the&amp;nbsp; employees&amp;nbsp; of&amp;nbsp; a&amp;nbsp; firm&amp;nbsp; would&amp;nbsp; result&amp;nbsp; in&amp;nbsp; an external&amp;nbsp; benefit&amp;nbsp; to&amp;nbsp; the&amp;nbsp; firm&amp;nbsp; in&amp;nbsp; the&amp;nbsp; form&amp;nbsp; of&amp;nbsp; increased&amp;nbsp; efficiency&amp;nbsp; and&amp;nbsp; productivity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="435" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-37" target="iTKbe5SUne0fed-IwmjX-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-37" value="Private cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-38" target="iTKbe5SUne0fed-IwmjX-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-38" value="Social cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-39" value="Private Benefit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-40" value="Social Benefit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-41" value="Private&amp;nbsp; cost&amp;nbsp; is&amp;nbsp; the&amp;nbsp; cost&amp;nbsp; faced&amp;nbsp; by&amp;nbsp; the&amp;nbsp; producer&amp;nbsp; or&amp;nbsp; consumer&amp;nbsp; directly&amp;nbsp; involved&amp;nbsp; in&amp;nbsp; a&amp;nbsp; transaction.&amp;nbsp; If&amp;nbsp; we&amp;nbsp; take&amp;nbsp; the&amp;nbsp; case&amp;nbsp; of&amp;nbsp; a&amp;nbsp; producer,&amp;nbsp; his&amp;nbsp; private&amp;nbsp; cost&amp;nbsp; includes&amp;nbsp; direct&amp;nbsp; cost&amp;nbsp; of&amp;nbsp; labour,&amp;nbsp; materials,&amp;nbsp; energy&amp;nbsp; and&amp;nbsp; other&amp;nbsp; indirect&amp;nbsp; overheads." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="800" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-44" target="iTKbe5SUne0fed-IwmjX-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-44" value="&lt;div&gt;Social&amp;nbsp; costs&amp;nbsp; refer&amp;nbsp; to&amp;nbsp; the&amp;nbsp; total&amp;nbsp; costs&amp;nbsp; to&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;the&amp;nbsp; society&amp;nbsp; on&amp;nbsp; account&amp;nbsp; of&amp;nbsp; a&amp;nbsp; production&amp;nbsp; or&amp;nbsp; consumption&amp;nbsp; activity.&amp;nbsp; Social&amp;nbsp; costs&amp;nbsp; are&amp;nbsp; private&amp;nbsp; costs&amp;nbsp; borne&amp;nbsp; by&amp;nbsp; individuals&amp;nbsp; directly&amp;nbsp; involved&amp;nbsp; in&amp;nbsp; a&amp;nbsp; transaction&amp;nbsp; together&amp;nbsp; with&amp;nbsp; the&amp;nbsp; external&amp;nbsp; costs&amp;nbsp; borne&amp;nbsp; by&amp;nbsp; third&amp;nbsp; parties&amp;nbsp; not&amp;nbsp; directly&amp;nbsp; involved&amp;nbsp; in&amp;nbsp; the&amp;nbsp; transaction.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="800" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-46" value="Social Cost = Private Cost + External Cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="940" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
