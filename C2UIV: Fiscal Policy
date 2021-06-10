@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T12:43:57.401Z" agent="5.0 (X11)" version="14.7.7" etag="eMBLcUL6VeVv6DtuscjG" type="github"><diagram id="M30XoS-LUZGrufTWc0ez">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-10T13:10:42.016Z" agent="5.0 (X11)" etag="uzmOPfsA-pUuYpx2ffvJ" version="14.7.7" type="github">
+  <diagram id="M30XoS-LUZGrufTWc0ez" name="Page-1">
+    <mxGraphModel dx="1244" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dq9KQSzSqJeV4EQKBmH2-1" value="Fiscal policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
