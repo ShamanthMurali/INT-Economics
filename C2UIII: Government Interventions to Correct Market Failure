@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T08:50:44.625Z" agent="5.0 (X11)" version="14.7.7" etag="VoTdF3iN7IIr1WwQxtDi" type="github"><diagram id="PxakexG5ndWzPj7PKFZY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-10T08:55:49.627Z" agent="5.0 (X11)" etag="T5DoMgYBHLD1hjdjrlOy" version="14.7.7" type="github">
+  <diagram id="PxakexG5ndWzPj7PKFZY" name="Page-1">
+    <mxGraphModel dx="709" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-1" value="Government Interventions to Correct Market Failure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-2" value="Merit &amp;amp; Demerit Goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-3" value="Equitable Distribution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-4" value="Correcting Information Failure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-5" value="Correct Externalities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-6" target="9Jaz9FJUo0GVrB3KNpO1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-6" value="Minimize Market Power" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-7" target="9Jaz9FJUo0GVrB3KNpO1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-7" value="Govt. measures to protect economy from monopoly power" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="140" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-9" value="&lt;div&gt;1. Rules and regulations&lt;/div&gt;&lt;div&gt;2. Policy and law&lt;/div&gt;&lt;div&gt;3. Anti competitive practices will not be allowed&lt;/div&gt;&lt;div&gt;4. market liberalization&lt;/div&gt;&lt;div&gt;5. price regulation&lt;/div&gt;&lt;div&gt;6. profit or rate return regulation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="200" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
