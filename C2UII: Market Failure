@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T05:27:06.854Z" agent="5.0 (X11)" version="14.7.6" etag="YBq1_i08truTGTfJbFMr" type="github"><diagram id="bC11Y3c3_GZaFNSsFz0K">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-10T06:19:48.571Z" agent="5.0 (X11)" etag="zlGt_jTAw8G8MLpDMCwc" version="14.7.6" type="github">
+  <diagram id="bC11Y3c3_GZaFNSsFz0K" name="Page-1">
+    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iTKbe5SUne0fed-IwmjX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-1" target="iTKbe5SUne0fed-IwmjX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-1" target="iTKbe5SUne0fed-IwmjX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-1" target="iTKbe5SUne0fed-IwmjX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-1" target="iTKbe5SUne0fed-IwmjX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-1" value="Market failure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-2" value="Incomplete information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-3" value="Public goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-4" value="Exrternalities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-5" value="Market Power" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
