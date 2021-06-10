@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T10:13:45.641Z" agent="5.0 (X11)" etag="eviwKMyaseIrJbZAWsgh" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T10:28:48.240Z" agent="5.0 (X11)" etag="bCWmoImOeKToM6aRU6YJ" version="14.7.7" type="github">
   <diagram id="PxakexG5ndWzPj7PKFZY" name="Page-1">
-    <mxGraphModel dx="2734" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2291" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,8 +43,11 @@
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-12" target="9Jaz9FJUo0GVrB3KNpO1-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-12" target="9Jaz9FJUo0GVrB3KNpO1-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-12" value="Positive externalities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-13" target="9Jaz9FJUo0GVrB3KNpO1-23">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +62,7 @@
           <mxGeometry x="-200" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-18" value="subsidies" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="320" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-21" value="Ban" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="120" height="40" as="geometry" />
@@ -106,6 +109,15 @@
         </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-37" value="eg. auto driver have to get permission to drive auto. and govt can regulate the number of drivers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-650" y="225" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Jaz9FJUo0GVrB3KNpO1-39" target="9Jaz9FJUo0GVrB3KNpO1-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-39" value="Government directly entering in to production such goods" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="525" y="240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Jaz9FJUo0GVrB3KNpO1-41" value="In the case of products and services whose externalities are vastly positive and pervasive, Government enters the market directly as an entrepreneur to produce and provide them.For example Fundamental research to protect the futuristic technology interest of the society is largely funded by government as it has a very vast positive externalities. Programmes such as a forestation, reforestation treatment of sewage etc&amp;nbsp; are mostly done&amp;nbsp;&amp;nbsp; mostly done by government.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="330" width="240" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
