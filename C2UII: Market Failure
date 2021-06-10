@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T07:33:08.677Z" agent="5.0 (X11)" etag="FuNmIhREO74GLsmIOLzo" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T07:44:47.195Z" agent="5.0 (X11)" etag="q5OwN1tAaefINf7BRbv_" version="14.7.6" type="github">
   <diagram id="bC11Y3c3_GZaFNSsFz0K" name="Page-1">
-    <mxGraphModel dx="2315" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,6 +245,9 @@
         <mxCell id="iTKbe5SUne0fed-IwmjX-65" value="Quasi public goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iTKbe5SUne0fed-IwmjX-66" target="iTKbe5SUne0fed-IwmjX-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iTKbe5SUne0fed-IwmjX-66" value="Private goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="160" width="120" height="40" as="geometry" />
         </mxCell>
@@ -253,6 +256,9 @@
         </mxCell>
         <mxCell id="iTKbe5SUne0fed-IwmjX-68" value="Global public goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTKbe5SUne0fed-IwmjX-69" value="&lt;div&gt;•Private&amp;nbsp; goods&amp;nbsp; refer&amp;nbsp; to&amp;nbsp; those&amp;nbsp; goods&amp;nbsp; that&amp;nbsp; yield&amp;nbsp; utility&amp;nbsp; to&amp;nbsp; people.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Owners&amp;nbsp; of&amp;nbsp; private&amp;nbsp; goods&amp;nbsp; can&amp;nbsp; exercise&amp;nbsp; private&amp;nbsp; property&amp;nbsp; rights&amp;nbsp; and&amp;nbsp; can&amp;nbsp; prevent others from using the good or consuming their benefits.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Consumption&amp;nbsp; of&amp;nbsp; private&amp;nbsp; goods&amp;nbsp; is&amp;nbsp; ‘rivalrous’&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Private&amp;nbsp; goods&amp;nbsp; are&amp;nbsp; ‘excludable’&amp;nbsp; i.e.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Private&amp;nbsp; goods&amp;nbsp; do&amp;nbsp; not&amp;nbsp; have&amp;nbsp; the&amp;nbsp; free-rider&amp;nbsp; problem.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Private&amp;nbsp;&amp;nbsp; goods&amp;nbsp;&amp;nbsp; can&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; rejected or parceled out&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•All&amp;nbsp; private&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; can&amp;nbsp; be&amp;nbsp; rejected&amp;nbsp; by&amp;nbsp; the&amp;nbsp; consumers&amp;nbsp; if&amp;nbsp; their&amp;nbsp; needs, preferences or budgets change.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Additional&amp;nbsp;&amp;nbsp; resource&amp;nbsp;&amp;nbsp; costs&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; involved&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp; producing&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; supplying&amp;nbsp;&amp;nbsp; additional quantities of private goods. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Since buyers can be excluded from enjoying the good if they are not willing and&amp;nbsp; able&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; for&amp;nbsp; it,&amp;nbsp; consumers&amp;nbsp; will&amp;nbsp; get&amp;nbsp; different&amp;nbsp; amounts&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services based on their desires and ability and willingness to pay. Therefore, whenever there is inequality in income distribution in an economy, issues of fairness and justice tend to arise with respect to private goods.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Normally, the market will efficiently allocate resources for the production of private goods.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="220" width="400" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
