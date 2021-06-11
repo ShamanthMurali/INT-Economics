@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T06:00:10.573Z" agent="5.0 (X11)" etag="y4A3p9_CxJsRAzI3qCZ7" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T06:25:16.794Z" agent="5.0 (X11)" etag="vXi_Lbfwtxaw3Bmneg_g" version="14.7.7" type="github">
   <diagram id="M30XoS-LUZGrufTWc0ez" name="Page-1">
-    <mxGraphModel dx="1245" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,89 @@
         <mxCell id="dq9KQSzSqJeV4EQKBmH2-1" value="Fiscal policy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•achievement and maintenance of full employment, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•maintenance of price stability,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•acceleration of&amp;nbsp; the rate of economic development, and•equitable distribution of income and wealth. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="80" width="320" height="160" as="geometry" />
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-1" target="ux1ZvUnnU0SVdJXfRK3F-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-1" target="ux1ZvUnnU0SVdJXfRK3F-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•achievement and maintenance of full employment, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•maintenance of price stability,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•acceleration of&amp;nbsp; the rate of economic development&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•equitable distribution of income and wealth. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-3" target="ux1ZvUnnU0SVdJXfRK3F-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-3" target="ux1ZvUnnU0SVdJXfRK3F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-3" value="Revenue receipts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-4" target="ux1ZvUnnU0SVdJXfRK3F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-4" target="ux1ZvUnnU0SVdJXfRK3F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-4" value="&lt;div&gt;Public revenue&lt;/div&gt;(budget receipts)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-5" target="ux1ZvUnnU0SVdJXfRK3F-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-5" target="ux1ZvUnnU0SVdJXfRK3F-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-5" target="ux1ZvUnnU0SVdJXfRK3F-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-5" value="Capital receipts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-6" target="ux1ZvUnnU0SVdJXfRK3F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-6" target="ux1ZvUnnU0SVdJXfRK3F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-6" value="Budget" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-7" value="deficit financing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-8" target="ux1ZvUnnU0SVdJXfRK3F-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-8" target="ux1ZvUnnU0SVdJXfRK3F-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-8" value="&lt;div&gt;Public Expenditure&lt;/div&gt;&lt;div&gt;(budget expenditure)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-15" value="Non tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-16" value="Tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-19" value="Non tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-20" value="Tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-21" value="Non tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-26" value="capital expenditure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-27" value="Revenue expenditure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-30" value="Instruments of fiscal policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
