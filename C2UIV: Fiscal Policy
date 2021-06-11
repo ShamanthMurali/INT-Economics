@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T06:25:16.794Z" agent="5.0 (X11)" etag="vXi_Lbfwtxaw3Bmneg_g" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T06:44:32.818Z" agent="5.0 (X11)" etag="jMnKL02Lr2D7dMFScUXY" version="14.7.7" type="github">
   <diagram id="M30XoS-LUZGrufTWc0ez" name="Page-1">
-    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2315" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,37 @@
           <mxGeometry x="320" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ux1ZvUnnU0SVdJXfRK3F-30" value="Instruments of fiscal policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-37" target="ux1ZvUnnU0SVdJXfRK3F-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-37" target="ux1ZvUnnU0SVdJXfRK3F-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-37" value="contra cyclic fiscal policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-38" value="Discretionary fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-39" value="Automatic stabilisers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
