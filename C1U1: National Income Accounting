@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T06:14:29.416Z" agent="5.0 (X11)" etag="sZIfuhrc9pGwnJ5EKJ--" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T06:19:56.458Z" agent="5.0 (X11)" etag="JFpcUgVTkAyX0lOwazpS" version="14.8.0" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="4508" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4508" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,6 +686,14 @@
         </mxCell>
         <mxCell id="fGfq-H71lbs8oApK6WDh-8" value="&lt;div&gt;`GNP_(FC) = GNP_(MP) - \text{IT + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2590" y="940" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZIyyXB_L6wtkElX1cX5-1" value="Capsule" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="-3350" y="310" width="380" height="200" as="geometry">
+            <mxRectangle x="-3057.5" y="340" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZIyyXB_L6wtkElX1cX5-2" value="&lt;div&gt;ADD:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; Compensation to employees&lt;/div&gt;&lt;div&gt;&amp;gt; mixed income of self employed&lt;/div&gt;&lt;div&gt;&amp;gt; operation surplus&lt;/div&gt;&lt;div&gt;&amp;gt; consumption of fixed capital (depreciation)&lt;/div&gt;&lt;div&gt;&amp;gt; net indirect taxes&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;____________________________________________________&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XZIyyXB_L6wtkElX1cX5-1">
+          <mxGeometry y="40" width="380" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
