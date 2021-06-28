@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T16:20:38.278Z" agent="5.0 (X11)" etag="5BpX7zGaSfp6ZALw-l_A" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T16:28:55.948Z" agent="5.0 (X11)" etag="URLrIiUGq2vPHGZ9rWxG" version="14.8.1" type="github">
   <diagram id="M30XoS-LUZGrufTWc0ez" name="Page-1">
-    <mxGraphModel dx="2747" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2566" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,8 +139,8 @@
         <mxCell id="ux1ZvUnnU0SVdJXfRK3F-35" value="Public Debt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="270" width="120" height="40" as="geometry" />
+        <mxCell id="ux1ZvUnnU0SVdJXfRK3F-36" value="Types of Fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ux1ZvUnnU0SVdJXfRK3F-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ux1ZvUnnU0SVdJXfRK3F-37" target="ux1ZvUnnU0SVdJXfRK3F-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
