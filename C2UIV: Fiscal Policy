@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T17:23:52.120Z" agent="5.0 (X11)" etag="SjxLOkv5wcQhgq8GP0lg" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T17:37:55.379Z" agent="5.0 (X11)" etag="v55y55Esp0cGps0Jeo9b" version="14.8.1" type="github">
   <diagram id="M30XoS-LUZGrufTWc0ez" name="Page-1">
-    <mxGraphModel dx="4212" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2566" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -524,6 +524,87 @@
         </mxCell>
         <mxCell id="35GgQiStkZLXX9v2gaiL-57" value="As&amp;nbsp; real&amp;nbsp; GDP&amp;nbsp; rises&amp;nbsp; above&amp;nbsp; its&amp;nbsp; natural&amp;nbsp; level,&amp;nbsp; (Y&amp;nbsp; in&amp;nbsp; the&amp;nbsp; above&amp;nbsp; figure),&amp;nbsp; prices&amp;nbsp; also&amp;nbsp; rise,&amp;nbsp; prompting&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; increase&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; wages&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; other&amp;nbsp;&amp;nbsp; resource&amp;nbsp;&amp;nbsp; prices.&amp;nbsp;&amp;nbsp; This&amp;nbsp;&amp;nbsp; causes&amp;nbsp;&amp;nbsp; theSAS curve&amp;nbsp; to&amp;nbsp; shift&amp;nbsp; fromSAS1 to SAS2.&amp;nbsp; As&amp;nbsp; a&amp;nbsp; result,&amp;nbsp; the&amp;nbsp; price&amp;nbsp; level&amp;nbsp; goes&amp;nbsp; up&amp;nbsp; fromP1 to P3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Nevertheless,&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; real&amp;nbsp;&amp;nbsp; GDP&amp;nbsp;&amp;nbsp; remains&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; same&amp;nbsp;&amp;nbsp; at&amp;nbsp;&amp;nbsp; Y.&amp;nbsp;&amp;nbsp; The&amp;nbsp;&amp;nbsp; government&amp;nbsp;&amp;nbsp; now&amp;nbsp;&amp;nbsp; needs&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; intervene&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; control&amp;nbsp;&amp;nbsp; inflation&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp; engaging&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; a contractionary fiscal&amp;nbsp; policy&amp;nbsp; designed&amp;nbsp; to&amp;nbsp; reduce&amp;nbsp; aggregate&amp;nbsp; demand&amp;nbsp; so&amp;nbsp; that&amp;nbsp; the aggregate&amp;nbsp; demand&amp;nbsp; curve&amp;nbsp; (AD1)&amp;nbsp; does&amp;nbsp; not&amp;nbsp; shift&amp;nbsp; to&amp;nbsp; AD2.The&amp;nbsp; government&amp;nbsp; needs to&amp;nbsp; reduce&amp;nbsp; expenditures&amp;nbsp; or&amp;nbsp; raise&amp;nbsp; taxes&amp;nbsp; only&amp;nbsp; by&amp;nbsp; a&amp;nbsp; small&amp;nbsp; amount&amp;nbsp; because&amp;nbsp; of&amp;nbsp; the&amp;nbsp; multiplier&amp;nbsp; effects&amp;nbsp; that&amp;nbsp; such&amp;nbsp; actions&amp;nbsp; may&amp;nbsp; have.&amp;nbsp; Even&amp;nbsp; as&amp;nbsp; expenditures&amp;nbsp; are&amp;nbsp; reduced,&amp;nbsp; the government may attempt to enhance public revenues in order to generate a budget&amp;nbsp; surplus." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120.5" y="1840" width="389" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-59" target="35GgQiStkZLXX9v2gaiL-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-59" value="Types of Fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40.500000000000114" y="2440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-60" target="35GgQiStkZLXX9v2gaiL-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-60" target="35GgQiStkZLXX9v2gaiL-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-60" target="35GgQiStkZLXX9v2gaiL-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-60" target="35GgQiStkZLXX9v2gaiL-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-60" target="35GgQiStkZLXX9v2gaiL-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-60" value="1. Lags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="2520" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-61" value="1. Recognition Lag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.2500000000001" y="2430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-62" value="2. Decision Lag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.2500000000001" y="2490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-63" value="3. Implementation Lag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.2500000000001" y="2550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-64" value="4. Impact Lag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.2500000000001" y="2610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-70" target="35GgQiStkZLXX9v2gaiL-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-70" value="2. It is difficult to instantly change the expenditure or tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="2580" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-72" target="35GgQiStkZLXX9v2gaiL-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-72" value="3. Practically difficult to reduce expenditure in some areas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="2640" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-74" target="35GgQiStkZLXX9v2gaiL-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-74" value="4. Due to uncertain, fore casting is very difficult" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1.0000000000000009" y="2700" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="101.51999999999998" y="2800" as="sourcePoint" />
+            <mxPoint x="99.63000000000011" y="2820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-76" value="5. Conflict within objectives" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="2760" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35GgQiStkZLXX9v2gaiL-77" target="35GgQiStkZLXX9v2gaiL-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-77" value="6. supply side economies is not considered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-0.8699999999999992" y="2820" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98.51724137931024" y="2920" as="sourcePoint" />
+            <mxPoint x="100.51724137931069" y="2940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-80" value="7. Public debt can result into perpetual burder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2880" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35GgQiStkZLXX9v2gaiL-82" value="8. crowding out" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2" y="2940" width="199" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
