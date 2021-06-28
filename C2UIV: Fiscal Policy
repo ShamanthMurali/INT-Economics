@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T12:13:23.068Z" agent="5.0 (X11)" etag="PfEypNQUy1N85WCiuXX-" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T12:29:47.608Z" agent="5.0 (X11)" etag="lWX4ExjVa2twF_8odzIt" version="14.8.1" type="github">
   <diagram id="M30XoS-LUZGrufTWc0ez" name="Page-1">
-    <mxGraphModel dx="2413" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4194" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,6 +166,14 @@
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-8" value="A&amp;nbsp; distinction&amp;nbsp; is&amp;nbsp; made&amp;nbsp; between&amp;nbsp; the&amp;nbsp; two&amp;nbsp; concepts&amp;nbsp; of&amp;nbsp; public&amp;nbsp; spending&amp;nbsp; during&amp;nbsp; depression,&amp;nbsp;&amp;nbsp; namely,&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; concept&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; ‘pump&amp;nbsp;&amp;nbsp; priming’&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; concept&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; &#39;compensatory&amp;nbsp;&amp;nbsp; spending&#39;.&amp;nbsp;&amp;nbsp; Pump&amp;nbsp;&amp;nbsp; priming&amp;nbsp;&amp;nbsp; involves&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; one-shot&amp;nbsp;&amp;nbsp; injection&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; government&amp;nbsp; expenditure&amp;nbsp; into&amp;nbsp; a&amp;nbsp; depressed&amp;nbsp; economy&amp;nbsp; with&amp;nbsp; the&amp;nbsp; aim&amp;nbsp; of&amp;nbsp; boosting&amp;nbsp; business confidence and encouraging larger private investment." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="260" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-11" target="8p0kaOpylP1oFJ6HbIQK-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="970" />
+              <mxPoint x="210" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-11" value="" style="shape=stencil(hVjLchw3DPyavaL4Bnl2nP9wleVoK4rkkpXE/vv01BZnA3Cm9ybNAiTx6EaTl/zpx/OX70+XFH58vL/9+fTv9evH8yX/dknp+vr89H79wF+X/PmSP317e3/64/3t79evt/+/f9kst7/+evtnW+HnzS9ICJtTCr9uH2LYP/1+c3i5vhqHmozDGFLGuX2UVKx9l5DO7ZOEau2bBLJ+kqrWvojquX2W4tbHCmT9ItmtH+j5q2Qbb1fJ7dy+SY7WvkiN5/YqqVv7KJWs3yXZeLVLzuf2Q5Ktr1aJrL7BF0zTLPmZQ7cZbQ86KEqzO7QmSkKISbLNUcvSO3HIkiwKWpDBdigSsnGo6Gq2Q5Fhd6hIK9uhSnM77FEdOzQpzTiUMaF67KCzD3YH9CKrQ/dZKnk217HDmCHuDkEi6W04DFvprBIJmMFGaiudC00r6Ki6HUBQbIckxe4ABA4S9EYwNkugkMKOBIaxiMMhA8lS2gG5c7ZOSJ05DIs4tGNnRwK+3FSIFEDIiUPcTiPH9n1GuANOBuEM2FcHH0ksgD7hu5dZBhsiYzbB3T6w8wxRe/5ESTKj723bRYpN2Dv0x8myx/ZxwmTaYwE2BFHO4OwTO/8yZblIyMuUfWC/YAAJY/bV5zPw/AMBfv1C+jk3P3JANGTIgqYcS0Q6A/MylVEQAvk85nS591tl9R1zuXs/s6EPXq52/TJlxrF9lGLXr1JIP5fkVUujogWDJdr1VZSJtDx/3lUR5ZNS5nHvfDVYvOBLVy8uEEr1svcBg5Zl3kPFMI7GsA6O1POk+TMHJxCgMRJpOjh0N2ewBMvqoigwmJQFjZ9tGaAAMsF96RJtDABmZ43Xpdk6ADnKHBbNAigoy9KYcn13aI8cnMhBszKHuoDzgWap+NlmCXzM4ACHYSu9ESDBG7SounmJNLAdsh/goAQmBWvxE23DLDtS8ZSH/q2k+SDAiw16axaW1kVGoTJMktcFccgbG4N1V0G7Q6a8WhfEIQ1KhEJdEIeoOktr90yMJQLhJThUm1Z8ySytC+LwRVmWhjSb1ge3tRa8YG5pkueZg9oj4QLJqLJFf4tvUDSkDm1BXKv0GaIlXzhcggdpjbYgru3keexQvAbGvZzdB3HiaHdQMBWrwwIgjfStZgvRZkkz1YVtuaJqkcayNPzzjjaqtO8h7g5KpZIurxfaKaYVc9+2tw4qlhBisq3Rw5T3xw7V35p7ordmhFhs0D1TTOPEjr17mYrx+JUqejXT6yTPY4c8hcLugJFFgsZ67tmpKxVYfSEyfGESbixjtw/6TjXWt8hA5c9oy+NopANlQFkU79DYs1NYHoQXD/xxf03+dn15uT1G//93//qMT7eX6/z5Pw==);fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="116.11999999999999" y="830" width="257.5" height="131.5" as="geometry" />
         </mxCell>
@@ -223,8 +231,24 @@
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png;direction=west;" vertex="1" parent="1">
           <mxGeometry x="116.11999999999999" y="797.75" width="13.75" height="13.75" as="geometry" />
         </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-43" target="8p0kaOpylP1oFJ6HbIQK-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1280" y="680" />
+              <mxPoint x="-1463" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-43" value="Indirect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1340" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-44" target="8p0kaOpylP1oFJ6HbIQK-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1420" y="680" />
+              <mxPoint x="-1237" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-44" value="Direct" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="610" width="120" height="40" as="geometry" />
@@ -238,8 +262,103 @@
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-49" value="Fines" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1060" y="610" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-55" target="8p0kaOpylP1oFJ6HbIQK-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-55" value="Govt investment multiplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-56" target="8p0kaOpylP1oFJ6HbIQK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-56" value="Spending multiplier&amp;nbsp;&amp;nbsp; (also&amp;nbsp;&amp;nbsp; known&amp;nbsp;&amp;nbsp; as&amp;nbsp;&amp;nbsp; Keynesian&amp;nbsp;&amp;nbsp; or fiscal policy multiplier) represents&amp;nbsp; the&amp;nbsp; multiple&amp;nbsp; by&amp;nbsp; which&amp;nbsp; GDP&amp;nbsp; increases&amp;nbsp; or&amp;nbsp; decreases&amp;nbsp; in&amp;nbsp; response&amp;nbsp; to&amp;nbsp; an&amp;nbsp; increase&amp;nbsp; and&amp;nbsp; decrease&amp;nbsp; in&amp;nbsp; government&amp;nbsp; expenditures&amp;nbsp; and&amp;nbsp; investment,&amp;nbsp; holding&amp;nbsp; the&amp;nbsp; real money supply constant. Quantitatively, the government spending multiplier is the&amp;nbsp; same&amp;nbsp; as&amp;nbsp; the&amp;nbsp; investment&amp;nbsp; multiplier.&amp;nbsp; It&amp;nbsp; is&amp;nbsp; the&amp;nbsp; reciprocal&amp;nbsp; of&amp;nbsp; the&amp;nbsp; marginal&amp;nbsp; propensity&amp;nbsp; to&amp;nbsp; save&amp;nbsp; (MPS).&amp;nbsp; Higher&amp;nbsp; the&amp;nbsp; MPS,&amp;nbsp; lower&amp;nbsp; the&amp;nbsp; multiplier,&amp;nbsp; and&amp;nbsp; lower&amp;nbsp; the&amp;nbsp; MPS, higher the multiplier." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64.62" y="1060" width="290.76" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-58" value="`(DeltaY)/(DeltaX) = 1/(MPS) = 1/(1-MPC)`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1250" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-63" target="8p0kaOpylP1oFJ6HbIQK-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1350" y="950" />
+              <mxPoint x="-1350" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-63" value="" style="shape=stencil(hVjLchw3DPyavaL4Bnl2nP9wleVoK4rkkpXE/vv01BZnA3Cm9ybNAiTx6EaTl/zpx/OX70+XFH58vL/9+fTv9evH8yX/dknp+vr89H79wF+X/PmSP317e3/64/3t79evt/+/f9kst7/+evtnW+HnzS9ICJtTCr9uH2LYP/1+c3i5vhqHmozDGFLGuX2UVKx9l5DO7ZOEau2bBLJ+kqrWvojquX2W4tbHCmT9ItmtH+j5q2Qbb1fJ7dy+SY7WvkiN5/YqqVv7KJWs3yXZeLVLzuf2Q5Ktr1aJrL7BF0zTLPmZQ7cZbQ86KEqzO7QmSkKISbLNUcvSO3HIkiwKWpDBdigSsnGo6Gq2Q5Fhd6hIK9uhSnM77FEdOzQpzTiUMaF67KCzD3YH9CKrQ/dZKnk217HDmCHuDkEi6W04DFvprBIJmMFGaiudC00r6Ki6HUBQbIckxe4ABA4S9EYwNkugkMKOBIaxiMMhA8lS2gG5c7ZOSJ05DIs4tGNnRwK+3FSIFEDIiUPcTiPH9n1GuANOBuEM2FcHH0ksgD7hu5dZBhsiYzbB3T6w8wxRe/5ESTKj723bRYpN2Dv0x8myx/ZxwmTaYwE2BFHO4OwTO/8yZblIyMuUfWC/YAAJY/bV5zPw/AMBfv1C+jk3P3JANGTIgqYcS0Q6A/MylVEQAvk85nS591tl9R1zuXs/s6EPXq52/TJlxrF9lGLXr1JIP5fkVUujogWDJdr1VZSJtDx/3lUR5ZNS5nHvfDVYvOBLVy8uEEr1svcBg5Zl3kPFMI7GsA6O1POk+TMHJxCgMRJpOjh0N2ewBMvqoigwmJQFjZ9tGaAAMsF96RJtDABmZ43Xpdk6ADnKHBbNAigoy9KYcn13aI8cnMhBszKHuoDzgWap+NlmCXzM4ACHYSu9ESDBG7SounmJNLAdsh/goAQmBWvxE23DLDtS8ZSH/q2k+SDAiw16axaW1kVGoTJMktcFccgbG4N1V0G7Q6a8WhfEIQ1KhEJdEIeoOktr90yMJQLhJThUm1Z8ySytC+LwRVmWhjSb1ge3tRa8YG5pkueZg9oj4QLJqLJFf4tvUDSkDm1BXKv0GaIlXzhcggdpjbYgru3keexQvAbGvZzdB3HiaHdQMBWrwwIgjfStZgvRZkkz1YVtuaJqkcayNPzzjjaqtO8h7g5KpZIurxfaKaYVc9+2tw4qlhBisq3Rw5T3xw7V35p7ordmhFhs0D1TTOPEjr17mYrx+JUqejXT6yTPY4c8hcLugJFFgsZ67tmpKxVYfSEyfGESbixjtw/6TjXWt8hA5c9oy+NopANlQFkU79DYs1NYHoQXD/xxf03+dn15uT1G//93//qMT7eX6/z5Pw==);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1443.8799999999999" y="810" width="257.5" height="131.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-64" value="" style="shape=stencil(lZLbDoMgDIafhtsGWkG5du49TMRJ5tSoO739MCSbLBkLd6X9vx7Iz6hcunoyDPmyzuPZ3G2zdowODNEOnZnt6iJGFaOyHWdzmsfr0Pj3VG/KLbqMt63Dw3McON8g5E+fEPydOnqgt8MOyEHpJEBoyEJCxQFy5SwAMoRCRQACnQcA5SAjE1w/LQMAZXQlSYAivBqjExSBCG/486sChEzRF1Ck6AsFhAl6rdL22ZngF+CCjwlb2/few/v6t2ldyhueqhc=);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1316.8799999999999" y="875.5" width="39" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-65" value="" style="shape=stencil(lZLbDsIgEES/htcJZVkuz17+w8RqibU1td7+3jZoLBqa+LYMc3ZZMoIW52pzKoWS575rD+UtbPtK0FIoFZqq7EI/VIJWgha7tiv3XXtptvF82ozOsTq217HDPXISUo6Qko8vYR3tdWgmdobjP+yqgE39g8I6D5AB+wQgDzZ5QKt3vzegDQqe2YDARQKwhfF5wGhomwDGQ1EesAydPslJWJsHHIEoBRz0zNJewqQTvIabmeAZJl3az/9SIX+CMZFeyFB8YrULdR1TOb3/juEgxQjT6gk=);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1416.8799999999999" y="868.5" width="28.5" height="6.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-66" value="Expansion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1479.8799999999999" y="848.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-67" value="Recession" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1289.8799999999999" y="848.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-68" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;Disposable income&lt;/div&gt;&lt;div&gt;Investment&lt;/div&gt;&lt;div&gt;Employment&lt;/div&gt;&lt;div&gt;Production&lt;/div&gt;&lt;div&gt;Income&lt;/div&gt;&lt;div&gt;Economic Growth&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1316.88" y="700" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-69" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;Disposable income&lt;/div&gt;&lt;div&gt;consumption expenditure&lt;/div&gt;&lt;div&gt;Aggregate demand&lt;/div&gt;&lt;div&gt;Price&lt;/div&gt;&lt;div&gt;Inflation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1543.1299999999999" y="700" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1223.8799999999999" y="706" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1186.9999999999998" y="717" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1207.9999999999998" y="734" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1202.9999999999998" y="747" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1208.9999999999998" y="761" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1218.9999999999998" y="776" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-1451.7499999999998" y="706" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1415.1299999999999" y="721" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1396.8799999999999" y="734.75" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1412.3799999999999" y="748" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-80" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1451.75" y="764" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-81" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1443.8799999999999" y="777.75" width="13.75" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-83" target="8p0kaOpylP1oFJ6HbIQK-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-83" value="Tax multiplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-85" target="8p0kaOpylP1oFJ6HbIQK-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-85" value="The&amp;nbsp; tax&amp;nbsp; multiplier&amp;nbsp; represents&amp;nbsp; the&amp;nbsp; multiple&amp;nbsp; by&amp;nbsp; which&amp;nbsp; GDP&amp;nbsp; increases&amp;nbsp; (decreases)&amp;nbsp; in&amp;nbsp; response to a decrease (increase) in taxes charged by governments." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1502.69" y="1040" width="305.38" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-86" value="`= (MPC)/(1-MPC)`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="1130" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8p0kaOpylP1oFJ6HbIQK-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1189.9999999999998" y="789" width="13.75" height="13.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
