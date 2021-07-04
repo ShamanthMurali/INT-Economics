@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T12:50:02.826Z" agent="5.0 (X11)" etag="VFrEv12az5IAaM-R8S0B" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T12:52:31.730Z" agent="5.0 (X11)" etag="bWwIRYD9GMMzajCJaqe0" version="14.8.4" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="6036" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="12583" dy="5280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -532,13 +532,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-28" value="Value added method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1280" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1340" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Id0TcuR3R3CM7gvA_DEH-22" target="eDKoylN6W1mRxu2Zqgho-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-29" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="-1740" y="520" width="400" height="280" as="geometry" />
+          <mxGeometry x="-1800" y="520" width="400" height="280" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eDKoylN6W1mRxu2Zqgho-29" vertex="1">
           <mxGeometry width="400" height="40" as="geometry" />
@@ -736,16 +736,16 @@
           <mxGeometry width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-22" value="&lt;div&gt;When full info&lt;/div&gt;&lt;div&gt; is given&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1600" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1660" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-24" value="&lt;div&gt;When Partial info&lt;/div&gt;&lt;div&gt; is given&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1050" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Id0TcuR3R3CM7gvA_DEH-24" target="Id0TcuR3R3CM7gvA_DEH-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-27" value="`GVA_(MP) = GDP_(MP) = \text{gross value of output(sales + Change in stock(Cl - Op))} - \text{Intermediate consumption}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="520" width="780" height="40" as="geometry" />
+          <mxGeometry x="-1380" y="520" width="780" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
