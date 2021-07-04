@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T12:05:53.362Z" agent="5.0 (X11)" etag="CupgL7g9gKi80ae15-j6" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T12:20:06.482Z" agent="5.0 (X11)" etag="I2Qe5ukQkALzUdAz6Z8g" version="14.8.4" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
     <mxGraphModel dx="5358" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -504,13 +504,13 @@
         <mxCell id="fGfq-H71lbs8oApK6WDh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eDKoylN6W1mRxu2Zqgho-10" target="fGfq-H71lbs8oApK6WDh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-10" value="&lt;div&gt;`GDP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) - Income tax - subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;`= GDP_(FC)\text{ - Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-10" value="&lt;div&gt;`GDP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) - Income tax - subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;`= GDP_(FC)\text{ - Indirect tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2937.5" y="480" width="995" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fGfq-H71lbs8oApK6WDh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eDKoylN6W1mRxu2Zqgho-15" target="fGfq-H71lbs8oApK6WDh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-15" value="&lt;div&gt;`GNP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) + (Receipts - payments) to abroad - Income tax + subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`GNP_(FC) = GNP_(MP) - \text{Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-15" value="&lt;div&gt;`GNP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) + (Receipts - payments) to abroad - Income tax + subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`GNP_(FC) = GNP_(MP) - \text{Indirect tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3060" y="830" width="1240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-17" value="`NDP_(MP) = GDP_(MP) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
@@ -519,11 +519,11 @@
         <mxCell id="eDKoylN6W1mRxu2Zqgho-21" value="`NDP_(FC) = GDP_(FC) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="-2597.5" y="1100" width="315" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-22" value="`\text{NNP}_(MP) = GNP_(MP) - \text{Depreciation}`" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="-2597.5" y="1160" width="315" height="40" as="geometry" />
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-22" value="&lt;div&gt;`\text{NNP}_(MP) = GNP_(MP) - \text{Depreciation}``= \text{NDP}_(MP)+NFIA`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-2597.5" y="1160" width="315" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-23" value="&lt;div&gt;`\text{NNP}_(FC) = \text{GNP}_(FC) - \text{Depreciation}`&lt;/div&gt;&lt;div&gt;`\text{NNP}_(FC)= \text{National income}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="-2597.5" y="1220" width="315" height="40" as="geometry" />
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-23" value="&lt;div&gt;`\text{NNP}_(FC) = \text{GNP}_(FC) - \text{Depreciation}`&lt;/div&gt;&lt;div&gt;`= \text{National income}`&lt;/div&gt;&lt;div&gt;&lt;div&gt;`= \text{NDP}_(FC)+NFIA`&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-2597.5" y="1230" width="315" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eDKoylN6W1mRxu2Zqgho-28" target="eDKoylN6W1mRxu2Zqgho-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -705,6 +705,9 @@
         </mxCell>
         <mxCell id="XZIyyXB_L6wtkElX1cX5-6" value="&lt;div&gt;ADD:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; national debt interest&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; current transfers from govt&lt;/div&gt;&lt;div&gt;&amp;gt; current transfers from rest of the world&lt;/div&gt;&lt;div&gt;____________________________________________________&lt;br&gt;&lt;/div&gt;&lt;div&gt;LESS:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;saving of non-departmental enterprises&lt;/div&gt;&lt;div&gt;&amp;gt; saving of private corporate sector&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; corporate profit tax&lt;/div&gt;&lt;div&gt;&amp;gt; income from property and entrepreneurship accruing to government administrative departments&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="XZIyyXB_L6wtkElX1cX5-5" vertex="1">
           <mxGeometry y="40" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GclIndCJkg3oOjxeaNdI-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;IT means Indirect tax and does not include Direct tax&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-3360" y="600" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
