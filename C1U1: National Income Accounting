@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T12:31:52.365Z" agent="5.0 (X11)" etag="l1-WHGsutw39pnF1TBY-" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T12:34:32.139Z" agent="5.0 (X11)" etag="DKCCdIZSc4bJl4Y1WHPS" version="14.8.4" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="5292" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5112" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -696,31 +696,23 @@
         <mxCell id="XZIyyXB_L6wtkElX1cX5-4" value="&lt;div&gt;Very imp&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Operating surplus&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3770" y="280" width="330" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="XZIyyXB_L6wtkElX1cX5-5" value="Capsule" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-2920" y="1380" width="120" height="40" as="geometry">
-            <mxRectangle x="-2920" y="1380" width="380" height="240" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XZIyyXB_L6wtkElX1cX5-6" value="&lt;div&gt;ADD:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; national debt interest&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; current transfers from govt&lt;/div&gt;&lt;div&gt;&amp;gt; current transfers from rest of the world&lt;/div&gt;&lt;div&gt;____________________________________________________&lt;br&gt;&lt;/div&gt;&lt;div&gt;LESS:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt;saving of non-departmental enterprises&lt;/div&gt;&lt;div&gt;&amp;gt; saving of private corporate sector&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; corporate profit tax&lt;/div&gt;&lt;div&gt;&amp;gt; income from property and entrepreneurship accruing to government administrative departments&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="XZIyyXB_L6wtkElX1cX5-5" vertex="1">
-          <mxGeometry y="40" width="380" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="GclIndCJkg3oOjxeaNdI-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;IT means Indirect tax and does not include Direct tax&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="-3360" y="600" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-2120" y="1315" width="280" height="165" as="geometry" />
+          <mxGeometry x="-2120" y="1315" width="280" height="255" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Id0TcuR3R3CM7gvA_DEH-1">
-          <mxGeometry width="280" height="90" as="geometry" />
+          <mxGeometry width="280" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="Id0TcuR3R3CM7gvA_DEH-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Add&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;* National income (`\text{NNP}_(FC)`)&lt;/div&gt;&lt;div&gt;* Transfer payment by government &lt;br&gt;&lt;/div&gt;&lt;div&gt;* Net private donation from abroad&lt;/div&gt;&lt;div&gt;* Undistributed profits of corporations&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Id0TcuR3R3CM7gvA_DEH-2">
-          <mxGeometry width="280" height="90" as="geometry" />
+        <mxCell id="Id0TcuR3R3CM7gvA_DEH-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Add&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;* National income (`\text{NNP}_(FC)`)&lt;/div&gt;&lt;div&gt;* Transfer payment by government &lt;br&gt;&lt;/div&gt;&lt;div&gt;* Net private donation from abroad&lt;/div&gt;&lt;div&gt;* Undistributed profits of corporations&lt;br&gt;&lt;/div&gt;* national debt interest&lt;br&gt;* current transfers from rest of the world" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Id0TcuR3R3CM7gvA_DEH-2">
+          <mxGeometry width="280" height="117" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-4" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Id0TcuR3R3CM7gvA_DEH-1">
-          <mxGeometry y="90" width="280" height="75" as="geometry" />
+          <mxGeometry y="117" width="280" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="Id0TcuR3R3CM7gvA_DEH-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Less&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*Income from domestic product accruing to government&lt;/div&gt;&lt;div&gt;* Interest on National debt&lt;/div&gt;&lt;div&gt;* Taxes on corporate profits&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Id0TcuR3R3CM7gvA_DEH-4">
-          <mxGeometry width="280" height="75" as="geometry" />
+        <mxCell id="Id0TcuR3R3CM7gvA_DEH-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Less&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Income from domestic product accruing to government&lt;/div&gt;&lt;div&gt;* Interest on National debt&lt;/div&gt;&lt;div&gt;* Taxes on corporate profits&lt;/div&gt;&lt;div&gt;&lt;div&gt;* saving of non-departmental enterprises&lt;/div&gt;&lt;div&gt;* saving of private corporate sector&lt;br&gt;&lt;/div&gt;* income from property and entrepreneurship accruing to government administrative departments&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Id0TcuR3R3CM7gvA_DEH-4">
+          <mxGeometry width="280" height="138" as="geometry" />
         </mxCell>
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-14" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="-3240" y="295" width="240" height="200" as="geometry" />
