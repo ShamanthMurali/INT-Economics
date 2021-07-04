@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T12:03:34.533Z" agent="5.0 (X11)" etag="YU1VyI0YieoR482LsGra" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T12:05:53.362Z" agent="5.0 (X11)" etag="CupgL7g9gKi80ae15-j6" version="14.8.4" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
     <mxGraphModel dx="5358" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -504,7 +504,7 @@
         <mxCell id="fGfq-H71lbs8oApK6WDh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eDKoylN6W1mRxu2Zqgho-10" target="fGfq-H71lbs8oApK6WDh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eDKoylN6W1mRxu2Zqgho-10" value="&lt;div&gt;`GDP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) - Income tax - subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;`= GDP_(MP)\text{ - Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eDKoylN6W1mRxu2Zqgho-10" value="&lt;div&gt;`GDP_(FC) =  \text{Consumption expenditure + Investment expenditure + government expenditure + (Exports - imports) - Income tax - subsidies}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;`= GDP_(FC)\text{ - Income tax + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2937.5" y="480" width="995" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fGfq-H71lbs8oApK6WDh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eDKoylN6W1mRxu2Zqgho-15" target="fGfq-H71lbs8oApK6WDh-8" edge="1">
@@ -678,7 +678,7 @@
         <mxCell id="fGfq-H71lbs8oApK6WDh-2" value="&lt;div&gt;`GDP_(MP) = \text{C+ I + G + (E - I)}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;CIG&lt;/b&gt;&lt;/u&gt; &lt;u&gt;&lt;b&gt;I&lt;/b&gt;&lt;/u&gt;ssu&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="-2567.5" y="400" width="255" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fGfq-H71lbs8oApK6WDh-4" value="&lt;div&gt;`= GDP_(MP)\text{ - IT + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+        <mxCell id="fGfq-H71lbs8oApK6WDh-4" value="&lt;div&gt;`= GDP_(FC)\text{ - IT + subsidies}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="-2565" y="590" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fGfq-H71lbs8oApK6WDh-6" value="&lt;div&gt;`GNP_(MP) = GDP_(MP) + \text{NFIA}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
