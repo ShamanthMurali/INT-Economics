@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T12:34:32.139Z" agent="5.0 (X11)" etag="DKCCdIZSc4bJl4Y1WHPS" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T12:40:00.894Z" agent="5.0 (X11)" etag="iiHLV-NQUdf9Mssm1Ohm" version="14.8.4" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="5112" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6036" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -529,10 +529,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-28" value="Value added method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1660" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1540" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-29" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="-1800" y="340" width="400" height="280" as="geometry" />
+          <mxGeometry x="-1680" y="580" width="400" height="280" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eDKoylN6W1mRxu2Zqgho-29" vertex="1">
           <mxGeometry width="400" height="40" as="geometry" />
@@ -601,10 +601,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-53" value="Income method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1000" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="-590" y="-260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-54" value="&lt;div&gt;`\text{net national income} = \text{Rent + wages Interest + Profit + Mixed income + net factor income from abroad} `&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Operating Surplus = Rent + interest + profit}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Net national income} = \text{Operating surplus + Compensation ot employees + Mixed income + Net income from abroad}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1360" y="340" width="840" height="110" as="geometry" />
+          <mxGeometry x="-950" y="-200" width="840" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eDKoylN6W1mRxu2Zqgho-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eDKoylN6W1mRxu2Zqgho-56" target="eDKoylN6W1mRxu2Zqgho-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
