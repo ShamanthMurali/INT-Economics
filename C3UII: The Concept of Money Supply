@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T23:35:24.246Z" agent="5.0 (X11)" etag="u5RZJH2-ZTTcs2jZtN4K" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T23:42:41.352Z" agent="5.0 (X11)" etag="DuOJMT1_OKpmV3jp45N6" version="14.9.0" type="github">
   <diagram id="wOJo9cTKTQIo0i3dbINE" name="Page-1">
     <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,26 @@
         <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-4" value="Central bank&lt;br&gt;&lt;div&gt;(RBI)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZsTUJB5aU-Uwl8Yi9dzX-7" target="ZsTUJB5aU-Uwl8Yi9dzX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-7" value="Measurement of money supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZsTUJB5aU-Uwl8Yi9dzX-8" target="ZsTUJB5aU-Uwl8Yi9dzX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-8" value="&lt;div&gt;M1 = Currency notes and coins with the people + demand deposits with the&amp;nbsp;&amp;nbsp; banking system(Current and Saving deposit accounts) + other deposits with the RBI.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;M2 = M1 + savings deposits with post office savings banks. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;M3&amp;nbsp; = M1 + time deposits with the banking system.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;M4 = M3 + total deposits with the Post Office Savings Organization (excluding National Savings Certificates).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZsTUJB5aU-Uwl8Yi9dzX-10" target="ZsTUJB5aU-Uwl8Yi9dzX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-10" value="New monetary aggregate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-12" value="&lt;div&gt;Reserve Money = Currency in circulation + Bankers’ deposits with the RBI + Other deposits with the RBI &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;= Net RBI credit to the Government + RBI credit to the Commercial sector + RBI’s Claims on banks + RBI&#39;s net forign exchange assets +&amp;nbsp; Government’s Currency liabilities to the public - RBI’s net non - monetary Liabilities&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="480" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
