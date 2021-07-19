@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T18:22:38.386Z" agent="5.0 (X11)" etag="DtPBCLMmjpq6qfV-HTWb" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T18:23:46.792Z" agent="5.0 (X11)" etag="ary4RgkczY4_LjoRI5nE" version="14.9.0" type="github">
   <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
-    <mxGraphModel dx="1350" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,11 +73,17 @@
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-24" target="JGfa3QQ2Kr3XQhtsew2E-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-24" target="JGfa3QQ2Kr3XQhtsew2E-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-24" value="&lt;div&gt;1. MV = PT&lt;/div&gt;&lt;div&gt;2. MV + M`V` = PT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-26" value="&lt;div&gt;M = the total amount of money in circulation (on an average) in an economy &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;V&amp;nbsp; =&amp;nbsp; transactions&amp;nbsp; velocity&amp;nbsp; of&amp;nbsp; circulation&amp;nbsp; i.e.&amp;nbsp; the&amp;nbsp; average&amp;nbsp; number&amp;nbsp; of&amp;nbsp; times&amp;nbsp; across&amp;nbsp; all&amp;nbsp; transactions&amp;nbsp; a&amp;nbsp; unit&amp;nbsp; of&amp;nbsp; money(say&amp;nbsp; Rupee)&amp;nbsp;&amp;nbsp;&amp;nbsp; is&amp;nbsp; spent in purchasing goods and services&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;P&amp;nbsp; = average price level (P= MV/T)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;T&amp;nbsp; = the total number of transactions.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;M&#39; = the total quantity of credit money&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;V&#39;= velocity of circulation of credit money&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="767.5" width="240" height="245" as="geometry" />
+          <mxGeometry x="-370" y="767.5" width="240" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="930" width="200" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
