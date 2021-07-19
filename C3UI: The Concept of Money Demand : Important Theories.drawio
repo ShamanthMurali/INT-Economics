@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T18:03:37.231Z" agent="5.0 (X11)" etag="Vpfr860YulbuIFSgh52a" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T18:09:57.644Z" agent="5.0 (X11)" etag="HSi8GnQ203O-sEtCz4y8" version="14.9.0" type="github">
   <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
-    <mxGraphModel dx="500" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,26 @@
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Functions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. medium of exchange&lt;/div&gt;&lt;div&gt;2. unit of account&lt;/div&gt;&lt;div&gt;3. standard of deferred payments&lt;/div&gt;&lt;div&gt;4. ease of trade&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. common measure of value&lt;/div&gt;&lt;div&gt;6. store of value&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="200" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-3" target="JGfa3QQ2Kr3XQhtsew2E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Money&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Cash&lt;/div&gt;&lt;div&gt;2. coins&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Near money&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Cheque&lt;/div&gt;&lt;div&gt;2. UPI&lt;/div&gt;&lt;div&gt;3. BOE&lt;/div&gt;&lt;div&gt;4. Bank&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-6" target="JGfa3QQ2Kr3XQhtsew2E-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Characteristics&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Generally acceptable&lt;/div&gt;&lt;div&gt;2. Durable&lt;/div&gt;&lt;div&gt;3. Easy to recognize&lt;/div&gt;&lt;div&gt;4. difficult to counterfeit&lt;/div&gt;&lt;div&gt;5. relatively scarce&lt;/div&gt;&lt;div&gt;6. portable&lt;/div&gt;&lt;div&gt;7. uniformity&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-8" target="JGfa3QQ2Kr3XQhtsew2E-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Demand for money&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Peoples desire to hold &lt;br&gt;&lt;/div&gt;&lt;div&gt;money in liquid form&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-10" value="Theories of demand for money" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
