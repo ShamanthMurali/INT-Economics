@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T18:09:57.644Z" agent="5.0 (X11)" etag="HSi8GnQ203O-sEtCz4y8" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T18:12:16.901Z" agent="5.0 (X11)" etag="503UFugYwM5FiWUeQFsJ" version="14.9.0" type="github">
   <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
     <mxGraphModel dx="595" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,8 +34,38 @@
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Demand for money&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Peoples desire to hold &lt;br&gt;&lt;/div&gt;&lt;div&gt;money in liquid form&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="520" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-10" target="JGfa3QQ2Kr3XQhtsew2E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-10" target="JGfa3QQ2Kr3XQhtsew2E-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-10" value="Theories of demand for money" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-12" target="JGfa3QQ2Kr3XQhtsew2E-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-12" target="JGfa3QQ2Kr3XQhtsew2E-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-12" target="JGfa3QQ2Kr3XQhtsew2E-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-12" value="Pre - Keynesian theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-13" value="Post - Keynesian theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-17" value="Liquidity preference theory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-18" value="Classical approach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-19" value="Cambridge approach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
