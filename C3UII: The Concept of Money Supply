@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T22:24:34.340Z" agent="5.0 (X11)" version="14.9.0" etag="IBkK-SLVRhqIte4Wmxx_" type="github"><diagram id="wOJo9cTKTQIo0i3dbINE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-19T23:35:24.246Z" agent="5.0 (X11)" etag="u5RZJH2-ZTTcs2jZtN4K" version="14.9.0" type="github">
+  <diagram id="wOJo9cTKTQIo0i3dbINE" name="Page-1">
+    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-1" value="Money supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZsTUJB5aU-Uwl8Yi9dzX-2" target="ZsTUJB5aU-Uwl8Yi9dzX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZsTUJB5aU-Uwl8Yi9dzX-2" target="ZsTUJB5aU-Uwl8Yi9dzX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-2" value="Sources of money supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-3" value="&lt;div&gt;Commercial banking system &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Credit money)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-4" value="Central bank&lt;br&gt;&lt;div&gt;(RBI)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-7" value="Measurement of money supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
