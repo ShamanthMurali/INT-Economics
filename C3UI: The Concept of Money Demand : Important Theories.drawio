@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T18:23:46.792Z" agent="5.0 (X11)" etag="ary4RgkczY4_LjoRI5nE" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T19:06:06.276Z" agent="5.0 (X11)" etag="ijBMpiV-GaK2B9GsYw_h" version="14.9.0" type="github">
   <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
-    <mxGraphModel dx="1564" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-18" value="&lt;div&gt;Classical approach&lt;/div&gt;[Quantity theory of money(QTM)]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="800" width="120" height="50" as="geometry" />
+          <mxGeometry x="-120" y="800" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-19" value="Cambridge approach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="800" width="120" height="40" as="geometry" />
@@ -77,13 +77,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-24" value="&lt;div&gt;1. MV = PT&lt;/div&gt;&lt;div&gt;2. MV + M`V` = PT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="870" width="120" height="40" as="geometry" />
+          <mxGeometry x="-120" y="870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-26" value="&lt;div&gt;M = the total amount of money in circulation (on an average) in an economy &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;V&amp;nbsp; =&amp;nbsp; transactions&amp;nbsp; velocity&amp;nbsp; of&amp;nbsp; circulation&amp;nbsp; i.e.&amp;nbsp; the&amp;nbsp; average&amp;nbsp; number&amp;nbsp; of&amp;nbsp; times&amp;nbsp; across&amp;nbsp; all&amp;nbsp; transactions&amp;nbsp; a&amp;nbsp; unit&amp;nbsp; of&amp;nbsp; money(say&amp;nbsp; Rupee)&amp;nbsp;&amp;nbsp;&amp;nbsp; is&amp;nbsp; spent in purchasing goods and services&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;P&amp;nbsp; = average price level (P= MV/T)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;T&amp;nbsp; = the total number of transactions.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;M&#39; = the total quantity of credit money&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;V&#39;= velocity of circulation of credit money&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="767.5" width="240" height="245" as="geometry" />
+          <mxGeometry x="-460" y="767.5" width="240" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="930" width="200" height="150" as="geometry" />
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-28" value="people&amp;nbsp; would&amp;nbsp; hold&amp;nbsp; money&amp;nbsp; in&amp;nbsp; a&amp;nbsp; quantity&amp;nbsp; proportional&amp;nbsp; to&amp;nbsp; total&amp;nbsp; transactions&amp;nbsp; irrespective&amp;nbsp; of&amp;nbsp; interest&amp;nbsp; rate.&amp;nbsp; Thus,&amp;nbsp; there&amp;nbsp; is&amp;nbsp; an&amp;nbsp; aggregate demand for money for transactions purpose and more the number of transactions people want, greater will be the demand for money. The total volume of&amp;nbsp; transactions&amp;nbsp; multiplied&amp;nbsp; by&amp;nbsp; the&amp;nbsp; price&amp;nbsp; level&amp;nbsp; (PT)&amp;nbsp; represents&amp;nbsp; the&amp;nbsp; demand&amp;nbsp; for&amp;nbsp; money." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="930" width="280" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
