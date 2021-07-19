@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T19:11:07.254Z" agent="5.0 (X11)" etag="8Q3JLDwUYZW6axD4pmp9" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T19:13:12.677Z" agent="5.0 (X11)" etag="y1GKwlWcYKhiWcOuImIo" version="14.9.0" type="github">
   <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
-    <mxGraphModel dx="2100" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1712" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,8 +58,8 @@
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-13" value="Post - Keynesian theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-17" value="Liquidity preference theory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="800" width="120" height="40" as="geometry" />
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-17" value="Keynesian theory&lt;br&gt;&lt;div&gt;[Liquidity preference theory]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-18" target="JGfa3QQ2Kr3XQhtsew2E-24">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-19" value="Cambridge approach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="800" width="120" height="40" as="geometry" />
+          <mxGeometry x="180" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-24" target="JGfa3QQ2Kr3XQhtsew2E-26">
           <mxGeometry relative="1" as="geometry" />
@@ -92,16 +92,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-30" value="&lt;div&gt;`M_d=k*PY`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="860" width="120" height="40" as="geometry" />
+          <mxGeometry x="180" y="860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-33" target="JGfa3QQ2Kr3XQhtsew2E-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-33" value="&lt;div&gt;`M_d` = is the demand for money balances,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Y&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; = real national income&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;P&amp;nbsp;&amp;nbsp; = average price level of currently produced goods and services&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PY&amp;nbsp; = nominal income&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;k&amp;nbsp;&amp;nbsp; = proportion of nominal income (PY) that people want to hold as cash balances&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="920" width="280" height="170" as="geometry" />
+          <mxGeometry x="100" y="920" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-35" value="income,&amp;nbsp; points&amp;nbsp; to&amp;nbsp; transactions&amp;nbsp; demand&amp;nbsp; such&amp;nbsp; that&amp;nbsp; higher&amp;nbsp; the&amp;nbsp; income,&amp;nbsp; the&amp;nbsp; greater&amp;nbsp; the&amp;nbsp; quantity&amp;nbsp; of&amp;nbsp; purchases&amp;nbsp; and&amp;nbsp; as&amp;nbsp; a&amp;nbsp; consequence&amp;nbsp; greater&amp;nbsp; will&amp;nbsp; be&amp;nbsp; the&amp;nbsp; need&amp;nbsp; for&amp;nbsp; money&amp;nbsp; as a temporary abode of value&amp;nbsp; to overcome transactions costs. The demand for money&amp;nbsp; was&amp;nbsp; primarily&amp;nbsp; determined&amp;nbsp; by&amp;nbsp; the&amp;nbsp; need&amp;nbsp; to&amp;nbsp; conduct&amp;nbsp; transactions&amp;nbsp; which&amp;nbsp; will&amp;nbsp; have&amp;nbsp; a&amp;nbsp; positive&amp;nbsp; relationship&amp;nbsp; to&amp;nbsp; the&amp;nbsp; money&amp;nbsp; value&amp;nbsp; of&amp;nbsp; aggregate&amp;nbsp; expenditure.&amp;nbsp; Since&amp;nbsp; the&amp;nbsp; latter&amp;nbsp; is&amp;nbsp; equal&amp;nbsp; to&amp;nbsp; money&amp;nbsp; national&amp;nbsp; income, " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1110" width="280" height="150" as="geometry" />
+          <mxGeometry x="100" y="1110" width="280" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
