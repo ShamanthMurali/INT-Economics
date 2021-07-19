@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T20:40:06.846Z" agent="5.0 (X11)" etag="9Z-wcdBeBBAWkkahxmDa" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T20:45:12.695Z" agent="5.0 (X11)" etag="19pWF4pClJjDdlIRsTj7" version="14.9.0" type="github">
   <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
-    <mxGraphModel dx="1444" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1349" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -449,7 +449,7 @@
           <mxGeometry x="815.5" y="2370" width="289" height="220" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-161" value="Friedman&#39;s Restatement of the Quantity Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1600" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-162" value="&lt;div&gt;Inventory Approach &lt;br&gt;&lt;/div&gt;&lt;div&gt;to Transaction Balances&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="800" width="120" height="60" as="geometry" />
