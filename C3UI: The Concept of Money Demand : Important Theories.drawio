@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T17:58:46.453Z" agent="5.0 (X11)" etag="asRYRCPSECGX8h9XQxtb" version="14.9.0" type="github"><diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">jZJLT4QwEIB/DUcTStdVr+Kqlz2xiedKR1q3D1KKgL9e2E55ZLOJF1K+mc4MH5PQXPdvjtXiaDmoJEt5n9CXJMseyG58TmAIgNKnAConeUBkAYX8BYQp0lZyaDaJ3lrlZb2FpTUGSr9hzDnbbdO+rNp2rVkFV6AombqmH5J7Eejjfbrwd5CViJ1JihHNYjKCRjBuuxWih4TmzlofTrrPQU3uopdw7/VGdB7MgfH/uXDuBtqm5lSd9hlrdjr/pp93WOWHqRY/+GgNDJf53Rk8ju6H6MPZ1nCYSpKEPndCeihqVk7RblyAkQmvFYaxODgP/c2pyexi3CGwGryb+uMFukd93WKfRKViZX6HjOEPr+ZSi5PxgFri66L/ElvtMD38AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-19T18:03:37.231Z" agent="5.0 (X11)" etag="Vpfr860YulbuIFSgh52a" version="14.9.0" type="github">
+  <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
+    <mxGraphModel dx="500" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kwy3u0nTgT62as4mCj3b-1" target="JGfa3QQ2Kr3XQhtsew2E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwy3u0nTgT62as4mCj3b-1" value="Money market" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-1" target="JGfa3QQ2Kr3XQhtsew2E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Functions&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. medium of exchange&lt;/div&gt;&lt;div&gt;2. unit of account&lt;/div&gt;&lt;div&gt;3. standard of deferred payments&lt;/div&gt;&lt;div&gt;4. ease of trade&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. common measure of value&lt;/div&gt;&lt;div&gt;6. store of value&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-3" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Money&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Cash&lt;/div&gt;&lt;div&gt;2. coins&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Near money&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Cheque&lt;/div&gt;&lt;div&gt;2. UPI&lt;/div&gt;&lt;div&gt;3. BOE&lt;/div&gt;&lt;div&gt;4. Bank&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
