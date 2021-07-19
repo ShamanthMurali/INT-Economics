@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T19:13:12.677Z" agent="5.0 (X11)" etag="y1GKwlWcYKhiWcOuImIo" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T19:16:59.534Z" agent="5.0 (X11)" etag="QmJ-vq9lgVLjsrzQSiXl" version="14.9.0" type="github">
   <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
     <mxGraphModel dx="1712" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -58,8 +58,11 @@
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-13" value="Post - Keynesian theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="720" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-17" target="JGfa3QQ2Kr3XQhtsew2E-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-17" value="Keynesian theory&lt;br&gt;&lt;div&gt;[Liquidity preference theory]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="800" width="120" height="50" as="geometry" />
+          <mxGeometry x="560" y="800" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-18" target="JGfa3QQ2Kr3XQhtsew2E-24">
           <mxGeometry relative="1" as="geometry" />
@@ -102,6 +105,39 @@
         </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-35" value="income,&amp;nbsp; points&amp;nbsp; to&amp;nbsp; transactions&amp;nbsp; demand&amp;nbsp; such&amp;nbsp; that&amp;nbsp; higher&amp;nbsp; the&amp;nbsp; income,&amp;nbsp; the&amp;nbsp; greater&amp;nbsp; the&amp;nbsp; quantity&amp;nbsp; of&amp;nbsp; purchases&amp;nbsp; and&amp;nbsp; as&amp;nbsp; a&amp;nbsp; consequence&amp;nbsp; greater&amp;nbsp; will&amp;nbsp; be&amp;nbsp; the&amp;nbsp; need&amp;nbsp; for&amp;nbsp; money&amp;nbsp; as a temporary abode of value&amp;nbsp; to overcome transactions costs. The demand for money&amp;nbsp; was&amp;nbsp; primarily&amp;nbsp; determined&amp;nbsp; by&amp;nbsp; the&amp;nbsp; need&amp;nbsp; to&amp;nbsp; conduct&amp;nbsp; transactions&amp;nbsp; which&amp;nbsp; will&amp;nbsp; have&amp;nbsp; a&amp;nbsp; positive&amp;nbsp; relationship&amp;nbsp; to&amp;nbsp; the&amp;nbsp; money&amp;nbsp; value&amp;nbsp; of&amp;nbsp; aggregate&amp;nbsp; expenditure.&amp;nbsp; Since&amp;nbsp; the&amp;nbsp; latter&amp;nbsp; is&amp;nbsp; equal&amp;nbsp; to&amp;nbsp; money&amp;nbsp; national&amp;nbsp; income, " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1110" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-37" target="JGfa3QQ2Kr3XQhtsew2E-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-37" value="&lt;div&gt;`L_r = kY`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-39" target="JGfa3QQ2Kr3XQhtsew2E-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-39" value="&lt;div&gt;`L_r` = transactions demand for money, &lt;br&gt;&lt;/div&gt;&lt;div&gt;k = ratio of earnings which is kept for transactions purposes&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Y = earnings.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="930" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-41" target="JGfa3QQ2Kr3XQhtsew2E-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-41" target="JGfa3QQ2Kr3XQhtsew2E-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-41" target="JGfa3QQ2Kr3XQhtsew2E-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-41" value="&lt;div&gt;According to Keynes, people hold &lt;br&gt;&lt;/div&gt;&lt;div&gt;money (M) in cash for three motives:&amp;nbsp; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1060" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-42" value="Speculative motive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-43" value="Transactions motive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-44" value="Precautionary motive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
