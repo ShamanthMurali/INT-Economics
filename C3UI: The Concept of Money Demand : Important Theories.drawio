@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T20:45:12.695Z" agent="5.0 (X11)" etag="19pWF4pClJjDdlIRsTj7" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T20:49:53.847Z" agent="5.0 (X11)" etag="oPasCRMdsGi2Tp5vd8KF" version="14.9.0" type="github">
   <diagram id="a7ajwo2syn-CBHWLVelC" name="Page-1">
     <mxGraphModel dx="1349" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -451,8 +451,20 @@
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-161" value="Friedman&#39;s Restatement of the Quantity Theory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-162" target="JGfa3QQ2Kr3XQhtsew2E-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JGfa3QQ2Kr3XQhtsew2E-162" value="&lt;div&gt;Inventory Approach &lt;br&gt;&lt;/div&gt;&lt;div&gt;to Transaction Balances&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGfa3QQ2Kr3XQhtsew2E-165" target="JGfa3QQ2Kr3XQhtsew2E-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-165" value="&lt;div&gt;Inventory models assume that there are two media for storing value: &lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)money and &lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)an interest-bearing alternative financial asset. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="880" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JGfa3QQ2Kr3XQhtsew2E-167" value="&lt;div&gt;holding&amp;nbsp; cash&amp;nbsp; balance&amp;nbsp; involves&amp;nbsp; an&amp;nbsp; opportunity&amp;nbsp; cost&amp;nbsp; in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; lost&amp;nbsp; interest.&amp;nbsp; businesses&amp;nbsp; would&amp;nbsp; like&amp;nbsp; to&amp;nbsp; hold&amp;nbsp; an&amp;nbsp; optimal&amp;nbsp; inventory&amp;nbsp; to&amp;nbsp; reduce&amp;nbsp; cost,&amp;nbsp; individuals&amp;nbsp; would&amp;nbsp; like&amp;nbsp; to&amp;nbsp; keep&amp;nbsp; optimal&amp;nbsp; inventory&amp;nbsp; of&amp;nbsp; money&amp;nbsp; and&amp;nbsp; thus&amp;nbsp; ensure&amp;nbsp; minimum&amp;nbsp; cost&amp;nbsp; of&amp;nbsp; money&amp;nbsp; holding.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;demand&amp;nbsp; for&amp;nbsp; money&amp;nbsp; and&amp;nbsp; bonds&amp;nbsp; depend&amp;nbsp; on&amp;nbsp; the&amp;nbsp; cost&amp;nbsp; of&amp;nbsp; making&amp;nbsp; a&amp;nbsp; transfer&amp;nbsp; between&amp;nbsp; money&amp;nbsp; and&amp;nbsp; bonds&amp;nbsp; e.g.&amp;nbsp; the brokerage fee. An increase the brokerage fee raises the marginal cost of bond market&amp;nbsp; transactions&amp;nbsp; and&amp;nbsp; consequently&amp;nbsp; lowers&amp;nbsp; the&amp;nbsp; number&amp;nbsp; of&amp;nbsp; such&amp;nbsp; transactions.&amp;nbsp; The increase in the brokerage fee raises the transactions demand for money and lowers the average bond holding over the period. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="960" width="280" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
