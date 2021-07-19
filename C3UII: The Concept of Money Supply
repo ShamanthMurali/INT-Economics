@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T23:42:48.184Z" agent="5.0 (X11)" etag="uPad7DhNBpAHsgdlLJBx" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T23:43:48.037Z" agent="5.0 (X11)" etag="3kW0DGJUiSCw9mpC9LRD" version="14.9.0" type="github">
   <diagram id="wOJo9cTKTQIo0i3dbINE" name="Page-1">
     <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,8 +40,14 @@
         <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-10" value="New monetary aggregate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZsTUJB5aU-Uwl8Yi9dzX-12" target="ZsTUJB5aU-Uwl8Yi9dzX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-12" value="&lt;div&gt;Reserve Money = Currency in circulation + Bankers’ deposits with the RBI + Other deposits with the RBI &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;= Net RBI credit to the Government + RBI credit to the Commercial sector + RBI’s Claims on banks + RBI&#39;s net forign exchange assets +&amp;nbsp; Government’s Currency liabilities to the public - RBI’s net non - monetary Liabilities&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="540" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-14" value="&lt;div&gt;NM1 = Currency with the public + Demand deposits with the banking system + ‘Other’ deposits with the RBI.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NM2 = NM1 + Short-term time deposits of residents (including and up to contractual maturity of one year).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NM3 = NM2 + Long-term time deposits of residents + Call/Term funding from financial institutions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="480" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
