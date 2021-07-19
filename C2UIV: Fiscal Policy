@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T16:57:25.630Z" agent="5.0 (X11)" etag="gzbmAfem_dI-6DJ_6T_K" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T17:09:15.317Z" agent="5.0 (X11)" etag="Whmng03Swo8f02U6LTUL" version="14.9.0" type="github">
   <diagram id="M30XoS-LUZGrufTWc0ez" name="Page-1">
-    <mxGraphModel dx="2333" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3175" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,6 +387,9 @@
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png" parent="1" vertex="1">
           <mxGeometry x="-805.8699999999997" y="689" width="13.75" height="13.75" as="geometry" />
         </mxCell>
+        <mxCell id="VM9yePtdfOpJjgd5AzSa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-96" target="VM9yePtdfOpJjgd5AzSa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-96" value="Balanced budget muliplier" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-359" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
@@ -603,8 +606,13 @@
         <mxCell id="35GgQiStkZLXX9v2gaiL-80" value="7. Public debt can result into perpetual burder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="2880" width="199" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="35GgQiStkZLXX9v2gaiL-82" value="8. crowding out" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2" y="2940" width="199" height="40" as="geometry" />
+        <mxCell id="35GgQiStkZLXX9v2gaiL-82" value="8. crowding out" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="2" y="2940" width="198" height="40" as="geometry">
+            <mxRectangle x="2" y="2940" width="330" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VM9yePtdfOpJjgd5AzSa-4" value="government spending would sometimes substitute&amp;nbsp; private&amp;nbsp; spending. crowding&amp;nbsp; out&amp;nbsp; view&amp;nbsp; is&amp;nbsp; that&amp;nbsp; a&amp;nbsp; rapid&amp;nbsp; growth&amp;nbsp; of&amp;nbsp; government&amp;nbsp; spending&amp;nbsp; leads&amp;nbsp; to&amp;nbsp; a&amp;nbsp; transfer&amp;nbsp; of&amp;nbsp; scarce&amp;nbsp; productive&amp;nbsp; resources from the private sector to the public sector where productivity might be lower. When the government increases its spending by borrowing&amp;nbsp; from&amp;nbsp; the&amp;nbsp; loanable&amp;nbsp; funds&amp;nbsp; from&amp;nbsp; the market&amp;nbsp; the&amp;nbsp; demand&amp;nbsp; for&amp;nbsp; loans&amp;nbsp; increases&amp;nbsp; and&amp;nbsp; this&amp;nbsp; pushes&amp;nbsp; the&amp;nbsp; interest&amp;nbsp; rates&amp;nbsp; up. Private&amp;nbsp; investments&amp;nbsp; are&amp;nbsp; sensitive&amp;nbsp; to interest rates and therefore some private investment spending is discouraged" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="35GgQiStkZLXX9v2gaiL-82">
+          <mxGeometry y="40" width="330" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VM9yePtdfOpJjgd5AzSa-1" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-780" width="30" height="30" as="geometry" />
