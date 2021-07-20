@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T10:07:53.133Z" agent="5.0 (X11)" etag="9KMqb0AGcaiDlwocZx7Z" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T10:07:59.812Z" agent="5.0 (X11)" etag="Ta_JHG41tVu9X2yUcPOv" version="14.9.0" type="github">
   <diagram id="wOJo9cTKTQIo0i3dbINE" name="Page-1">
     <mxGraphModel dx="4404" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -172,7 +172,7 @@
           <mxGeometry x="705" y="1690" width="210" height="500" as="geometry" />
         </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-42" value="Is it possible that the value of money multiplier is zero? It may happen when the interest rates are too low and the banks prefer to hold the newly injected reserves as excess reserves with no risk attached to it.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="1880" width="360" height="80" as="geometry" />
+          <mxGeometry x="-290" y="1790" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-43" target="dfeecgFuSxewk-cd-wJP-44">
           <mxGeometry relative="1" as="geometry" />
