@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T09:29:33.977Z" agent="5.0 (X11)" etag="0ewOv-KXwjCxSWAQnAdh" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T10:07:53.133Z" agent="5.0 (X11)" etag="9KMqb0AGcaiDlwocZx7Z" version="14.9.0" type="github">
   <diagram id="wOJo9cTKTQIo0i3dbINE" name="Page-1">
-    <mxGraphModel dx="1442" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4404" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,11 +180,26 @@
         <mxCell id="dfeecgFuSxewk-cd-wJP-43" value="Government expenditure on Money supply." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2240" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-44" target="dfeecgFuSxewk-cd-wJP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-44" value="Government expenditure has a direct impact on money supply.Higher the Government expenditure, higher will be the money supply.When&amp;nbsp; Government&amp;nbsp; expenditure&amp;nbsp; rises,&amp;nbsp; it&amp;nbsp; Government&amp;nbsp; borrowsmoney from&amp;nbsp; Reserve&amp;nbsp; bank&amp;nbsp; of&amp;nbsp; India&amp;nbsp; .&amp;nbsp; When&amp;nbsp; Government&amp;nbsp; falls&amp;nbsp; short&amp;nbsp; of&amp;nbsp; bank balance with RBI it avails the facility of ways and Means advances also called as overdraft facility.&amp;nbsp; The&amp;nbsp; excess&amp;nbsp; money&amp;nbsp; availed&amp;nbsp; by&amp;nbsp; Government&amp;nbsp; is&amp;nbsp; used&amp;nbsp; to&amp;nbsp; make&amp;nbsp; payment .These payments gets&amp;nbsp; deposited&amp;nbsp; in&amp;nbsp; banks&amp;nbsp; by&amp;nbsp; the&amp;nbsp; recipient&amp;nbsp; of&amp;nbsp; money. This&amp;nbsp; resuls&amp;nbsp; in&amp;nbsp; excess&amp;nbsp; deposits&amp;nbsp; with&amp;nbsp; commercial&amp;nbsp; banks.&amp;nbsp; These&amp;nbsp; excess deposits causes money supply to increase by multiple times." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="2300" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="dfeecgFuSxewk-cd-wJP-46" value="expansion&amp;nbsp; multiplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2450" width="120" height="40" as="geometry" />
+        <mxCell id="dfeecgFuSxewk-cd-wJP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-46" target="dfeecgFuSxewk-cd-wJP-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-46" value="Credit multiplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-49" target="dfeecgFuSxewk-cd-wJP-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-49" value="`\text{Credit Multiplier} =1/\text{Required Reserved Ratio}`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2620" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-51" value="The&amp;nbsp; Credit&amp;nbsp; Multiplier&amp;nbsp; also&amp;nbsp; referred&amp;nbsp; to&amp;nbsp; as&amp;nbsp; the&amp;nbsp; deposit&amp;nbsp; multiplier&amp;nbsp; or&amp;nbsp;&amp;nbsp;&amp;nbsp; the&amp;nbsp; deposit&amp;nbsp; expansion&amp;nbsp; multiplier. The&amp;nbsp; deposit&amp;nbsp; expansion&amp;nbsp; multiplier&amp;nbsp; describes&amp;nbsp; the&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; additional&amp;nbsp; money created&amp;nbsp; by&amp;nbsp; c&amp;nbsp; ommercial&amp;nbsp; bank&amp;nbsp; through&amp;nbsp; the&amp;nbsp; process&amp;nbsp; of&amp;nbsp; lending&amp;nbsp; the&amp;nbsp; available&amp;nbsp; money&amp;nbsp; it has&amp;nbsp; in&amp;nbsp; excess&amp;nbsp; of&amp;nbsp; the&amp;nbsp;&amp;nbsp;&amp;nbsp; central&amp;nbsp;&amp;nbsp;&amp;nbsp; bank&#39;s&amp;nbsp; reserve&amp;nbsp; requirements.&amp;nbsp; The&amp;nbsp; deposit&amp;nbsp; expansion multiplier is, thus inextricably tied&amp;nbsp; to&amp;nbsp; the&amp;nbsp; bank&#39;s reserve requirement. This measure tells&amp;nbsp; us&amp;nbsp; how&amp;nbsp; much&amp;nbsp; new&amp;nbsp; money&amp;nbsp; will&amp;nbsp; be&amp;nbsp; created&amp;nbsp; by&amp;nbsp; the&amp;nbsp; banking&amp;nbsp; system&amp;nbsp; for&amp;nbsp; a&amp;nbsp; given increase in the high powered money. It reflects a bank&#39;s ability to increase the money supply. The deposit expansion multiplier is the reciprocal of the required reserve ratio." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2720" width="360" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
