@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T15:53:57.907Z" agent="5.0 (X11)" version="14.9.0" etag="4z5gUtSY0hmskNzV0JyO" type="github"><diagram id="uZ_I0G05iMyhAVquoksj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-20T16:09:59.915Z" agent="5.0 (X11)" etag="c60kJ9qzfjjgmkgLIak7" version="14.9.0" type="github">
+  <diagram id="uZ_I0G05iMyhAVquoksj" name="Page-1">
+    <mxGraphModel dx="590" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mV8W3YHHtoXGlo1Gx1Kc-1" target="mV8W3YHHtoXGlo1Gx1Kc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-1" value="Monetary Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-2" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i)maintenance of economic growth,&lt;/div&gt;&lt;div&gt;(ii)ensuring an adequate flow of credit to the productive sectors, &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)sustaining a moderate structure of&amp;nbsp;&amp;nbsp; interest rates to encourage investments&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)creation of an efficient market for government securities. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mV8W3YHHtoXGlo1Gx1Kc-4" target="mV8W3YHHtoXGlo1Gx1Kc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-4" value="Monetary policy refers to the use of monetary policy instruments which are at the disposal&amp;nbsp; of&amp;nbsp; the&amp;nbsp; central&amp;nbsp; bank&amp;nbsp; to&amp;nbsp; regulate&amp;nbsp; the&amp;nbsp; availability,&amp;nbsp; cost&amp;nbsp; and&amp;nbsp; use&amp;nbsp; of&amp;nbsp; money&amp;nbsp; and credit to promote economic growth, price stability, optimum levels of output and&amp;nbsp; employment,&amp;nbsp; balance&amp;nbsp; of&amp;nbsp; payments&amp;nbsp; equilibrium,&amp;nbsp; stable&amp;nbsp; currency&amp;nbsp; or&amp;nbsp; any&amp;nbsp; other&amp;nbsp; goal&amp;nbsp; of&amp;nbsp; government&#39;s&amp;nbsp; economic&amp;nbsp; policy." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="320" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
