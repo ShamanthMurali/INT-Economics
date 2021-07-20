@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T19:49:06.554Z" agent="5.0 (X11)" etag="rjYDy0cZ0Ut8CP-ulzpm" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T20:31:15.666Z" agent="5.0 (X11)" etag="3bkMy5g1FL-1HHk_dcar" version="14.9.0" type="github">
   <diagram id="uZ_I0G05iMyhAVquoksj" name="Page-1">
-    <mxGraphModel dx="3975" dy="2668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2114" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -626,7 +626,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-299" value="instruments for Implementing monetary policy." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="319" y="1400" width="160" height="40" as="geometry" />
+          <mxGeometry x="300" y="1400" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mV8W3YHHtoXGlo1Gx1Kc-300" target="mV8W3YHHtoXGlo1Gx1Kc-304" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -647,7 +647,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-302" value="Direct&amp;nbsp; instruments&amp;nbsp; are&amp;nbsp; actions&amp;nbsp; taken&amp;nbsp; by&amp;nbsp; RBI&amp;nbsp; using&amp;nbsp; regulatory powers." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1540" width="160" height="50" as="geometry" />
+          <mxGeometry x="60" y="1540" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G87ldfreIKaRfnHamCQ6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mV8W3YHHtoXGlo1Gx1Kc-304" target="G87ldfreIKaRfnHamCQ6-9">
           <mxGeometry relative="1" as="geometry" />
@@ -729,6 +729,15 @@
         </mxCell>
         <mxCell id="G87ldfreIKaRfnHamCQ6-16" value="This&amp;nbsp; instrument&amp;nbsp; is&amp;nbsp; used&amp;nbsp; to&amp;nbsp; absorb&amp;nbsp; excess&amp;nbsp; liquidity&amp;nbsp; from&amp;nbsp; the market&amp;nbsp; arising&amp;nbsp; from&amp;nbsp; large&amp;nbsp; capital&amp;nbsp; inflows.&amp;nbsp; Significant&amp;nbsp; inflow&amp;nbsp; of foreign capital creates excess liquidity in domestic market.This&amp;nbsp; excess&amp;nbsp; liquidity&amp;nbsp; is&amp;nbsp; removed&amp;nbsp; through&amp;nbsp; a&amp;nbsp; process&amp;nbsp; known&amp;nbsp; as sterilisation.Under&amp;nbsp; this&amp;nbsp; scheme&amp;nbsp; the&amp;nbsp; Government&amp;nbsp; of&amp;nbsp; India&amp;nbsp; borrows&amp;nbsp; from&amp;nbsp; RBI (suchborrowings&amp;nbsp;&amp;nbsp; being&amp;nbsp;&amp;nbsp; additional&amp;nbsp;&amp;nbsp; toits&amp;nbsp;&amp;nbsp; normal&amp;nbsp;&amp;nbsp; borrowing requirements)&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; issues&amp;nbsp;&amp;nbsp; treasurybills/dated&amp;nbsp;&amp;nbsp; securities for absorbing&amp;nbsp; excess&amp;nbsp; liquidityfrom&amp;nbsp; market&amp;nbsp; arising&amp;nbsp; from&amp;nbsp; large&amp;nbsp; capital inflows." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="400" y="1710" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G87ldfreIKaRfnHamCQ6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G87ldfreIKaRfnHamCQ6-24" target="G87ldfreIKaRfnHamCQ6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G87ldfreIKaRfnHamCQ6-24" value="monetary&amp;nbsp; policy&amp;nbsp; framework Agreement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G87ldfreIKaRfnHamCQ6-25" value="The&amp;nbsp; monetary&amp;nbsp; policy&amp;nbsp; framer&amp;nbsp; work&amp;nbsp; agreement&amp;nbsp; is&amp;nbsp; an&amp;nbsp; agreement between&amp;nbsp; Government&amp;nbsp; of&amp;nbsp; India&amp;nbsp; and&amp;nbsp; the&amp;nbsp; RBI&amp;nbsp; on&amp;nbsp; the&amp;nbsp; maximum tolerable inflation rate that RBI should target to achieve. For&amp;nbsp; Achieving&amp;nbsp; this&amp;nbsp; RBI&amp;nbsp; Act&amp;nbsp; was&amp;nbsp; amended&amp;nbsp; in&amp;nbsp; 2016&amp;nbsp; to&amp;nbsp; provide&amp;nbsp; a statutory&amp;nbsp;&amp;nbsp; basis&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; implementation&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; flexible&amp;nbsp;&amp;nbsp; inflation targeting&amp;nbsp; framework.&amp;nbsp; The&amp;nbsp; export&amp;nbsp; committee&amp;nbsp; under&amp;nbsp; Urjit&amp;nbsp; Patel suggested&amp;nbsp; the&amp;nbsp; RBI&amp;nbsp; make&amp;nbsp; inflation&amp;nbsp; targeting&amp;nbsp; the&amp;nbsp; primary&amp;nbsp; objective of&amp;nbsp; its&amp;nbsp; monetary&amp;nbsp; policy.&amp;nbsp;&amp;nbsp;&amp;nbsp; The&amp;nbsp; inflation&amp;nbsp; target&amp;nbsp; is&amp;nbsp; to&amp;nbsp; be&amp;nbsp; set&amp;nbsp; by&amp;nbsp; the Government&amp;nbsp; of&amp;nbsp; India&amp;nbsp; in&amp;nbsp; consultation&amp;nbsp; with&amp;nbsp; the&amp;nbsp; Reserve&amp;nbsp; bank.&amp;nbsp; This target is set once in five years.The&amp;nbsp; central&amp;nbsp; Government&amp;nbsp; has&amp;nbsp; notified&amp;nbsp; 4&amp;nbsp; percent&amp;nbsp; consumer&amp;nbsp; price index inflation as the target for the period from August 5 2016 to March 31 2021 with upper tolerance limit of 6 percent and lower tolerance limit of 2 percent.The RBI is mandated to publish a monetary policy report every six months explaining the source of inflation and forecasts of inflation for the coming period of six to eighteen months.Following&amp;nbsp; situations&amp;nbsp; will&amp;nbsp; constitute&amp;nbsp; Failure&amp;nbsp; to&amp;nbsp; achieve&amp;nbsp; inflation targeta)The&amp;nbsp; average&amp;nbsp; inflation&amp;nbsp; is&amp;nbsp; more&amp;nbsp; than&amp;nbsp; the&amp;nbsp; upper&amp;nbsp; tolerance&amp;nbsp; level&amp;nbsp; of&amp;nbsp; the inflation target for any three consecutive quarters.b)The&amp;nbsp; average&amp;nbsp; inflation&amp;nbsp; is&amp;nbsp; less&amp;nbsp; than&amp;nbsp; the&amp;nbsp; lower&amp;nbsp; tolerance&amp;nbsp; level&amp;nbsp; for&amp;nbsp; any three consecutive quarters." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-20" width="440" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
