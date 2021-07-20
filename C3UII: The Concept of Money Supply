@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T08:42:04.048Z" agent="5.0 (X11)" etag="RrQQcvZohcVoWZyvSNvk" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T09:16:01.566Z" agent="5.0 (X11)" etag="O9dDI66hI8EKSo6pNvfP" version="14.9.0" type="github">
   <diagram id="wOJo9cTKTQIo0i3dbINE" name="Page-1">
-    <mxGraphModel dx="1244" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,23 +64,110 @@
         <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-18" value="&lt;div&gt;L1 = NM3 + All deposits with the post office savings banks (excluding National Savings Certificates).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;L2 = L1 +Term deposits with term lending institutions and refinancing institutions&amp;nbsp; (FIs) + Term borrowing by FIs + Certificates of deposit issued by FIs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;L3 =L2 + Public deposits of non-banking financial companies&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="880" width="480" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-1" target="dfeecgFuSxewk-cd-wJP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-1" target="dfeecgFuSxewk-cd-wJP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-1" target="dfeecgFuSxewk-cd-wJP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-1" value="different approaches for determining money supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1040" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-3" target="dfeecgFuSxewk-cd-wJP-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-3" value="Combined Behaviour" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-4" target="dfeecgFuSxewk-cd-wJP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-4" value="Central Bank Behaviour" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-5" target="dfeecgFuSxewk-cd-wJP-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-5" value="People Behaviour" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-6" value="Money&amp;nbsp; Supply&amp;nbsp; is&amp;nbsp; determined&amp;nbsp; exogenously&amp;nbsp; by&amp;nbsp; the Central Bank." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1180" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="1180" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-7" value="Money Supply is determined endogenously by changes in the economic activities&amp;nbsp; which&amp;nbsp; affect&amp;nbsp; people’s&amp;nbsp; desire&amp;nbsp; to&amp;nbsp; hold&amp;nbsp; Currency&amp;nbsp; relative&amp;nbsp; to Deposits, Rate of Interest, etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1180" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="1180" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-13" target="dfeecgFuSxewk-cd-wJP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-13" value="Supply&amp;nbsp; of&amp;nbsp; Nominal&amp;nbsp; Money&amp;nbsp; in&amp;nbsp; the&amp;nbsp; Economy&amp;nbsp; is&amp;nbsp; determined&amp;nbsp; by&amp;nbsp; the&amp;nbsp; Joint behaviour&amp;nbsp; of&amp;nbsp; the&amp;nbsp; Central&amp;nbsp; Bank,&amp;nbsp; the&amp;nbsp; Commercial&amp;nbsp; Banks&amp;nbsp; and&amp;nbsp; Public. (Money Multiplier Approach.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1180" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-18" target="dfeecgFuSxewk-cd-wJP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-18" value="Money multiplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-20" target="dfeecgFuSxewk-cd-wJP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-20" target="dfeecgFuSxewk-cd-wJP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-20" value="`M = m xx MB`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-23" target="dfeecgFuSxewk-cd-wJP-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-23" value="`\text{Money multiplier (m)} = \text{Money supply}/\text{Monetary Base}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1460" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-25" value="&lt;div&gt;M = money supply&lt;/div&gt;&lt;div&gt;m = money multiplier&lt;/div&gt;&lt;div&gt;MB = monetary base.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1395" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-27" target="dfeecgFuSxewk-cd-wJP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-27" target="dfeecgFuSxewk-cd-wJP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-27" target="dfeecgFuSxewk-cd-wJP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-27" value="Behavior of" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-28" target="dfeecgFuSxewk-cd-wJP-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-28" value="commercial banks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-29" target="dfeecgFuSxewk-cd-wJP-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-29" value="Central Bank" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfeecgFuSxewk-cd-wJP-30" target="dfeecgFuSxewk-cd-wJP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-30" value="Public/people" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-35" value="Central bank is responsible for issue of currency notes and coins.These&amp;nbsp; Notes&amp;nbsp; and&amp;nbsp; coins&amp;nbsp; form&amp;nbsp;&amp;nbsp;&amp;nbsp; High&amp;nbsp; powered&amp;nbsp; money.&amp;nbsp; This&amp;nbsp; high&amp;nbsp; powered&amp;nbsp; money&amp;nbsp; is&amp;nbsp; called&amp;nbsp; as&amp;nbsp; monetary&amp;nbsp; based. Higher the monetary base higher will be the supply of Money." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1690" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-37" value="people having cash decide how&amp;nbsp; much of&amp;nbsp; money should&amp;nbsp; be&amp;nbsp; held&amp;nbsp; in&amp;nbsp; cash&amp;nbsp; and&amp;nbsp; how&amp;nbsp; much&amp;nbsp; of&amp;nbsp; money&amp;nbsp; should&amp;nbsp; be deposited in Bank.The ratio of currency and deposit in bank is denoted by c.&amp;nbsp; This ratio is determined by the&amp;nbsp; behaviour of&amp;nbsp; people.If&amp;nbsp; people&amp;nbsp; decided&amp;nbsp; to&amp;nbsp; keep&amp;nbsp; more&amp;nbsp; money&amp;nbsp; in&amp;nbsp; pocked,&amp;nbsp; less&amp;nbsp; money&amp;nbsp; will&amp;nbsp; be deposited in bank and vice versa." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1690" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-39" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1690" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
