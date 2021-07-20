@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T17:12:06.476Z" agent="5.0 (X11)" etag="wLQI5RX4QRGUKOVBUbkV" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T17:12:19.914Z" agent="5.0 (X11)" etag="_Md8Lt-BwF8tCSE-jj1K" version="14.9.0" type="github">
   <diagram id="uZ_I0G05iMyhAVquoksj" name="Page-1">
-    <mxGraphModel dx="5010" dy="3190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -614,7 +614,7 @@
           <mxGeometry x="19" y="1240" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-294" value="Intermediate&amp;nbsp; Target&amp;nbsp; is&amp;nbsp; a&amp;nbsp; variable&amp;nbsp; which&amp;nbsp; the&amp;nbsp; Central&amp;nbsp; Bank&amp;nbsp; can&amp;nbsp; hope to&amp;nbsp; influence&amp;nbsp; to&amp;nbsp; a&amp;nbsp; reasonable&amp;nbsp; degree&amp;nbsp; through&amp;nbsp; the&amp;nbsp; Operating&amp;nbsp; Target and&amp;nbsp; which&amp;nbsp; displays&amp;nbsp; a&amp;nbsp; predictable&amp;nbsp; and&amp;nbsp; stable&amp;nbsp; relationship&amp;nbsp; with&amp;nbsp; the Goal Variables. Examples: Economic Stability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="1240" width="240" height="120" as="geometry" />
+          <mxGeometry x="280" y="1240" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-295" value="These are the various tools that a Central Bank can use to influence Money&amp;nbsp; Market&amp;nbsp; and&amp;nbsp; Credit&amp;nbsp; Conditions&amp;nbsp; and&amp;nbsp; pursue&amp;nbsp; its&amp;nbsp; Monetary Policy Objectives." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="1240" width="240" height="80" as="geometry" />
