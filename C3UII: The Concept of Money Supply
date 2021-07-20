@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T09:27:49.675Z" agent="5.0 (X11)" etag="rdYe18zQlPYEpMjtwStm" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T09:29:33.977Z" agent="5.0 (X11)" etag="0ewOv-KXwjCxSWAQnAdh" version="14.9.0" type="github">
   <diagram id="wOJo9cTKTQIo0i3dbINE" name="Page-1">
     <mxGraphModel dx="1442" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -182,6 +182,9 @@
         </mxCell>
         <mxCell id="dfeecgFuSxewk-cd-wJP-44" value="Government expenditure has a direct impact on money supply.Higher the Government expenditure, higher will be the money supply.When&amp;nbsp; Government&amp;nbsp; expenditure&amp;nbsp; rises,&amp;nbsp; it&amp;nbsp; Government&amp;nbsp; borrowsmoney from&amp;nbsp; Reserve&amp;nbsp; bank&amp;nbsp; of&amp;nbsp; India&amp;nbsp; .&amp;nbsp; When&amp;nbsp; Government&amp;nbsp; falls&amp;nbsp; short&amp;nbsp; of&amp;nbsp; bank balance with RBI it avails the facility of ways and Means advances also called as overdraft facility.&amp;nbsp; The&amp;nbsp; excess&amp;nbsp; money&amp;nbsp; availed&amp;nbsp; by&amp;nbsp; Government&amp;nbsp; is&amp;nbsp; used&amp;nbsp; to&amp;nbsp; make&amp;nbsp; payment .These payments gets&amp;nbsp; deposited&amp;nbsp; in&amp;nbsp; banks&amp;nbsp; by&amp;nbsp; the&amp;nbsp; recipient&amp;nbsp; of&amp;nbsp; money. This&amp;nbsp; resuls&amp;nbsp; in&amp;nbsp; excess&amp;nbsp; deposits&amp;nbsp; with&amp;nbsp; commercial&amp;nbsp; banks.&amp;nbsp; These&amp;nbsp; excess deposits causes money supply to increase by multiple times." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="2300" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dfeecgFuSxewk-cd-wJP-46" value="expansion&amp;nbsp; multiplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2450" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
