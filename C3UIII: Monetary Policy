@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T17:13:20.068Z" agent="5.0 (X11)" etag="RpJvyK7dR2IRzx6AqMIi" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T18:22:29.602Z" agent="5.0 (X11)" etag="jd7JrRBPgIkPSNPo7_eA" version="14.9.0" type="github">
   <diagram id="uZ_I0G05iMyhAVquoksj" name="Page-1">
-    <mxGraphModel dx="2098" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -645,6 +645,24 @@
         </mxCell>
         <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-304" value="Indirect instruments are actions taken by RBI using its influence on money market conditions." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="619" y="1540" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mV8W3YHHtoXGlo1Gx1Kc-309" target="mV8W3YHHtoXGlo1Gx1Kc-312">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-309" value="&lt;div&gt;1. Cash reserve &lt;br&gt;&lt;/div&gt;&lt;div&gt;ratio (CRR)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mV8W3YHHtoXGlo1Gx1Kc-310" target="mV8W3YHHtoXGlo1Gx1Kc-314">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-310" value="2. Statutory liquidity ratio (SLR)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-312" value="&lt;div&gt;Scheduled&amp;nbsp; Commercial&amp;nbsp; Banks&amp;nbsp; should&amp;nbsp; maintain&amp;nbsp; a&amp;nbsp; fraction&amp;nbsp; of&amp;nbsp; the total Net Demand &amp;amp; Time Liabilities (NDTL) as Cash Deposit with RBI. RR has to be maintained as Cash with RBI. RBI does notpay any Interest on such balances. Non –Bank Financial Institutions (NBFIs) are outside the purview of this Reserve Requirement.&lt;/div&gt;&lt;div&gt;&lt;u&gt;Failure&amp;nbsp; to&amp;nbsp; meet&amp;nbsp; its&amp;nbsp; Required&amp;nbsp; Reserve&amp;nbsp; Requirements&amp;nbsp; would attract penalty in the form of Penal Interest charged by RBI.&lt;/u&gt; CRR isan Important quantitative tool in Liquidity Management Higher&amp;nbsp; the&amp;nbsp; CRR,&amp;nbsp; lower&amp;nbsp; will&amp;nbsp; be&amp;nbsp; the&amp;nbsp; liquidity&amp;nbsp; of&amp;nbsp; Banks,&amp;nbsp; and&amp;nbsp; vice-versa.&lt;/div&gt;&lt;div&gt;During economic slowdown, RBI reduces CRR to enable to Banks to expand Credit and increases the Money Supply During periods of High Inflation, RBI increases CRR to contain credit expansion.RBI&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; set&amp;nbsp;&amp;nbsp; CRR&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; keeping&amp;nbsp;&amp;nbsp; with the broad objective of maintaining Monetary Stability.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Presently As on july 2021,CRR is 4%&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1700" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8W3YHHtoXGlo1Gx1Kc-314" value="&lt;div&gt;Scheduled&amp;nbsp;&amp;nbsp; Commercial&amp;nbsp;&amp;nbsp; Banks&amp;nbsp;&amp;nbsp; should&amp;nbsp;&amp;nbsp; maintain&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; stipulated percentage of their Total / Net DTL in Cash or Gold, or prescribed Investments. SLR requires holding of Assets in one of the 3 categories (Cash / Gold / Investments)by the Bank itself. SLR is an important tool for&amp;nbsp; controlling&amp;nbsp; Liquidity&amp;nbsp; in&amp;nbsp; the&amp;nbsp; Domestic&amp;nbsp; Market&amp;nbsp; by&amp;nbsp; manipulating Bank&amp;nbsp; Credit.&amp;nbsp; Changes&amp;nbsp; in&amp;nbsp; SLR&amp;nbsp; chiefly&amp;nbsp; influence&amp;nbsp; the&amp;nbsp; availability&amp;nbsp; of resources in the Banking System for lending. During high liquidity period, a rise in SLR rises the fraction of Bank’s Assets locked in eligible Instruments &amp;amp; thus reduces Credit Creation Capacity During period of economic slowdown, a reduction in SLR has the opposite effect. SLR&amp;nbsp; also&amp;nbsp; facilitates&amp;nbsp; an&amp;nbsp; effective&amp;nbsp; operating&amp;nbsp; market&amp;nbsp; for&amp;nbsp; Government Securities. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;As on July.2017, SLR is 18%&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Prescribed&amp;nbsp;&amp;nbsp; Investments&amp;nbsp;&amp;nbsp; should&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; made&amp;nbsp;&amp;nbsp; in&lt;/u&gt;&lt;/div&gt;&lt;div&gt;-(a)Treasury –Bills of the Government of India.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Dated Securities including those issued by the Government of&amp;nbsp; India&amp;nbsp; under&amp;nbsp; the&amp;nbsp; Market&amp;nbsp; Borrowings&amp;nbsp; Programme and&amp;nbsp; the Market Stabilization Scheme (MSS).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)State&amp;nbsp;&amp;nbsp;&amp;nbsp; Development&amp;nbsp;&amp;nbsp;&amp;nbsp; Loans&amp;nbsp;&amp;nbsp;&amp;nbsp; (SDLs)&amp;nbsp;&amp;nbsp;&amp;nbsp; issued&amp;nbsp;&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp;&amp;nbsp; State Governments under their Market Borrowings Programme.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)Other Notified Instruments, mainly the Securities issued by PSEs.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1700" width="440" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
