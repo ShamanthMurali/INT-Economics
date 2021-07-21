@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T09:33:03.924Z" agent="5.0 (X11)" etag="I_iPWnpW30amSkbJpeTG" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T09:39:49.811Z" agent="5.0 (X11)" etag="qw4aARTrAMZvHvVYvFhy" version="14.9.0" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
-    <mxGraphModel dx="1043" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,26 @@
         <mxCell id="90jjOsth5Do5PupUWRDe-3" value="Non price related measures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-4" target="90jjOsth5Do5PupUWRDe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="90jjOsth5Do5PupUWRDe-4" value="Tariffs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-8" target="90jjOsth5Do5PupUWRDe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-8" target="90jjOsth5Do5PupUWRDe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-8" value="Tariff&amp;nbsp; (also&amp;nbsp; called&amp;nbsp; Customs&amp;nbsp; Duty)&amp;nbsp; is&amp;nbsp; a&amp;nbsp; tax&amp;nbsp; or&amp;nbsp; duty imposed&amp;nbsp; on&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; that&amp;nbsp; are&amp;nbsp; importedor&amp;nbsp; exported.&amp;nbsp; Tarrifs&amp;nbsp; are&amp;nbsp; usually&amp;nbsp; imposed&amp;nbsp; on&amp;nbsp; imports&amp;nbsp; however&amp;nbsp; in&amp;nbsp; some&amp;nbsp; cases tariffs may be imposed on exports." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-10" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) torestrict&amp;nbsp; trade,&amp;nbsp; by&amp;nbsp; increasing&amp;nbsp; the&amp;nbsp; price&amp;nbsp; of&amp;nbsp; imported&amp;nbsp; goods and services,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)to protect the domestic import-competing Industries,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)To&amp;nbsp; discourage&amp;nbsp; consumption&amp;nbsp; of&amp;nbsp; imported&amp;nbsp; foreign&amp;nbsp; goods,&amp;nbsp; by making them “dear”,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)to decrease the volume of imported goodsinto the country.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; Domestic&amp;nbsp; Producers&amp;nbsp; of&amp;nbsp; the&amp;nbsp; same&amp;nbsp; product&amp;nbsp; to charge a “Fair Price” for such item, when compared with the imported item, and do not overcharge the Consumers,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)to&amp;nbsp; contribute&amp;nbsp; to&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; Government&amp;nbsp; Revenue&amp;nbsp; in&amp;nbsp; the form of Import Duties.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="550" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-12" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Negetive impact&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)reduction in consumer well-being, due to higher cost of imported goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)increase in Prices by Domestic Producers of same&amp;nbsp; item, to match with high cost of imported goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)loss of output and employment in case of Sectors that are rendered redundant due to import of goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)creation of trade distortions, by encouraging inefficient production in Home Country, and discourage efficient production in the rest of the world.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="320" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
