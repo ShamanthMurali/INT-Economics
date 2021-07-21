@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T09:21:42.459Z" agent="5.0 (X11)" version="14.9.0" etag="sG1wz-KNR8cgRxTiXmAe" type="github"><diagram id="eVq7P0OTf-j4sIJypD3C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-21T09:32:55.104Z" agent="5.0 (X11)" etag="Aqse-mLBJWJjTwiQtVRg" version="14.9.0" type="github">
+  <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
+    <mxGraphModel dx="1251" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="90jjOsth5Do5PupUWRDe-1" value="Trade Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-2" target="90jjOsth5Do5PupUWRDe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-2" target="90jjOsth5Do5PupUWRDe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-2" value="&lt;div&gt;Trade policy is collection of all instruments that Government uses to&amp;nbsp; promote&amp;nbsp; or&amp;nbsp; restrict&amp;nbsp; imports&amp;nbsp; and&amp;nbsp; exports.&amp;nbsp; It&amp;nbsp; also&amp;nbsp; includes approach taken by countries in trade negotiations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)To protect Domestic Industries from Foreign Competition,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)To conserve the Foreign Exchange Resources of the Country,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)To make the Balance of Payments Position favourable.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)To curb conspicuous Consumption,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)To mobilise Revenue for the Government and,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)To discriminate against certain countries.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-3" value="Non price related measures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-4" value="Tariffs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
