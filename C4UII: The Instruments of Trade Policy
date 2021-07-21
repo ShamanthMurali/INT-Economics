@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T22:08:23.143Z" agent="5.0 (X11)" etag="VN3FQ7dN3_rxbwc06dVV" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T22:31:11.877Z" agent="5.0 (X11)" etag="zZVr54oLCqkM3j5wEGH4" version="14.9.0" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
-    <mxGraphModel dx="3332" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1559" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,7 +287,7 @@
             <mxRectangle x="680" y="650" width="200" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DuYHdu0TzIvNKpncwadV-14" value="define&amp;nbsp; the&amp;nbsp; specific&amp;nbsp; characteristics&amp;nbsp; that&amp;nbsp; a&amp;nbsp; product&amp;nbsp; should&amp;nbsp; have,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; its&amp;nbsp; size,&amp;nbsp; shape,&amp;nbsp; design,&amp;nbsp; labelling&amp;nbsp; /&amp;nbsp; marking&amp;nbsp; /&amp;nbsp; packaging,&amp;nbsp; functionality&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp; performance&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; production&amp;nbsp;&amp;nbsp; methods,&amp;nbsp;&amp;nbsp; excluding&amp;nbsp;&amp;nbsp; measures&amp;nbsp;&amp;nbsp; covered by the SPS Agreement." style="rounded=0;whiteSpace=wrap;html=1;" parent="DuYHdu0TzIvNKpncwadV-13" vertex="1">
+        <mxCell id="DuYHdu0TzIvNKpncwadV-14" value="define the specific characteristics&amp;nbsp; that a product should have, such as its size, shape, design, labeling / marking / packaging, functionality or performance and production methods, excluding measures covered by the SPS Agreement." style="rounded=0;whiteSpace=wrap;html=1;" parent="DuYHdu0TzIvNKpncwadV-13" vertex="1">
           <mxGeometry y="40" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DuYHdu0TzIvNKpncwadV-15" target="DuYHdu0TzIvNKpncwadV-13">
@@ -304,115 +304,43 @@
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DuYHdu0TzIvNKpncwadV-18" target="wS3_Qaj_D8sXFB1WA7Ii-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DuYHdu0TzIvNKpncwadV-18" value="Import Quotas" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="920" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DuYHdu0TzIvNKpncwadV-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="DuYHdu0TzIvNKpncwadV-18" vertex="1">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-1" target="wS3_Qaj_D8sXFB1WA7Ii-3">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-1" value="Price Control &#xa;Measures" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="640" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-1">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-3" target="wS3_Qaj_D8sXFB1WA7Ii-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-3" value="Non-automatic &#xa;Licensing and &#xa;Prohibitions" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="700" width="120" height="50" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-3">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-5" target="wS3_Qaj_D8sXFB1WA7Ii-7">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-5" value="Financial  Measures" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="770" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-5">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-7" target="wS3_Qaj_D8sXFB1WA7Ii-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-7" value="Measures&#xa;Affecting&#xa;Competition" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="830" width="120" height="50" as="geometry">
-            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-7">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-9" target="wS3_Qaj_D8sXFB1WA7Ii-11">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-9" value="Government &#xa;Procurement&#xa; Policies" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="895" width="120" height="50" as="geometry">
-            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-9">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-11" target="wS3_Qaj_D8sXFB1WA7Ii-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-11" value="Trade-Related&#xa;Investment&#xa;Measures" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="960" width="120" height="50" as="geometry">
-            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-11">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-13" target="wS3_Qaj_D8sXFB1WA7Ii-15">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-13" value="Distribution&#xa;Restrictions" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="1030" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-13">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-15" target="wS3_Qaj_D8sXFB1WA7Ii-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-15" value="Restriction on&#xa;Post-sales Services" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="1090" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-15">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-17" target="wS3_Qaj_D8sXFB1WA7Ii-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-17" value="Rules of origin" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="1150" width="120" height="40" as="geometry">
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-19" target="wS3_Qaj_D8sXFB1WA7Ii-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-21" value="Embargos" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="1270" width="120" height="40" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-17">
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-21">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wS3_Qaj_D8sXFB1WA7Ii-19" target="wS3_Qaj_D8sXFB1WA7Ii-21">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-19" value="Safeguard&#xa;Measures" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="1210" width="120" height="40" as="geometry">
@@ -422,13 +350,85 @@
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-19">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-21" value="Embargos" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="1270" width="120" height="40" as="geometry">
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-17" value="Rules of origin" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="1150" width="120" height="40" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-21">
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-17">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-15" value="Restriction on&#xa;Post-sales Services" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="1090" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-15">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-13" value="Distribution&#xa;Restrictions" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="1030" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-13">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-11" value="Trade-Related&#xa;Investment&#xa;Measures" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="960" width="120" height="50" as="geometry">
+            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-11">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-9" value="Government &#xa;Procurement&#xa; Policies" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="895" width="120" height="50" as="geometry">
+            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-9">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-7" value="Measures&#xa;Affecting&#xa;Competition" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="830" width="120" height="50" as="geometry">
+            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-7">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-5" value="Financial  Measures" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="770" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-5">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-3" value="Non-automatic &#xa;Licensing and &#xa;Prohibitions" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="700" width="120" height="50" as="geometry">
+            <mxRectangle x="920" y="700" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-3">
+          <mxGeometry y="50" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-1" value="Price Control &#xa;Measures" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="920" y="640" width="120" height="40" as="geometry">
+            <mxRectangle x="920" y="640" width="360" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-2" value="Price&amp;nbsp; control&amp;nbsp; measures&amp;nbsp;&amp;nbsp;&amp;nbsp; are&amp;nbsp; steps&amp;nbsp; taken&amp;nbsp; to influence&amp;nbsp; or&amp;nbsp; control&amp;nbsp; the&amp;nbsp; prices&amp;nbsp; of&amp;nbsp; imported&amp;nbsp; goods&amp;nbsp; in&amp;nbsp; order&amp;nbsp; to&amp;nbsp; support domestic price of a certain products when the imports prices of these goods are lower. These are known as para-tariff measures and includes measures&amp;nbsp; other&amp;nbsp; than&amp;nbsp; tariff&amp;nbsp; measures.&amp;nbsp;&amp;nbsp;&amp;nbsp; For&amp;nbsp; example a&amp;nbsp; minimum import price is established for sulphur." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-1">
+          <mxGeometry y="40" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DuYHdu0TzIvNKpncwadV-18" value="Import Quotas" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="920" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="920" y="580" width="280" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DuYHdu0TzIvNKpncwadV-19" value="An&amp;nbsp; import&amp;nbsp; quota&amp;nbsp; is&amp;nbsp; a&amp;nbsp; direct&amp;nbsp; restriction&amp;nbsp; which&amp;nbsp; specifies that&amp;nbsp; only&amp;nbsp; a&amp;nbsp; certain&amp;nbsp; physical&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; will&amp;nbsp; be allowed in to that country during a given period. Import quotas are usually enforced by issuing licences. " style="rounded=0;whiteSpace=wrap;html=1;" parent="DuYHdu0TzIvNKpncwadV-18" vertex="1">
+          <mxGeometry y="40" width="280" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
