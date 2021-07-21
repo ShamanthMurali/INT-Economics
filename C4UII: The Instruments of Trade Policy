@@ -1,192 +1,192 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T09:46:13.556Z" agent="5.0 (X11)" etag="9BKV00vCCDcFNAfhKWkR" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T19:52:59.211Z" agent="5.0 (X11)" etag="iyXoX4VfLfhfHqJtkd3D" version="14.9.0" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
-    <mxGraphModel dx="2322" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1446" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="90jjOsth5Do5PupUWRDe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-1" target="90jjOsth5Do5PupUWRDe-2">
+        <mxCell id="90jjOsth5Do5PupUWRDe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-1" target="90jjOsth5Do5PupUWRDe-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-1" value="Trade Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-1" value="Trade Policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-2" target="90jjOsth5Do5PupUWRDe-4">
+        <mxCell id="90jjOsth5Do5PupUWRDe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-2" target="90jjOsth5Do5PupUWRDe-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-2" target="90jjOsth5Do5PupUWRDe-3">
+        <mxCell id="90jjOsth5Do5PupUWRDe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-2" target="90jjOsth5Do5PupUWRDe-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-2" value="&lt;div&gt;Trade policy is collection of all instruments that Government uses to&amp;nbsp; promote&amp;nbsp; or&amp;nbsp; restrict&amp;nbsp; imports&amp;nbsp; and&amp;nbsp; exports.&amp;nbsp; It&amp;nbsp; also&amp;nbsp; includes approach taken by countries in trade negotiations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)To protect Domestic Industries from Foreign Competition,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)To conserve the Foreign Exchange Resources of the Country,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)To make the Balance of Payments Position favourable.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)To curb conspicuous Consumption,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)To mobilise Revenue for the Government and,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)To discriminate against certain countries.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-2" value="&lt;div&gt;Trade policy is collection of all instruments that Government uses to&amp;nbsp; promote&amp;nbsp; or&amp;nbsp; restrict&amp;nbsp; imports&amp;nbsp; and&amp;nbsp; exports.&amp;nbsp; It&amp;nbsp; also&amp;nbsp; includes approach taken by countries in trade negotiations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)To protect Domestic Industries from Foreign Competition,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)To conserve the Foreign Exchange Resources of the Country,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)To make the Balance of Payments Position favourable.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)To curb conspicuous Consumption,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)To mobilise Revenue for the Government and,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)To discriminate against certain countries.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="60" width="360" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-3" value="Non price related measures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-3" value="Non price related measures" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-4" target="90jjOsth5Do5PupUWRDe-8">
+        <mxCell id="90jjOsth5Do5PupUWRDe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-4" target="90jjOsth5Do5PupUWRDe-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-4" value="Tariffs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-4" value="Tariffs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-8" target="90jjOsth5Do5PupUWRDe-10">
+        <mxCell id="90jjOsth5Do5PupUWRDe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-8" target="90jjOsth5Do5PupUWRDe-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-8" target="90jjOsth5Do5PupUWRDe-12">
+        <mxCell id="90jjOsth5Do5PupUWRDe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-8" target="90jjOsth5Do5PupUWRDe-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-8" value="Tariff&amp;nbsp; (also&amp;nbsp; called&amp;nbsp; Customs&amp;nbsp; Duty)&amp;nbsp; is&amp;nbsp; a&amp;nbsp; tax&amp;nbsp; or&amp;nbsp; duty imposed&amp;nbsp; on&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; that&amp;nbsp; are&amp;nbsp; importedor&amp;nbsp; exported.&amp;nbsp; Tarrifs&amp;nbsp; are&amp;nbsp; usually&amp;nbsp; imposed&amp;nbsp; on&amp;nbsp; imports&amp;nbsp; however&amp;nbsp; in&amp;nbsp; some&amp;nbsp; cases tariffs may be imposed on exports." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-8" value="Tariff&amp;nbsp; (also&amp;nbsp; called&amp;nbsp; Customs&amp;nbsp; Duty)&amp;nbsp; is&amp;nbsp; a&amp;nbsp; tax&amp;nbsp; or&amp;nbsp; duty imposed&amp;nbsp; on&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; that&amp;nbsp; are&amp;nbsp; importedor&amp;nbsp; exported.&amp;nbsp; Tarrifs&amp;nbsp; are&amp;nbsp; usually&amp;nbsp; imposed&amp;nbsp; on&amp;nbsp; imports&amp;nbsp; however&amp;nbsp; in&amp;nbsp; some&amp;nbsp; cases tariffs may be imposed on exports." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="430" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-10" target="90jjOsth5Do5PupUWRDe-14">
+        <mxCell id="90jjOsth5Do5PupUWRDe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-10" target="90jjOsth5Do5PupUWRDe-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-10" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) torestrict&amp;nbsp; trade,&amp;nbsp; by&amp;nbsp; increasing&amp;nbsp; the&amp;nbsp; price&amp;nbsp; of&amp;nbsp; imported&amp;nbsp; goods and services,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)to protect the domestic import-competing Industries,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)To&amp;nbsp; discourage&amp;nbsp; consumption&amp;nbsp; of&amp;nbsp; imported&amp;nbsp; foreign&amp;nbsp; goods,&amp;nbsp; by making them “dear”,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)to decrease the volume of imported goodsinto the country.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; Domestic&amp;nbsp; Producers&amp;nbsp; of&amp;nbsp; the&amp;nbsp; same&amp;nbsp; product&amp;nbsp; to charge a “Fair Price” for such item, when compared with the imported item, and do not overcharge the Consumers,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)to&amp;nbsp; contribute&amp;nbsp; to&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; Government&amp;nbsp; Revenue&amp;nbsp; in&amp;nbsp; the form of Import Duties.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-10" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) torestrict&amp;nbsp; trade,&amp;nbsp; by&amp;nbsp; increasing&amp;nbsp; the&amp;nbsp; price&amp;nbsp; of&amp;nbsp; imported&amp;nbsp; goods and services,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)to protect the domestic import-competing Industries,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)To&amp;nbsp; discourage&amp;nbsp; consumption&amp;nbsp; of&amp;nbsp; imported&amp;nbsp; foreign&amp;nbsp; goods,&amp;nbsp; by making them “dear”,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)to decrease the volume of imported goodsinto the country.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; Domestic&amp;nbsp; Producers&amp;nbsp; of&amp;nbsp; the&amp;nbsp; same&amp;nbsp; product&amp;nbsp; to charge a “Fair Price” for such item, when compared with the imported item, and do not overcharge the Consumers,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)to&amp;nbsp; contribute&amp;nbsp; to&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; Government&amp;nbsp; Revenue&amp;nbsp; in&amp;nbsp; the form of Import Duties.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-310" y="550" width="320" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-12" target="90jjOsth5Do5PupUWRDe-14">
+        <mxCell id="90jjOsth5Do5PupUWRDe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-12" target="90jjOsth5Do5PupUWRDe-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-12" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Negetive impact&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)reduction in consumer well-being, due to higher cost of imported goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)increase in Prices by Domestic Producers of same&amp;nbsp; item, to match with high cost of imported goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)loss of output and employment in case of Sectors that are rendered redundant due to import of goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)creation of trade distortions, by encouraging inefficient production in Home Country, and discourage efficient production in the rest of the world.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-12" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Negetive impact&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)reduction in consumer well-being, due to higher cost of imported goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)increase in Prices by Domestic Producers of same&amp;nbsp; item, to match with high cost of imported goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)loss of output and employment in case of Sectors that are rendered redundant due to import of goods,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)creation of trade distortions, by encouraging inefficient production in Home Country, and discourage efficient production in the rest of the world.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="550" width="320" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-14" value="Types of tariffs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-14" value="Types of tariffs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-17" value="Specific Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="960" width="120" height="40" as="geometry">
-            <mxRectangle x="-40" y="960" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-17">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-19" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1020" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-19">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-21" value="Variable Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1320" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-21">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-23" value="Tariff Rate Quotas" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1260" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-23">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-25" value="Technical Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1200" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-25">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-27" value="Compound Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1140" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-27">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-29" value="Mixed Tarrif" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1080" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-29">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-31" value="Applied Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1560" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-31">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-33" value="Bound Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1500" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-33">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-35" value="Preferential Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1440" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-35">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-37" value="MFN Tariffs " style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1380" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-37">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-39" value="Escalated Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1620" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-39">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-41" value="Prohibitive Tariffs" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1680" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-41">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-43" value="Anti Dumping &#xa;Duties" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1740" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-43">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-45" value="Dumping" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1800" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-45">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-47" value="Safeguard Duties" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-40" y="1860" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-47">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-49" value="Counter Vailing &#xa;Duty (CVD)" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="90jjOsth5Do5PupUWRDe-49" value="Counter Vailing &#xa;Duty (CVD)" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-40" y="1920" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="-40" y="1920" width="200" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-49">
+        <mxCell id="90jjOsth5Do5PupUWRDe-50" value="Countervailing&amp;nbsp; duties&amp;nbsp; are&amp;nbsp; tariffs&amp;nbsp; that&amp;nbsp; aim&amp;nbsp; to&amp;nbsp; offset&amp;nbsp; the&amp;nbsp; artificially&amp;nbsp; low&amp;nbsp; prices&amp;nbsp; charged&amp;nbsp; by&amp;nbsp; exporters&amp;nbsp; who&amp;nbsp; enjoy&amp;nbsp; export&amp;nbsp; subsidies and tax concessions offered by the governments in their home country." style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-49" vertex="1">
+          <mxGeometry y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-47" value="Import subsidies" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1860" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1860" width="200" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-48" value="Import subsidies also exist&amp;nbsp; in some countries. An import subsidy&amp;nbsp; is&amp;nbsp; simply&amp;nbsp; a&amp;nbsp; payment&amp;nbsp; per&amp;nbsp; unit&amp;nbsp; or&amp;nbsp; as&amp;nbsp; a&amp;nbsp; percent&amp;nbsp; of&amp;nbsp; value&amp;nbsp; for&amp;nbsp; the&amp;nbsp; importation of a good (i.e., a negative import tariff)." style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-47" vertex="1">
+          <mxGeometry y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-45" value="Dumping" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1800" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1800" width="330" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-46" value="&lt;div&gt;(a)It is applicable when an Article is imported at less than its Normal Value, i.e. Foreign Seller dumps goods in a country at less than Sale Prices in his market, or less than Full Average Cost.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Dumping –&lt;/div&gt;&lt;div&gt;(i)&amp;nbsp; constitutes international price discrimination,&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) harms the domestic producers of the importing country, &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) creates monopolies,&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)&amp;nbsp;&amp;nbsp; promotes consumption of foreign goods at undesirable levels, &lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) affects national interest in certain situations.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-45" vertex="1">
+          <mxGeometry y="40" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-43" value="Anti Dumping &#xa;Duties" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1740" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1740" width="200" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-44" value="It is applicable when an Article is imported at less than its Normal Value, i.e.&amp;nbsp; Foreign&amp;nbsp; Seller&amp;nbsp; dumps&amp;nbsp; goods&amp;nbsp; in&amp;nbsp; a&amp;nbsp; country&amp;nbsp; at&amp;nbsp; less&amp;nbsp; than Sale Prices in his market, or less than Full Average Cost." style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-43" vertex="1">
+          <mxGeometry y="40" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-41" value="Prohibitive Tariffs" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1680" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1680" width="200" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-42" value="A&amp;nbsp; prohibitive&amp;nbsp; tariff&amp;nbsp; is&amp;nbsp; one&amp;nbsp; that&amp;nbsp; is&amp;nbsp; set&amp;nbsp; so&amp;nbsp; high&amp;nbsp; that&amp;nbsp; no&amp;nbsp; imports&amp;nbsp; can enter. The object is that&amp;nbsp; there should be no imports of such goods" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-41" vertex="1">
+          <mxGeometry y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-39" value="Escalated Tariff" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1620" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1620" width="320" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-40" value="Escalated tariff structure refers to the system where in the nominal tariff&amp;nbsp; rates&amp;nbsp; on&amp;nbsp; imports&amp;nbsp; of&amp;nbsp; manufactured&amp;nbsp; goods&amp;nbsp; are&amp;nbsp; higherthan&amp;nbsp; the nominal&amp;nbsp; tariff&amp;nbsp; rates&amp;nbsp; on&amp;nbsp; intermediate&amp;nbsp; inputs&amp;nbsp; and&amp;nbsp; raw&amp;nbsp; material.&amp;nbsp; For example 5% duty on imports of raw material. 20% duty on imports of goods manufactured from the same rawmaterial" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-39" vertex="1">
+          <mxGeometry y="40" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-31" value="Applied Tariff" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1560" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1560" width="280" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-32" value="It&amp;nbsp; is&amp;nbsp; the Actual&amp;nbsp; Duty charged&amp;nbsp; on&amp;nbsp; imports&amp;nbsp; from&amp;nbsp; a&amp;nbsp; MFN&amp;nbsp; status country.Applied Tariff can also be below the Bound Tariff Rates.A WTO member can have an applied tariff for a product that differs from the bound tariff for that product as long as the applied level is not higher than the bound level." style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-31" vertex="1">
+          <mxGeometry y="40" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-33" value="Bound Tariff" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1500" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1500" width="320" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-34" value="&lt;div&gt;(a)A&amp;nbsp; Bound&amp;nbsp; tariff&amp;nbsp; is&amp;nbsp; a&amp;nbsp; tariff&amp;nbsp; which&amp;nbsp; WTO&amp;nbsp; members&amp;nbsp; bindsitself&amp;nbsp; with&amp;nbsp; a legal&amp;nbsp; commitment&amp;nbsp; not&amp;nbsp; to&amp;nbsp; raise&amp;nbsp; it&amp;nbsp; above&amp;nbsp; certain&amp;nbsp; level.&amp;nbsp; It&amp;nbsp; is&amp;nbsp; a commitment not&amp;nbsp; to&amp;nbsp; increase the&amp;nbsp; Tariff&amp;nbsp; beyond&amp;nbsp; an&amp;nbsp; agreed&amp;nbsp; level, without&amp;nbsp; negotiating&amp;nbsp; with&amp;nbsp; Trading&amp;nbsp; Countries&amp;nbsp; and&amp;nbsp; compensating&amp;nbsp; the affected parties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Bound&amp;nbsp; Tariff&amp;nbsp; ensures&amp;nbsp; transparency,&amp;nbsp; predictability,&amp;nbsp; and&amp;nbsp; improvised trade relations.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-33" vertex="1">
+          <mxGeometry y="40" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-35" value="Preferential Tariff" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1440" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1440" width="200" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-36" value="These&amp;nbsp; are&amp;nbsp; rates lower&amp;nbsp; than&amp;nbsp; MFN&amp;nbsp; Rates, which&amp;nbsp; are levied&amp;nbsp; for imports from a country that are part of a Free Trade Agreement" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-35" vertex="1">
+          <mxGeometry y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-37" value="MFN Tariffs " style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1380" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1380" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-38" value="&amp;nbsp;Most-Favoured&amp;nbsp; Nation&amp;nbsp; tariffs&amp;nbsp; refer&amp;nbsp; to&amp;nbsp; import&amp;nbsp; tariffs&amp;nbsp; which&amp;nbsp; countries&amp;nbsp; promise&amp;nbsp; to&amp;nbsp; impose&amp;nbsp; on&amp;nbsp; imports&amp;nbsp; from&amp;nbsp; other&amp;nbsp; members&amp;nbsp; of&amp;nbsp; the&amp;nbsp; WTO. This means that, in practice, MFN rates are the highest&amp;nbsp; (most&amp;nbsp; restrictive)&amp;nbsp; that&amp;nbsp; WTO&amp;nbsp; members&amp;nbsp; charge&amp;nbsp; each&amp;nbsp; other." style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-37" vertex="1">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-21" value="Variable Tariff" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1320" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1320" width="350" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-22" value="&lt;div&gt;Duty Rate is fixed so as to make the price of the Imported Item equivalent to the Domestic Price (Support Price in certain cases) in the Home Country.&lt;/div&gt;&lt;div&gt;e.g. price of TV sets in India is &lt;br&gt;&lt;/div&gt;&lt;div&gt;Rs 20,000 and Price of TV set imported is Rs 15,000. A duty of Rs 5000 per TV set will be imposed so as to make the price of imported item equal to price at which such goods are sold in domestic market&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-21" vertex="1">
+          <mxGeometry y="40" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-23" value="Tariff Rate Quotas" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1260" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1260" width="280" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-24" value="&lt;div&gt;TRQ combines two aspect –&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) Quota, i.e. Low or Nil Rate Duty on imports&amp;nbsp; upto&amp;nbsp; a&amp;nbsp; specified&amp;nbsp; limit,&amp;nbsp; and&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) Higher&amp;nbsp; Rate of&amp;nbsp; Tariff&amp;nbsp; on Imports beyond the specified limit.For example 5% duties on import of white goods up Rs 1000 crores in a year . and 15%&amp;nbsp; on imports of white goods above Rs 1000 crore&amp;nbsp; in a year from a particular country.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-23" vertex="1">
+          <mxGeometry y="40" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-25" value="Technical Tariff" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1200" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1200" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-26" value="&lt;div&gt;(a)Duty is calculated on the components of the imported item.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Separate Duty Rate may be applied on each component of the item.For&amp;nbsp; example&amp;nbsp; tariff&amp;nbsp; may&amp;nbsp; be&amp;nbsp; imposed&amp;nbsp; @&amp;nbsp; 10%&amp;nbsp; to&amp;nbsp; 15%&amp;nbsp; of&amp;nbsp; value&amp;nbsp;&amp;nbsp;&amp;nbsp; on&amp;nbsp; the basis of cotton content in cloth.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-25" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-27" value="Compound Tariff" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1140" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1140" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-28" value="It&amp;nbsp; is&amp;nbsp; a&amp;nbsp; combination&amp;nbsp; of&amp;nbsp; Ad&amp;nbsp; Valorem&amp;nbsp; Tariff and a&amp;nbsp; Specific&amp;nbsp; Tariff,&amp;nbsp; e.g. Duty at 3% ad valorem + Rs.500 per kg." style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-27" vertex="1">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-29" value="Mixed Tarrif" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1080" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1080" width="200" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-30" value="It&amp;nbsp; based on value (advoleram tarrif) or&amp;nbsp; physical units ( specific tariff) which ever is more. For example import duty may be 10% of value or&amp;nbsp; Rs 1,00,000 per tonne which ever is higher." style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-29" vertex="1">
+          <mxGeometry y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-19" value="Ad Valorem Tariff" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="1020" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="1020" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-20" value="&lt;div&gt;levied on the basis(%) of value of&amp;nbsp; goods(i.e price)&lt;/div&gt;&lt;div&gt;e.g. 10% ad valorem means 10% on the Value of Imported Goods.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-19" vertex="1">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-17" value="Specific Tarrif" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-40" y="960" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="960" width="200" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-18" value="&lt;div&gt;fixed amount of money per physical unit or according to the weight or measurement of the commodity imported or exported.&lt;/div&gt;&lt;div&gt;[Price is irrelevant]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="90jjOsth5Do5PupUWRDe-17" vertex="1">
+          <mxGeometry y="40" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
