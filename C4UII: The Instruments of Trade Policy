@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T22:31:11.877Z" agent="5.0 (X11)" etag="zZVr54oLCqkM3j5wEGH4" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T23:04:25.688Z" agent="5.0 (X11)" etag="_yY8WVIacWISb_0B6vtx" version="14.9.0" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
     <mxGraphModel dx="1559" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -336,90 +336,90 @@
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-21" value="Embargos" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="1270" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="1270" width="200" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-21">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-22" value="An embargo is a total ban imposed by government on import or export of some or all commodities to particular country or regions for a specified or&amp;nbsp; indefinite&amp;nbsp; period.&amp;nbsp; This&amp;nbsp; may&amp;nbsp; be&amp;nbsp; done&amp;nbsp; due&amp;nbsp; to&amp;nbsp; political&amp;nbsp; reasons&amp;nbsp; or&amp;nbsp; for&amp;nbsp; other&amp;nbsp; reasons&amp;nbsp; such&amp;nbsp; as&amp;nbsp; health,&amp;nbsp; religious&amp;nbsp; sentiments." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-21">
+          <mxGeometry y="40" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-19" value="Safeguard&#xa;Measures" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="1210" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="1210" width="200" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-19">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-20" value="These are initiated by countries to restrict imports of a product&amp;nbsp; temporarily&amp;nbsp; if&amp;nbsp; its&amp;nbsp; domestic&amp;nbsp; industry&amp;nbsp; is&amp;nbsp; injured&amp;nbsp; or&amp;nbsp; threatened&amp;nbsp; with&amp;nbsp; serious&amp;nbsp; injury&amp;nbsp; caused&amp;nbsp; by&amp;nbsp; a&amp;nbsp; surge&amp;nbsp; in&amp;nbsp; imports.&amp;nbsp; Restrictions&amp;nbsp; must&amp;nbsp; be&amp;nbsp; for&amp;nbsp; a&amp;nbsp; limited&amp;nbsp; time&amp;nbsp; and&amp;nbsp; non-discriminatory. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-19">
+          <mxGeometry y="40" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-17" value="Rules of origin" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="1150" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="1150" width="200" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-17">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-18" value="Duties&amp;nbsp; and&amp;nbsp; restrictions&amp;nbsp; are&amp;nbsp; imposed&amp;nbsp; based&amp;nbsp; on the&amp;nbsp; source&amp;nbsp; of&amp;nbsp; imports. Importing&amp;nbsp; Government may&amp;nbsp; institute procedures&amp;nbsp; for&amp;nbsp; verifying&amp;nbsp; the&amp;nbsp; source&amp;nbsp; of&amp;nbsp; origin&amp;nbsp; of&amp;nbsp; the&amp;nbsp; imported goods. Such procedures are time consuming and costly." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-17">
+          <mxGeometry y="40" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-15" value="Restriction on&#xa;Post-sales Services" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="1090" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="1090" width="200" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-15">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-16" value="Produces may&amp;nbsp; be&amp;nbsp; restricted from&amp;nbsp; providing&amp;nbsp; after&amp;nbsp; sales&amp;nbsp; services&amp;nbsp; in&amp;nbsp; the&amp;nbsp; importing&amp;nbsp; country. Such services may be reserved to local service companies of the importing country" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-15">
+          <mxGeometry y="40" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-13" value="Distribution&#xa;Restrictions" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="1030" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="1030" width="320" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-13">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-14" value="Distribution&amp;nbsp;&amp;nbsp; restrictions&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; limitations&amp;nbsp;&amp;nbsp; imposed&amp;nbsp;&amp;nbsp; on&amp;nbsp;&amp;nbsp; the distribution&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; in&amp;nbsp; the&amp;nbsp; importing&amp;nbsp; country.&amp;nbsp; It&amp;nbsp; involves additional&amp;nbsp; licence&amp;nbsp; or&amp;nbsp; certification&amp;nbsp; requirements.&amp;nbsp;&amp;nbsp;&amp;nbsp; Theses&amp;nbsp; may relate&amp;nbsp; to&amp;nbsp; Geographical&amp;nbsp; restrictions&amp;nbsp; or&amp;nbsp; restriction&amp;nbsp; as&amp;nbsp; to&amp;nbsp; types&amp;nbsp; of agents who may resell. For example imported fruits may be sold only through outlets having refrigeration facilities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-13">
+          <mxGeometry y="40" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-11" value="Trade-Related&#xa;Investment&#xa;Measures" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="960" width="120" height="50" as="geometry">
-            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="960" width="200" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-11">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-12" value="These&amp;nbsp; measure&amp;nbsp; include&amp;nbsp; rules&amp;nbsp; that&amp;nbsp; final&amp;nbsp; output&amp;nbsp; should&amp;nbsp; include&amp;nbsp; a minimum&amp;nbsp;&amp;nbsp;&amp;nbsp; fraction&amp;nbsp;&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp;&amp;nbsp; local&amp;nbsp;&amp;nbsp;&amp;nbsp; content.&amp;nbsp;&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp;&amp;nbsp; example&amp;nbsp;&amp;nbsp;&amp;nbsp; car manufactures&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; required&amp;nbsp;&amp;nbsp; that&amp;nbsp;&amp;nbsp; at&amp;nbsp;&amp;nbsp; least&amp;nbsp;&amp;nbsp; 25%&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; the components should be&amp;nbsp; locally made." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-11">
+          <mxGeometry y="50" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-9" value="Government &#xa;Procurement&#xa; Policies" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="895" width="120" height="50" as="geometry">
-            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="895" width="250" height="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-9">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-10" value="This&amp;nbsp; requires&amp;nbsp; that&amp;nbsp; all&amp;nbsp; or&amp;nbsp; specified&amp;nbsp; percentage&amp;nbsp; of&amp;nbsp; government purchases&amp;nbsp; should&amp;nbsp; be&amp;nbsp; from&amp;nbsp; domestic&amp;nbsp; firms&amp;nbsp; rather&amp;nbsp; than&amp;nbsp; foreign firms.&amp;nbsp;&amp;nbsp;&amp;nbsp; In&amp;nbsp; accepting&amp;nbsp; public&amp;nbsp; tenders,&amp;nbsp; a government&amp;nbsp; may&amp;nbsp; give preference to the local traders rather than foreign traders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-9">
+          <mxGeometry y="50" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-7" value="Measures&#xa;Affecting&#xa;Competition" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="830" width="120" height="50" as="geometry">
-            <mxRectangle x="920" y="830" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="830" width="370" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-7">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-8" value="&amp;nbsp;this&amp;nbsp;&amp;nbsp; involves&amp;nbsp;&amp;nbsp; granting importing licences or&amp;nbsp; rights only to one or a few limited group of&amp;nbsp; economic&amp;nbsp; operators.&amp;nbsp;&amp;nbsp;&amp;nbsp; For&amp;nbsp; example statutory&amp;nbsp; marketing&amp;nbsp; board may be granted exclusive rights to import wheat or State trading corporation may be given monopoly right to distribute palm oil.&amp;nbsp; When&amp;nbsp; such&amp;nbsp; state&amp;nbsp; agencies&amp;nbsp; or&amp;nbsp; monopoly&amp;nbsp; import&amp;nbsp; agencies&amp;nbsp; sell&amp;nbsp; on domestic&amp;nbsp; market&amp;nbsp; at&amp;nbsp; price&amp;nbsp; above&amp;nbsp; those&amp;nbsp; inthe&amp;nbsp; world&amp;nbsp; market,&amp;nbsp; it amounts to import of tariff." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-7">
+          <mxGeometry y="50" width="370" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-5" value="Financial  Measures" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="770" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="770" width="320" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-5">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-6" value="The objective of financial measures is to increase&amp;nbsp; import&amp;nbsp; costs.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; done&amp;nbsp; by&amp;nbsp; regulating&amp;nbsp; the&amp;nbsp; access to&amp;nbsp; and&amp;nbsp; cost&amp;nbsp; of&amp;nbsp; foreign&amp;nbsp; exchange&amp;nbsp; for&amp;nbsp; imports&amp;nbsp; and&amp;nbsp; also&amp;nbsp; by defining the terms of payment.&amp;nbsp; It includes measures such as advance&amp;nbsp; payment&amp;nbsp; requirement&amp;nbsp; and&amp;nbsp; foreign&amp;nbsp; exchange&amp;nbsp; controls denying&amp;nbsp; the&amp;nbsp; use&amp;nbsp; of&amp;nbsp; foreign&amp;nbsp; exchange&amp;nbsp; for&amp;nbsp; certain&amp;nbsp; types&amp;nbsp; of imports or for goods imported from certain countries." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-5">
+          <mxGeometry y="40" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-3" value="Non-automatic &#xa;Licensing and &#xa;Prohibitions" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="700" width="120" height="50" as="geometry">
-            <mxRectangle x="920" y="700" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="920" y="700" width="200" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-3">
-          <mxGeometry y="50" width="200" height="150" as="geometry" />
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-4" value="&lt;div&gt;These measures are normally&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;aimed at limiting the quantity&amp;nbsp; of &lt;br&gt;&lt;/div&gt;&lt;div&gt;goods that can be imported. These &lt;br&gt;&lt;/div&gt;&lt;div&gt;measures may take the form of non -automatic licensing or through&amp;nbsp;&amp;nbsp; complete prohibitions. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-3">
+          <mxGeometry y="50" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-1" value="Price Control &#xa;Measures" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="920" y="640" width="120" height="40" as="geometry">
             <mxRectangle x="920" y="640" width="360" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-2" value="Price&amp;nbsp; control&amp;nbsp; measures&amp;nbsp;&amp;nbsp;&amp;nbsp; are&amp;nbsp; steps&amp;nbsp; taken&amp;nbsp; to influence&amp;nbsp; or&amp;nbsp; control&amp;nbsp; the&amp;nbsp; prices&amp;nbsp; of&amp;nbsp; imported&amp;nbsp; goods&amp;nbsp; in&amp;nbsp; order&amp;nbsp; to&amp;nbsp; support domestic price of a certain products when the imports prices of these goods are lower. These are known as para-tariff measures and includes measures&amp;nbsp; other&amp;nbsp; than&amp;nbsp; tariff&amp;nbsp; measures.&amp;nbsp;&amp;nbsp;&amp;nbsp; For&amp;nbsp; example a&amp;nbsp; minimum import price is established for sulphur." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-1">
+        <mxCell id="wS3_Qaj_D8sXFB1WA7Ii-2" value="Price control measures are steps taken to influence or control&amp;nbsp; the prices of imported goods in order to support domestic price of a certain products when the imports prices of these goods are lower. These are known as para-tariff measures and includes measures other than tariff measures. For example a minimum import price is established for sulphur." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wS3_Qaj_D8sXFB1WA7Ii-1">
           <mxGeometry y="40" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DuYHdu0TzIvNKpncwadV-18" value="Import Quotas" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
