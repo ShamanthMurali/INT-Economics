@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T09:40:39.747Z" agent="5.0 (X11)" etag="4CVXifVlc4B-XeqvoAtJ" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T09:43:08.735Z" agent="5.0 (X11)" etag="LYYY1zVOycQ2qBhcqbXS" version="14.9.0" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3978" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,126 @@
         </mxCell>
         <mxCell id="90jjOsth5Do5PupUWRDe-14" value="Types of tariffs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-17" value="Specific Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="960" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="960" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-17">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-19" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1020" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-19">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-21" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1320" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-21">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-23" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1260" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-23">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-25" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1200" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-25">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-27" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1140" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-27">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-29" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1080" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-29">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-31" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1560" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-31">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-33" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1500" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-33">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-35" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1440" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-35">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-37" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1380" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-37">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-39" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1620" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-39">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-41" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1680" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-41">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-43" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1740" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-43">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-45" value="Ad Valorem Tariff" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-40" y="1800" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90jjOsth5Do5PupUWRDe-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="90jjOsth5Do5PupUWRDe-45">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
