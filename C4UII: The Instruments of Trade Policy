@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T20:01:57.557Z" agent="5.0 (X11)" etag="qo85cqdVmVfWQluuuGfE" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T20:03:09.141Z" agent="5.0 (X11)" etag="HyFRLjL3zmcCsVi_ID8k" version="14.9.0" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
-    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1446" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,6 +212,12 @@
         </mxCell>
         <mxCell id="DuYHdu0TzIvNKpncwadV-5" value="Policy&amp;nbsp; Measures,&amp;nbsp; other&amp;nbsp; than Ordinary Customers Tariff, that can have an effect on international trade in goods, changing quantities traded, or prices, or both" style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DuYHdu0TzIvNKpncwadV-7" value="Technical measures" style="rounded=1;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DuYHdu0TzIvNKpncwadV-8" value="Non Technical measures" style="rounded=1;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="920" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
