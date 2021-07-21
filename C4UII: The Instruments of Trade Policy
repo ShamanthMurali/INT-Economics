@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T19:58:12.949Z" agent="5.0 (X11)" etag="nA14CP6BbfClgZkqYlMS" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T20:01:57.557Z" agent="5.0 (X11)" etag="qo85cqdVmVfWQluuuGfE" version="14.9.0" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
-    <mxGraphModel dx="4424" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,11 @@
         <mxCell id="90jjOsth5Do5PupUWRDe-2" value="&lt;div&gt;Trade policy is collection of all instruments that Government uses to&amp;nbsp; promote&amp;nbsp; or&amp;nbsp; restrict&amp;nbsp; imports&amp;nbsp; and&amp;nbsp; exports.&amp;nbsp; It&amp;nbsp; also&amp;nbsp; includes approach taken by countries in trade negotiations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)To protect Domestic Industries from Foreign Competition,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)To conserve the Foreign Exchange Resources of the Country,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)To make the Balance of Payments Position favourable.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)To curb conspicuous Consumption,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)To mobilise Revenue for the Government and,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)To discriminate against certain countries.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="60" width="360" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="DuYHdu0TzIvNKpncwadV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-3" target="DuYHdu0TzIvNKpncwadV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="90jjOsth5Do5PupUWRDe-3" value="Non price related measures" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="800" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="90jjOsth5Do5PupUWRDe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-4" target="90jjOsth5Do5PupUWRDe-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -206,6 +209,9 @@
         </mxCell>
         <mxCell id="DuYHdu0TzIvNKpncwadV-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Effects&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Reduction&amp;nbsp; of&amp;nbsp; volume&amp;nbsp; of&amp;nbsp; trade&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Loss of surplus for domestic consumers.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Encouragement to domestically produced goods.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. More profits to producers of domestic goods.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Increase in production of&amp;nbsp; domestic goods. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Increase&amp;nbsp; in&amp;nbsp; Government&amp;nbsp; revenues.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Promotes inefficient&amp;nbsp; production. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="DuYHdu0TzIvNKpncwadV-5" value="Policy&amp;nbsp; Measures,&amp;nbsp; other&amp;nbsp; than Ordinary Customers Tariff, that can have an effect on international trade in goods, changing quantities traded, or prices, or both" style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="680" y="420" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
