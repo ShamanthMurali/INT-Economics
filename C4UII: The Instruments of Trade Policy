@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T19:57:59.287Z" agent="5.0 (X11)" etag="EHXfgQKUwrHL9p-n30at" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T19:58:12.949Z" agent="5.0 (X11)" etag="nA14CP6BbfClgZkqYlMS" version="14.9.0" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
-    <mxGraphModel dx="2322" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4424" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="90jjOsth5Do5PupUWRDe-8" value="Tariff&amp;nbsp; (also&amp;nbsp; called&amp;nbsp; Customs&amp;nbsp; Duty)&amp;nbsp; is&amp;nbsp; a&amp;nbsp; tax&amp;nbsp; or&amp;nbsp; duty imposed&amp;nbsp; on&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; that&amp;nbsp; are&amp;nbsp; importedor&amp;nbsp; exported.&amp;nbsp; Tarrifs&amp;nbsp; are&amp;nbsp; usually&amp;nbsp; imposed&amp;nbsp; on&amp;nbsp; imports&amp;nbsp; however&amp;nbsp; in&amp;nbsp; some&amp;nbsp; cases tariffs may be imposed on exports." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="430" width="280" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="90jjOsth5Do5PupUWRDe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="90jjOsth5Do5PupUWRDe-10" target="90jjOsth5Do5PupUWRDe-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DuYHdu0TzIvNKpncwadV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=40;" edge="1" parent="1" source="90jjOsth5Do5PupUWRDe-10" target="90jjOsth5Do5PupUWRDe-14">
           <mxGeometry relative="1" as="geometry">
