@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T22:23:22.102Z" agent="5.0 (X11)" etag="hAE1NbIvwOnmUjxNOPg-" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-25T23:09:38.375Z" agent="5.0 (X11)" etag="h4QD0ihFl2K92Kx7zVGX" version="14.9.2" type="github">
   <diagram id="lU7KtzBacdkOgBqEKbtZ" name="Page-1">
-    <mxGraphModel dx="3356" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,73 +53,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-8" value="Unilateral trade agreements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="-370" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-9" target="Zq66NzhaqHPGWVwBqYYV-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-9" value="Regional Preferential Trade Agreements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zq66NzhaqHPGWVwBqYYV-10" target="Zq66NzhaqHPGWVwBqYYV-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-10" value="Bilateral Agreements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="-150" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-11" target="7p7AbpT6JmaH99QZOwbl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-11" value="Trading Bloc" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-12" target="7p7AbpT6JmaH99QZOwbl-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-12" value="Customs union" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="730" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-13" target="7p7AbpT6JmaH99QZOwbl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-13" value="Common Markets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="950" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-14" target="7p7AbpT6JmaH99QZOwbl-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-14" value="Economic and Monetary Union" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="1170" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-24" value="importing country offers trade incentives in order to encourage the exporting country, to engage in international&amp;nbsp; economic&amp;nbsp; activities that will improve the exporting country’s economy." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="400" width="200" height="100" as="geometry" />
+          <mxGeometry x="-410" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-26" value="agreements which set rules of trade between two countries, two blocs or a bloc and a country. These may be limited to certain goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; or&amp;nbsp; certain&amp;nbsp; types&amp;nbsp; of&amp;nbsp; market&amp;nbsp; entry&amp;nbsp; barriers." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="400" width="200" height="100" as="geometry" />
+          <mxGeometry x="-190" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-28" value="&amp;nbsp;group&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; reduce&amp;nbsp; trade&amp;nbsp; barriers&amp;nbsp; on&amp;nbsp; a&amp;nbsp; reciprocal&amp;nbsp; and&amp;nbsp; preferential&amp;nbsp; basis&amp;nbsp; for&amp;nbsp; only&amp;nbsp; the&amp;nbsp; members&amp;nbsp; of&amp;nbsp; the&amp;nbsp; group. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="400" width="200" height="100" as="geometry" />
+          <mxGeometry x="30" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-3" value="&amp;nbsp;group&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; that&amp;nbsp; have&amp;nbsp; a&amp;nbsp; free&amp;nbsp; trade&amp;nbsp; agreement&amp;nbsp; between&amp;nbsp; themselves&amp;nbsp; and&amp;nbsp; may&amp;nbsp; apply&amp;nbsp; a&amp;nbsp; common&amp;nbsp; external&amp;nbsp; tariff&amp;nbsp; to&amp;nbsp; other&amp;nbsp; countries." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="400" width="200" height="100" as="geometry" />
+          <mxGeometry x="250" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-5" value="&amp;nbsp;group of countries that eliminate all tariff and quota barriers on trade with the objective of&amp;nbsp; increasing exchange of goods with each other." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="400" width="200" height="100" as="geometry" />
+          <mxGeometry x="470" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7p7AbpT6JmaH99QZOwbl-6" target="7p7AbpT6JmaH99QZOwbl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-6" value="Free-trade area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-9" value="group&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; that&amp;nbsp; eliminate&amp;nbsp; all&amp;nbsp; tariffs&amp;nbsp; on&amp;nbsp; trade&amp;nbsp; among themselves&amp;nbsp; but&amp;nbsp; maintain&amp;nbsp; a&amp;nbsp; common&amp;nbsp; external&amp;nbsp; tariff&amp;nbsp; on&amp;nbsp; trade&amp;nbsp; with&amp;nbsp; countries&amp;nbsp; outside&amp;nbsp; the&amp;nbsp; union " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="400" width="200" height="100" as="geometry" />
+          <mxGeometry x="690" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-11" value="A Common Market deepens a&amp;nbsp;&amp;nbsp; customs union by providing for the&amp;nbsp; free flow of output and of factors of production (labour, capital&amp;nbsp; and&amp;nbsp; other productive resources) by&amp;nbsp; reducing or eliminating internal&amp;nbsp; tariffs on goods and by creating a&amp;nbsp; common set of external tariffs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="400" width="200" height="120" as="geometry" />
+          <mxGeometry x="910" y="400" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7p7AbpT6JmaH99QZOwbl-13" value="&amp;nbsp;In an Economic and Monetary&amp;nbsp; Union, the members share a&amp;nbsp; common currency. Adoption of&amp;nbsp; common currency also makes it&amp;nbsp; necessary to have a strong convergence in macroeconomic&amp;nbsp; policies. For example, the European Union countries implement and adopt a single currency." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="400" width="200" height="140" as="geometry" />
+          <mxGeometry x="1130" y="400" width="200" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
