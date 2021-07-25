@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T23:34:22.059Z" agent="5.0 (X11)" version="14.9.1" etag="5kIf5YPT14pRTf9XrTXo" type="github"><diagram id="lU7KtzBacdkOgBqEKbtZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-25T19:00:29.490Z" agent="5.0 (X11)" etag="fyMtZAdLxyzv7gZomVDu" version="14.9.2" type="github">
+  <diagram id="lU7KtzBacdkOgBqEKbtZ" name="Page-1">
+    <mxGraphModel dx="2015" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-1" value="Trade negotiations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-2" target="Zq66NzhaqHPGWVwBqYYV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-2" value="Regional trade agreements (RTA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-4" target="Zq66NzhaqHPGWVwBqYYV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-4" value="groupings&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; (not necessarily from same geographical region), which are formed with the objective of reducing barriers&amp;nbsp; to trade between member countries. A regional trade agreement&amp;nbsp; (RTA) is a treaty between two or more governments that define&amp;nbsp; the rules of trade for all signatories." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="Zq66NzhaqHPGWVwBqYYV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="Zq66NzhaqHPGWVwBqYYV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="Zq66NzhaqHPGWVwBqYYV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="Zq66NzhaqHPGWVwBqYYV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="Zq66NzhaqHPGWVwBqYYV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="Zq66NzhaqHPGWVwBqYYV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="Zq66NzhaqHPGWVwBqYYV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-6" value="Types of RTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-8" value="Unilateral trade agreements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-9" value="Regional Preferential Trade Agreements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-10" value="Bilateral Agreements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-11" value="Trading Bloc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-12" value="Customs union" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-13" value="Common Markets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq66NzhaqHPGWVwBqYYV-14" value="Economic and Monetary Union" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
