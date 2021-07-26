@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T23:11:45.302Z" agent="5.0 (X11)" etag="eDoTOo7VgQjX11Duxg90" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T23:14:03.470Z" agent="5.0 (X11)" etag="8wZ0_CIgvijnxB7xWnkQ" version="14.9.2" type="github">
   <diagram id="PGOdqxws785is5lVN4YJ" name="Page-1">
-    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3980" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,6 +141,12 @@
         </mxCell>
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Uncertainty in international trade:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Encouragement to speculative dealing in foreign exchange&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Cause of internal instability&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="900" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-51" value="Real exchange rate and nominal exchange rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-52" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1480" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
