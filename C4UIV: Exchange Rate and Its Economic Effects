@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T00:57:06.745Z" agent="5.0 (X11)" etag="dtoYK5GiQ9pgxNCBTOr0" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T01:46:44.343Z" agent="5.0 (X11)" etag="e2KlnsfiZpLayPdORa8x" version="14.9.2" type="github">
   <diagram id="PGOdqxws785is5lVN4YJ" name="Page-1">
-    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,6 +156,36 @@
         </mxCell>
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-54" value="&lt;div&gt;The&amp;nbsp; foreign&amp;nbsp; exchange&amp;nbsp; market&amp;nbsp; is&amp;nbsp; a&amp;nbsp; market&amp;nbsp; where&amp;nbsp; currencies&amp;nbsp; of different&amp;nbsp; countries&amp;nbsp; are&amp;nbsp; exchanged&amp;nbsp; for&amp;nbsp; each&amp;nbsp; other.&amp;nbsp; In&amp;nbsp; other&amp;nbsp; words foreign exchange market (FOREX) is a market for purchasing and selling different currencies.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Dealers on the foreign exchange market&lt;/u&gt;&lt;/div&gt;&lt;div&gt;central banks, commercial banks, governments, foreign exchange Dealers, multinational corporations&amp;nbsp; that engage in international trade and&amp;nbsp; investments, non-bank financial institutions such as asset-management firms, insurance companies, brokers, arbitrageurs and speculators&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1660" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-56" target="HaSQ_AHaS6twKnQ4gnEO-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-56" value="foreign exchange market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1860" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-57" value="&lt;div&gt;Home-currency &lt;u&gt;depreciation&lt;/u&gt; (which is the same as foreign-currency&amp;nbsp; appre-ciation) takes place when there is an increase in the home currency price of the foreign currency (or, alternatively, a decrease in the foreign&amp;nbsp; currency price of the home currency). The home currency thus becomes relatively less valuable. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Home-currency&amp;nbsp; &lt;u&gt;appreciation&lt;/u&gt;&amp;nbsp; (or foreign-currency&amp;nbsp; depreciation)&amp;nbsp; takes&amp;nbsp; place when there is a decrease in the home currency price of foreign currency (or alternatively,&amp;nbsp; an&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; the&amp;nbsp; foreign&amp;nbsp; currency&amp;nbsp; price&amp;nbsp; of&amp;nbsp; home&amp;nbsp; currency).&amp;nbsp; The home currency thus becomes relatively more valuable.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1920" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-59" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/sbNu1F8.png;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2110" width="520" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-60" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/ePvsOoC.png;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2430" width="520" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/rCHE8mY.png;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2760" width="520" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/kr7MbWq.png;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2833" width="520" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-63" target="HaSQ_AHaS6twKnQ4gnEO-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-63" value="Effects of Exchange Rate Fluctuations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-65" value="&lt;div&gt;1. &lt;u&gt;International Trade&lt;/u&gt;.&lt;/div&gt;&lt;div&gt; Changes in exchange rate has a direct effect on export and import of a country. on depreciation, imports will reduce as&amp;nbsp; imported&amp;nbsp; goods&amp;nbsp; will&amp;nbsp; become&amp;nbsp; costlier&amp;nbsp; than and&amp;nbsp; exports will increase as exported goods will become cheaper than before in foreign market.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Price Level&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;In case of depreciation of home currency, imports become costlier therefore price level rises. Also increase in exports reduces availability of goods for domestic markets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Domestic demand&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Depreciation increases the prices of imported&amp;nbsp; goods,&amp;nbsp; therefore&amp;nbsp; demand&amp;nbsp; for&amp;nbsp; domestic&amp;nbsp; goods&amp;nbsp; rises.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;Factor Mobility&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Depreciation of domestic currency leads to rise in&amp;nbsp; production of exported goods and import substitute&amp;nbsp; goods.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;Wage levels. &lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If Exports Sector is labour-oriented, increased demand leads to higher employment and income levels. This happens when&amp;nbsp; there is depreciation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. &lt;u&gt;Trade balance&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;Depreciation of domestic currency increases exports and reduces imports, therefore it leads to improvement in trade balance. In case of appreciation of domestic currency, imports rise and exports fall which leads to trade deficit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;Profits of exports firms and imports firms&lt;/u&gt;.&lt;/div&gt;&lt;div&gt; Depreciation of domestic currency increases the profits of exports firms and decreases the profits of firms which import goods or services. Appreciation of domestic currency increases the profits of importing firms and reduces the profits of exporting firms&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="3190" width="390" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
