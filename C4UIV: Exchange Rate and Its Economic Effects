@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T22:46:24.792Z" agent="5.0 (X11)" etag="ZrcFga_3S6391IuRTFz3" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T23:11:29.791Z" agent="5.0 (X11)" etag="gm8Q7zJfseQcJQN2XKn7" version="14.9.2" type="github">
   <diagram id="PGOdqxws785is5lVN4YJ" name="Page-1">
-    <mxGraphModel dx="1565" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,6 +88,9 @@
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-29" value="Others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="520" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-30" target="HaSQ_AHaS6twKnQ4gnEO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-30" value="&lt;div&gt;exchange rate is determined by forces of demand and supply of foreign currency.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;there is no per-determined target rate, and exchange rates are likely to change at every moment in time depending upon the changing demand and supply. There is no interference on the part of government or the central bank of the country in the determination of exchange rate. Any&amp;nbsp; intervention by the Central banks in the foreign exchange market is intended for only&amp;nbsp; moderating the rate of exchange and preventing undue fluctuation in the exchange rate. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="580" width="380" height="160" as="geometry" />
         </mxCell>
@@ -120,6 +123,15 @@
         </mxCell>
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-42" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Need for large idle foreign exchange reserves:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Less flexibility&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1141" width="360" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-44" target="HaSQ_AHaS6twKnQ4gnEO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-44" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;advantages of a fixed rate regime&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. eliminates exchange rate risks and transaction costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. profits are not affected by the exchange rate fluctuations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. greatly enhance international trade and investment.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="760" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Uncertainty in international trade:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Encouragement to speculative dealing in foreign exchange&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Cause of internal instability&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="900" width="360" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
