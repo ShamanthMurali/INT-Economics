@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T23:14:03.470Z" agent="5.0 (X11)" etag="8wZ0_CIgvijnxB7xWnkQ" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T00:09:07.024Z" agent="5.0 (X11)" etag="mrCfbEXcxn2-p01ADSGl" version="14.9.2" type="github">
   <diagram id="PGOdqxws785is5lVN4YJ" name="Page-1">
-    <mxGraphModel dx="3980" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,6 +147,15 @@
         </mxCell>
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-52" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="340" y="1480" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-53" target="HaSQ_AHaS6twKnQ4gnEO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-53" value="foreign exchange market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-54" value="&lt;div&gt;The&amp;nbsp; foreign&amp;nbsp; exchange&amp;nbsp; market&amp;nbsp; is&amp;nbsp; a&amp;nbsp; market&amp;nbsp; where&amp;nbsp; currencies&amp;nbsp; of different&amp;nbsp; countries&amp;nbsp; are&amp;nbsp; exchanged&amp;nbsp; for&amp;nbsp; each&amp;nbsp; other.&amp;nbsp; In&amp;nbsp; other&amp;nbsp; words foreign exchange market (FOREX) is a market for purchasing and selling different currencies.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Dealers on the foreign exchange market&lt;/u&gt;&lt;/div&gt;&lt;div&gt;central banks, commercial banks, governments, foreign exchange Dealers, multinational corporations&amp;nbsp; that engage in international trade and&amp;nbsp; investments, non-bank financial institutions such as asset-management firms, insurance companies, brokers, arbitrageurs and speculators&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1660" width="400" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
