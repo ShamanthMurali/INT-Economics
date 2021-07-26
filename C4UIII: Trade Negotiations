@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T23:09:38.375Z" agent="5.0 (X11)" etag="h4QD0ihFl2K92Kx7zVGX" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T16:06:27.211Z" agent="5.0 (X11)" etag="53E6Dp8Tu9RpgLuCXWl2" version="14.9.2" type="github">
   <diagram id="lU7KtzBacdkOgBqEKbtZ" name="Page-1">
-    <mxGraphModel dx="2324" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="Zq66NzhaqHPGWVwBqYYV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="7p7AbpT6JmaH99QZOwbl-6">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zq66NzhaqHPGWVwBqYYV-6" target="7p7AbpT6JmaH99QZOwbl-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-6" value="Types of RTA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-8" value="Unilateral trade agreements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-370" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-9" target="Zq66NzhaqHPGWVwBqYYV-28">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zq66NzhaqHPGWVwBqYYV-9" target="Zq66NzhaqHPGWVwBqYYV-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-9" value="Regional Preferential Trade Agreements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -67,25 +67,25 @@
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-10" value="Bilateral Agreements" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-11" target="7p7AbpT6JmaH99QZOwbl-3">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zq66NzhaqHPGWVwBqYYV-11" target="7p7AbpT6JmaH99QZOwbl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-11" value="Trading Bloc" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-12" target="7p7AbpT6JmaH99QZOwbl-9">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zq66NzhaqHPGWVwBqYYV-12" target="7p7AbpT6JmaH99QZOwbl-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-12" value="Customs union" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-13" target="7p7AbpT6JmaH99QZOwbl-11">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zq66NzhaqHPGWVwBqYYV-13" target="7p7AbpT6JmaH99QZOwbl-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-13" value="Common Markets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zq66NzhaqHPGWVwBqYYV-14" target="7p7AbpT6JmaH99QZOwbl-13">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Zq66NzhaqHPGWVwBqYYV-14" target="7p7AbpT6JmaH99QZOwbl-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-14" value="Economic and Monetary Union" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -100,26 +100,59 @@
         <mxCell id="Zq66NzhaqHPGWVwBqYYV-28" value="&amp;nbsp;group&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; reduce&amp;nbsp; trade&amp;nbsp; barriers&amp;nbsp; on&amp;nbsp; a&amp;nbsp; reciprocal&amp;nbsp; and&amp;nbsp; preferential&amp;nbsp; basis&amp;nbsp; for&amp;nbsp; only&amp;nbsp; the&amp;nbsp; members&amp;nbsp; of&amp;nbsp; the&amp;nbsp; group. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="400" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-3" value="&amp;nbsp;group&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; that&amp;nbsp; have&amp;nbsp; a&amp;nbsp; free&amp;nbsp; trade&amp;nbsp; agreement&amp;nbsp; between&amp;nbsp; themselves&amp;nbsp; and&amp;nbsp; may&amp;nbsp; apply&amp;nbsp; a&amp;nbsp; common&amp;nbsp; external&amp;nbsp; tariff&amp;nbsp; to&amp;nbsp; other&amp;nbsp; countries." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-3" value="&amp;nbsp;group&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; that&amp;nbsp; have&amp;nbsp; a&amp;nbsp; free&amp;nbsp; trade&amp;nbsp; agreement&amp;nbsp; between&amp;nbsp; themselves&amp;nbsp; and&amp;nbsp; may&amp;nbsp; apply&amp;nbsp; a&amp;nbsp; common&amp;nbsp; external&amp;nbsp; tariff&amp;nbsp; to&amp;nbsp; other&amp;nbsp; countries." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="400" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-5" value="&amp;nbsp;group of countries that eliminate all tariff and quota barriers on trade with the objective of&amp;nbsp; increasing exchange of goods with each other." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-5" value="&amp;nbsp;group of countries that eliminate all tariff and quota barriers on trade with the objective of&amp;nbsp; increasing exchange of goods with each other." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="400" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7p7AbpT6JmaH99QZOwbl-6" target="7p7AbpT6JmaH99QZOwbl-5">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7p7AbpT6JmaH99QZOwbl-6" target="7p7AbpT6JmaH99QZOwbl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-6" value="Free-trade area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-6" value="Free-trade area" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-9" value="group&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; that&amp;nbsp; eliminate&amp;nbsp; all&amp;nbsp; tariffs&amp;nbsp; on&amp;nbsp; trade&amp;nbsp; among themselves&amp;nbsp; but&amp;nbsp; maintain&amp;nbsp; a&amp;nbsp; common&amp;nbsp; external&amp;nbsp; tariff&amp;nbsp; on&amp;nbsp; trade&amp;nbsp; with&amp;nbsp; countries&amp;nbsp; outside&amp;nbsp; the&amp;nbsp; union " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-9" value="group&amp;nbsp; of&amp;nbsp; countries&amp;nbsp; that&amp;nbsp; eliminate&amp;nbsp; all&amp;nbsp; tariffs&amp;nbsp; on&amp;nbsp; trade&amp;nbsp; among themselves&amp;nbsp; but&amp;nbsp; maintain&amp;nbsp; a&amp;nbsp; common&amp;nbsp; external&amp;nbsp; tariff&amp;nbsp; on&amp;nbsp; trade&amp;nbsp; with&amp;nbsp; countries&amp;nbsp; outside&amp;nbsp; the&amp;nbsp; union " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="400" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-11" value="A Common Market deepens a&amp;nbsp;&amp;nbsp; customs union by providing for the&amp;nbsp; free flow of output and of factors of production (labour, capital&amp;nbsp; and&amp;nbsp; other productive resources) by&amp;nbsp; reducing or eliminating internal&amp;nbsp; tariffs on goods and by creating a&amp;nbsp; common set of external tariffs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-11" value="A Common Market deepens a&amp;nbsp;&amp;nbsp; customs union by providing for the&amp;nbsp; free flow of output and of factors of production (labour, capital&amp;nbsp; and&amp;nbsp; other productive resources) by&amp;nbsp; reducing or eliminating internal&amp;nbsp; tariffs on goods and by creating a&amp;nbsp; common set of external tariffs." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="400" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7p7AbpT6JmaH99QZOwbl-13" value="&amp;nbsp;In an Economic and Monetary&amp;nbsp; Union, the members share a&amp;nbsp; common currency. Adoption of&amp;nbsp; common currency also makes it&amp;nbsp; necessary to have a strong convergence in macroeconomic&amp;nbsp; policies. For example, the European Union countries implement and adopt a single currency." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7p7AbpT6JmaH99QZOwbl-13" value="&amp;nbsp;In an Economic and Monetary&amp;nbsp; Union, the members share a&amp;nbsp; common currency. Adoption of&amp;nbsp; common currency also makes it&amp;nbsp; necessary to have a strong convergence in macroeconomic&amp;nbsp; policies. For example, the European Union countries implement and adopt a single currency." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="400" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-1" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="660" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y00vNPiJMbWOHlDZulud-2" target="Y00vNPiJMbWOHlDZulud-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-2" value="General agreement on tarrif and trade (GATT)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y00vNPiJMbWOHlDZulud-3" target="Y00vNPiJMbWOHlDZulud-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-3" value="&lt;div&gt;Formed for liberalizing trade by reducing trade tariffs and non trade tariff measures. it had 8 rounds of negotiations&lt;/div&gt;&lt;div&gt;Uruguay round was the last round&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Problems of GATT&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. GATT rules were obsolete compared to world trade&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. no coverage for :&lt;/div&gt;&lt;div&gt;a. international investments&lt;/div&gt;&lt;div&gt;b. services&lt;/div&gt;&lt;div&gt;c. &lt;span style=&quot;white-space: pre&quot;&gt;Intellectual property rights&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;3. liberalizing agriculture trade was not successful&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;4. inadequate organizational structure&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="710" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y00vNPiJMbWOHlDZulud-7" target="Y00vNPiJMbWOHlDZulud-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-7" value="World Trade organization (WTO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y00vNPiJMbWOHlDZulud-8" target="Y00vNPiJMbWOHlDZulud-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Emphasized objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. set system and rules of world trade&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. resolve trade disputes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. transparency in trade disputes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. helping developing countries &lt;br&gt;&lt;/div&gt;&lt;div&gt;to participate in global trade&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. increase the level of employment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6 raising standard of living&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. increase national income and output&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;8. emphasis on goods, services, investments and &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;intellectual property rights&lt;/span&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="990" width="320" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Y00vNPiJMbWOHlDZulud-10" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Principles of WTO&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Trade without discrimination&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The National Treatment Principle (NTP&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Freer trade&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Predictability&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Principle of general prohibition of &lt;br&gt;&lt;/div&gt;&lt;div&gt;quantitative restrictions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Greater competitiveness&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Tariffs as legitimate measures for the protection of domestic industries&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. Transparency in Decision Making&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Progressive Liberalization&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10. Market Access&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;11. Special privileges to less developed countries&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. Protection of Health &amp;amp;Environment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;13. A transparent, effective and verifiable dispute &lt;br&gt;&lt;/div&gt;&lt;div&gt;settlement mechanism&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1300" width="320" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
