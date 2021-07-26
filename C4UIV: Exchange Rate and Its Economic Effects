@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T20:18:37.926Z" agent="5.0 (X11)" etag="o2eYtTHYDsYQg2eQtPiW" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T20:43:52.479Z" agent="5.0 (X11)" etag="eGJiKVlcFWrEgOpRVzeT" version="14.9.2" type="github">
   <diagram id="PGOdqxws785is5lVN4YJ" name="Page-1">
-    <mxGraphModel dx="1466" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-8" value="direct quote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-10" value="Exchange rate is expressed for 1 unit of foreign currency in terms number of units of domestic currency. For example 1 $&amp;nbsp; = Rs 50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-10" value="Exchange rate is expressed for 1 unit of foreign currency in terms number of units of domestic currency. For example 1 $&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Rs 50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-12" value="exchange rate is expressed as 1 unit of domestic currency in terms of number of units of foreign currency. For example Re 1 = 0.02$." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
