@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T23:11:29.791Z" agent="5.0 (X11)" etag="gm8Q7zJfseQcJQN2XKn7" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T23:11:45.302Z" agent="5.0 (X11)" etag="eDoTOo7VgQjX11Duxg90" version="14.9.2" type="github">
   <diagram id="PGOdqxws785is5lVN4YJ" name="Page-1">
-    <mxGraphModel dx="2102" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,15 @@
         </mxCell>
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-22" value="Base" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HaSQ_AHaS6twKnQ4gnEO-26" value="Types of exchange rate regime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
