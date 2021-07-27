@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T19:52:26.297Z" agent="5.0 (X11)" etag="1GCUJK4m1HpXAybbq-CR" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T20:17:24.333Z" agent="5.0 (X11)" etag="JQTJQXYatyxEbE4XpAWY" version="14.9.2" type="github">
   <diagram id="NPP-L7EnyVvAYPkiQYZp" name="Page-1">
-    <mxGraphModel dx="2629" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,11 +77,25 @@
         <mxCell id="7xGO-ktxZWkA-CFiUEAn-14" value="conglomerate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="460" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="S89zjXSp-3V75uFwfCcD-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-20" target="S89zjXSp-3V75uFwfCcD-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="620" />
+              <mxPoint x="100" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7xGO-ktxZWkA-CFiUEAn-20" value="investing same type of business operation in a foreign country" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="520" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="S89zjXSp-3V75uFwfCcD-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-22" target="S89zjXSp-3V75uFwfCcD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7xGO-ktxZWkA-CFiUEAn-22" value="where investment is made is a part of supply chain of the investor’s Activity in a foreign country" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="520" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S89zjXSp-3V75uFwfCcD-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-24" target="S89zjXSp-3V75uFwfCcD-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7xGO-ktxZWkA-CFiUEAn-24" value="foreign investment in a&amp;nbsp;&amp;nbsp; business that is unrelated to its existing business in home country." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="520" width="160" height="70" as="geometry" />
@@ -91,6 +105,14 @@
         </mxCell>
         <mxCell id="7xGO-ktxZWkA-CFiUEAn-27" value="&lt;div&gt;two-way direct&lt;/div&gt;&lt;div&gt; foreign investments&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S89zjXSp-3V75uFwfCcD-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-28" target="S89zjXSp-3V75uFwfCcD-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="620" />
+              <mxPoint x="100" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7xGO-ktxZWkA-CFiUEAn-28" value="reciprocal investments&amp;nbsp; between countries." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="520" width="160" height="40" as="geometry" />
@@ -105,10 +127,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S89zjXSp-3V75uFwfCcD-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;reasons for Foreign Direct Investments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Desire to reap economics of large scale operations arising from technological growth&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Desire to capture large and rapidly growing potential emerging markets with&amp;nbsp;&amp;nbsp; substantially high and growing population&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Stable political environment and overall favourable climate in host country&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. The strategy to obtain control of strategic raw material or resource so as to ensure&amp;nbsp; their uninterrupted supply at the lowest possible price, usually a form of vertical integration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Desire to secure access to minerals or raw material deposits located elsewhere&amp;nbsp; and&amp;nbsp; earn profits through processing them in to finished goods (FDI in petroleum)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Existence of relatively low wages due to labour abundance&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Tax&amp;nbsp; differential and tax policies of the host country which support direct investments.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="640" width="480" height="300" as="geometry" />
+          <mxGeometry x="-140" y="640" width="480" height="300" as="geometry" />
         </mxCell>
         <mxCell id="S89zjXSp-3V75uFwfCcD-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;modes of foreign direct Investments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) Opening of a subsidiary or associate companyin a foreign country,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Equity injection into an overseas company,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) Acquiring a controlling interest in an existing foreign company,&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) Mergers and acquisitions(M&amp;amp;A)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) Joint venture with a foreign company.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi)Green field investment (freshly starting production by a parent company).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii)Brownfield investments (makes use of the existing infrastructure by merging, acquiring or leasing, instead of developing a completely&amp;nbsp; new one.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="960" width="370" height="280" as="geometry" />
+          <mxGeometry x="-85" y="960" width="370" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
