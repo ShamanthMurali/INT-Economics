@@ -1,99 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T10:14:45.620Z" agent="5.0 (X11)" etag="iiyXXkc3CpKKufHpFsOj" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T19:26:41.534Z" agent="5.0 (X11)" etag="E1QkQbJqzR2FL4Pec686" version="14.9.2" type="github">
   <diagram id="NPP-L7EnyVvAYPkiQYZp" name="Page-1">
-    <mxGraphModel dx="1709" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2315" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-1" target="7xGO-ktxZWkA-CFiUEAn-2">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-1" target="7xGO-ktxZWkA-CFiUEAn-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-1" target="7xGO-ktxZWkA-CFiUEAn-3">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-1" target="7xGO-ktxZWkA-CFiUEAn-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-1" value="International capital movements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-1" value="International capital movements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-2" target="7xGO-ktxZWkA-CFiUEAn-8">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-2" target="7xGO-ktxZWkA-CFiUEAn-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-2" value="Foreign Direct&amp;nbsp; Investment (FDI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="120" width="120" height="40" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-2" value="Foreign Direct&amp;nbsp; Investment (FDI)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-3" target="7xGO-ktxZWkA-CFiUEAn-10">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-3" target="7xGO-ktxZWkA-CFiUEAn-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-3" value="Foreign Portfolio Investment (FPI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-3" value="Foreign Portfolio Investment (FPI)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-4" target="7xGO-ktxZWkA-CFiUEAn-1">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-4" target="7xGO-ktxZWkA-CFiUEAn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-4" value="International Trade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-20" width="120" height="40" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-4" value="International Trade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-12">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-14">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-13">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="440" />
-              <mxPoint x="-180" y="440" />
+              <mxPoint x="100" y="440" />
+              <mxPoint x="-170" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-27">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="440" />
-              <mxPoint x="360" y="440" />
+              <mxPoint x="100" y="440" />
+              <mxPoint x="370" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-8" value="process&amp;nbsp; whereby&amp;nbsp; the residents of one country (home country) acquires ownership of an asset&amp;nbsp; in&amp;nbsp; another&amp;nbsp; country(Host&amp;nbsp; country)&amp;nbsp; and&amp;nbsp; such&amp;nbsp; movement&amp;nbsp; of capital&amp;nbsp; involves&amp;nbsp; ownership,&amp;nbsp; control&amp;nbsp; as&amp;nbsp; well&amp;nbsp; as&amp;nbsp; management&amp;nbsp; of assets in the host countryDirect&amp;nbsp; investments&amp;nbsp; are&amp;nbsp; real&amp;nbsp; investments&amp;nbsp; in&amp;nbsp; factories,&amp;nbsp; assets,&amp;nbsp; land inventories&amp;nbsp;&amp;nbsp; etc&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; involve&amp;nbsp;&amp;nbsp; foreign&amp;nbsp;&amp;nbsp; ownership&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; production facilitiesThe&amp;nbsp; investor&amp;nbsp; retains&amp;nbsp; control&amp;nbsp; over&amp;nbsp; the&amp;nbsp; use&amp;nbsp; of&amp;nbsp; the&amp;nbsp; invested&amp;nbsp; capital and also seeks the power to exercise control over decision making to the extent of its equity participation.The&amp;nbsp;&amp;nbsp; lasting&amp;nbsp;&amp;nbsp; interest&amp;nbsp;&amp;nbsp; implies&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; existence&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; long&amp;nbsp;&amp;nbsp; term relationship&amp;nbsp; between&amp;nbsp; direct&amp;nbsp; investor&amp;nbsp; and&amp;nbsp; the&amp;nbsp; enterprise and a significant degree of influence by the investor on management&amp;nbsp; of the enterprise." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="180" width="280" height="240" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-8" value="process&amp;nbsp; whereby&amp;nbsp; the residents of one country (home country) acquires ownership of an asset&amp;nbsp; in&amp;nbsp; another&amp;nbsp; country(Host&amp;nbsp; country)&amp;nbsp; and&amp;nbsp; such&amp;nbsp; movement&amp;nbsp; of capital&amp;nbsp; involves&amp;nbsp; ownership,&amp;nbsp; control&amp;nbsp; as&amp;nbsp; well&amp;nbsp; as&amp;nbsp; management&amp;nbsp; of assets in the host countryDirect&amp;nbsp; investments&amp;nbsp; are&amp;nbsp; real&amp;nbsp; investments&amp;nbsp; in&amp;nbsp; factories,&amp;nbsp; assets,&amp;nbsp; land inventories&amp;nbsp;&amp;nbsp; etc&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; involve&amp;nbsp;&amp;nbsp; foreign&amp;nbsp;&amp;nbsp; ownership&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; production facilitiesThe&amp;nbsp; investor&amp;nbsp; retains&amp;nbsp; control&amp;nbsp; over&amp;nbsp; the&amp;nbsp; use&amp;nbsp; of&amp;nbsp; the&amp;nbsp; invested&amp;nbsp; capital and also seeks the power to exercise control over decision making to the extent of its equity participation.The&amp;nbsp;&amp;nbsp; lasting&amp;nbsp;&amp;nbsp; interest&amp;nbsp;&amp;nbsp; implies&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; existence&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; long&amp;nbsp;&amp;nbsp; term relationship&amp;nbsp; between&amp;nbsp; direct&amp;nbsp; investor&amp;nbsp; and&amp;nbsp; the&amp;nbsp; enterprise and a significant degree of influence by the investor on management&amp;nbsp; of the enterprise." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="180" width="280" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-10" value="process&amp;nbsp; whereby&amp;nbsp; the residents of one country (home country) acquires ownership of an asset&amp;nbsp; in&amp;nbsp; another&amp;nbsp; country(Host&amp;nbsp; country)&amp;nbsp; and&amp;nbsp; such&amp;nbsp; movement&amp;nbsp; of capital&amp;nbsp; involves&amp;nbsp; ownership,&amp;nbsp; control&amp;nbsp; as&amp;nbsp; well&amp;nbsp; as&amp;nbsp; management&amp;nbsp; of assets in the host countryDirect&amp;nbsp; investments&amp;nbsp; are&amp;nbsp; real&amp;nbsp; investments&amp;nbsp; in&amp;nbsp; factories,&amp;nbsp; assets,&amp;nbsp; land inventories&amp;nbsp;&amp;nbsp; etc&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; involve&amp;nbsp;&amp;nbsp; foreign&amp;nbsp;&amp;nbsp; ownership&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; production facilitiesThe&amp;nbsp; investor&amp;nbsp; retains&amp;nbsp; control&amp;nbsp; over&amp;nbsp; the&amp;nbsp; use&amp;nbsp; of&amp;nbsp; the&amp;nbsp; invested&amp;nbsp; capital and also seeks the power to exercise control over decision making to the extent of its equity participation.The&amp;nbsp;&amp;nbsp; lasting&amp;nbsp;&amp;nbsp; interest&amp;nbsp;&amp;nbsp; implies&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; existence&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; long&amp;nbsp;&amp;nbsp; term relationship&amp;nbsp; between&amp;nbsp; direct&amp;nbsp; investor&amp;nbsp; and&amp;nbsp; the&amp;nbsp; enterprise and a significant degree of influence by the investor on management&amp;nbsp; of the enterprise." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="180" width="280" height="240" as="geometry" />
+        <mxCell id="S89zjXSp-3V75uFwfCcD-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-10" target="S89zjXSp-3V75uFwfCcD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="640" />
+              <mxPoint x="360" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-12" target="7xGO-ktxZWkA-CFiUEAn-22">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-10" value="FPI is a process in which the Resident&amp;nbsp; of&amp;nbsp; one&amp;nbsp; Country&amp;nbsp; (i.e.&amp;nbsp; Home Country) acquires ownership of Financial Assets / Securities in another Country (i.e. the Host Country).Foreign&amp;nbsp; portfolio&amp;nbsp; investment&amp;nbsp; is&amp;nbsp; the&amp;nbsp; flow&amp;nbsp; of&amp;nbsp; what&amp;nbsp; economists&amp;nbsp; call “financial capital “rather than Real capital. And &lt;u&gt;does not involve ownership or control&lt;/u&gt; on the part of investor.Foreign&amp;nbsp; portfolio&amp;nbsp; investment&amp;nbsp; involves&amp;nbsp; purchase&amp;nbsp; of&amp;nbsp; shares,&amp;nbsp; stock and bonds of companies, government bonds by a foreign investorand such bonds and shares are purchased from secondary market (Stock exchange)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="180" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-12" target="7xGO-ktxZWkA-CFiUEAn-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-12" value="vertical investment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="460" width="120" height="40" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-12" value="vertical investment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-13" target="7xGO-ktxZWkA-CFiUEAn-20">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-13" target="7xGO-ktxZWkA-CFiUEAn-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-13" value="horizontal direct investments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="460" width="120" height="40" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-13" value="horizontal direct investments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-14" target="7xGO-ktxZWkA-CFiUEAn-24">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-14" target="7xGO-ktxZWkA-CFiUEAn-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-14" value="conglomerate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="460" width="120" height="40" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-14" value="conglomerate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-20" value="investing same type of business operation in a foreign country" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="520" width="160" height="50" as="geometry" />
+        <mxCell id="S89zjXSp-3V75uFwfCcD-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-20" target="S89zjXSp-3V75uFwfCcD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="640" />
+              <mxPoint x="360" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-22" value="where investment is made is a part of supply chain of the investor’s Activity in a foreign country" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="520" width="160" height="70" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-20" value="investing same type of business operation in a foreign country" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="520" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-24" value="foreign investment in a&amp;nbsp;&amp;nbsp; business that is unrelated to its existing business in home country." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="520" width="160" height="70" as="geometry" />
+        <mxCell id="S89zjXSp-3V75uFwfCcD-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-22" target="S89zjXSp-3V75uFwfCcD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="620" />
+              <mxPoint x="360" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-27" target="7xGO-ktxZWkA-CFiUEAn-28">
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-22" value="where investment is made is a part of supply chain of the investor’s Activity in a foreign country" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="520" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S89zjXSp-3V75uFwfCcD-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-24" target="S89zjXSp-3V75uFwfCcD-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="610" />
+              <mxPoint x="360" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-24" value="foreign investment in a&amp;nbsp;&amp;nbsp; business that is unrelated to its existing business in home country." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="520" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7xGO-ktxZWkA-CFiUEAn-27" target="7xGO-ktxZWkA-CFiUEAn-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-27" value="&lt;div&gt;two-way direct&lt;/div&gt;&lt;div&gt; foreign investments&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="460" width="120" height="40" as="geometry" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-27" value="&lt;div&gt;two-way direct&lt;/div&gt;&lt;div&gt; foreign investments&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7xGO-ktxZWkA-CFiUEAn-28" value="reciprocal investments&amp;nbsp; between countries." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="160" height="40" as="geometry" />
+        <mxCell id="S89zjXSp-3V75uFwfCcD-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-28" target="S89zjXSp-3V75uFwfCcD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-28" value="reciprocal investments&amp;nbsp; between countries." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S89zjXSp-3V75uFwfCcD-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/RSUTkEz.png;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="520" height="354" as="geometry" />
+        </mxCell>
+        <mxCell id="S89zjXSp-3V75uFwfCcD-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/nFguVii.png;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1030" width="520" height="209" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
