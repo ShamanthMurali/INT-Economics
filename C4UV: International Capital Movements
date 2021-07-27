@@ -1,11 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T09:04:25.739Z" agent="5.0 (X11)" etag="Zo2D8Ryhpa7asa2UfbLW" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T09:23:53.586Z" agent="5.0 (X11)" etag="4NeDr_wlbWj4ESlBlD7K" version="14.9.2" type="github">
   <diagram id="NPP-L7EnyVvAYPkiQYZp" name="Page-1">
-    <mxGraphModel dx="593" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-1" target="7xGO-ktxZWkA-CFiUEAn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-1" target="7xGO-ktxZWkA-CFiUEAn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7xGO-ktxZWkA-CFiUEAn-1" value="International capital movements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-2" target="7xGO-ktxZWkA-CFiUEAn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-2" value="Foreign Direct&amp;nbsp; Investment (FDI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-3" target="7xGO-ktxZWkA-CFiUEAn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-3" value="Foreign Portfolio Investment (FPI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-4" target="7xGO-ktxZWkA-CFiUEAn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-4" value="International Trade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="440" />
+              <mxPoint x="-120" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7xGO-ktxZWkA-CFiUEAn-8" target="7xGO-ktxZWkA-CFiUEAn-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="440" />
+              <mxPoint x="300" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-8" value="process&amp;nbsp; whereby&amp;nbsp; the residents of one country (home country) acquires ownership of an asset&amp;nbsp; in&amp;nbsp; another&amp;nbsp; country(Host&amp;nbsp; country)&amp;nbsp; and&amp;nbsp; such&amp;nbsp; movement&amp;nbsp; of capital&amp;nbsp; involves&amp;nbsp; ownership,&amp;nbsp; control&amp;nbsp; as&amp;nbsp; well&amp;nbsp; as&amp;nbsp; management&amp;nbsp; of assets in the host countryDirect&amp;nbsp; investments&amp;nbsp; are&amp;nbsp; real&amp;nbsp; investments&amp;nbsp; in&amp;nbsp; factories,&amp;nbsp; assets,&amp;nbsp; land inventories&amp;nbsp;&amp;nbsp; etc&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; involve&amp;nbsp;&amp;nbsp; foreign&amp;nbsp;&amp;nbsp; ownership&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; production facilitiesThe&amp;nbsp; investor&amp;nbsp; retains&amp;nbsp; control&amp;nbsp; over&amp;nbsp; the&amp;nbsp; use&amp;nbsp; of&amp;nbsp; the&amp;nbsp; invested&amp;nbsp; capital and also seeks the power to exercise control over decision making to the extent of its equity participation.The&amp;nbsp;&amp;nbsp; lasting&amp;nbsp;&amp;nbsp; interest&amp;nbsp;&amp;nbsp; implies&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; existence&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; long&amp;nbsp;&amp;nbsp; term relationship&amp;nbsp; between&amp;nbsp; direct&amp;nbsp; investor&amp;nbsp; and&amp;nbsp; the&amp;nbsp; enterprise and a significant degree of influence by the investor on management&amp;nbsp; of the enterprise." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="180" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-10" value="process&amp;nbsp; whereby&amp;nbsp; the residents of one country (home country) acquires ownership of an asset&amp;nbsp; in&amp;nbsp; another&amp;nbsp; country(Host&amp;nbsp; country)&amp;nbsp; and&amp;nbsp; such&amp;nbsp; movement&amp;nbsp; of capital&amp;nbsp; involves&amp;nbsp; ownership,&amp;nbsp; control&amp;nbsp; as&amp;nbsp; well&amp;nbsp; as&amp;nbsp; management&amp;nbsp; of assets in the host countryDirect&amp;nbsp; investments&amp;nbsp; are&amp;nbsp; real&amp;nbsp; investments&amp;nbsp; in&amp;nbsp; factories,&amp;nbsp; assets,&amp;nbsp; land inventories&amp;nbsp;&amp;nbsp; etc&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; involve&amp;nbsp;&amp;nbsp; foreign&amp;nbsp;&amp;nbsp; ownership&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; production facilitiesThe&amp;nbsp; investor&amp;nbsp; retains&amp;nbsp; control&amp;nbsp; over&amp;nbsp; the&amp;nbsp; use&amp;nbsp; of&amp;nbsp; the&amp;nbsp; invested&amp;nbsp; capital and also seeks the power to exercise control over decision making to the extent of its equity participation.The&amp;nbsp;&amp;nbsp; lasting&amp;nbsp;&amp;nbsp; interest&amp;nbsp;&amp;nbsp; implies&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; existence&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; long&amp;nbsp;&amp;nbsp; term relationship&amp;nbsp; between&amp;nbsp; direct&amp;nbsp; investor&amp;nbsp; and&amp;nbsp; the&amp;nbsp; enterprise and a significant degree of influence by the investor on management&amp;nbsp; of the enterprise." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7xGO-ktxZWkA-CFiUEAn-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
