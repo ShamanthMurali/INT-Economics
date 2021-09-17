@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T07:21:42.799Z" agent="5.0 (X11)" etag="b9lZoHhZUPQ7bD8dZRG7" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T07:23:55.696Z" agent="5.0 (X11)" etag="SEoHFZD9jQT6-5kTC_0B" version="15.2.9" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
     <mxGraphModel dx="4693" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -300,10 +300,10 @@
         <mxCell id="SH0EK-gtSCAdAVg-5snC-6" value="&lt;div&gt;Gross Domestic Product at Factor Cost (GDPFC) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;= GDP MP – Indirect Taxes + Subsidies &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;= Compensation of employees+ Operating Surplus (rent + interest+ profit)+ Mixed Income of Self-&amp;nbsp;&amp;nbsp; employed+ Depreciation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1" visible="0">
           <mxGeometry x="185" y="700" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="odwpZeZwMHebjpMu6Clq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwpZeZwMHebjpMu6Clq-1" target="odwpZeZwMHebjpMu6Clq-3" edge="1">
+        <mxCell id="odwpZeZwMHebjpMu6Clq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwpZeZwMHebjpMu6Clq-1" target="odwpZeZwMHebjpMu6Clq-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="odwpZeZwMHebjpMu6Clq-1" value="Personal Income" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="odwpZeZwMHebjpMu6Clq-1" value="Personal Income" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="680" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="odwpZeZwMHebjpMu6Clq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odwpZeZwMHebjpMu6Clq-5" target="odwpZeZwMHebjpMu6Clq-35" edge="1" visible="0">
@@ -744,7 +744,7 @@
         <mxCell id="Id0TcuR3R3CM7gvA_DEH-27" value="`GVA_(MP) = GDP_(MP) = \text{gross value of output(sales + Change in stock(Cl - Op))} - \text{Intermediate consumption}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1380" y="520" width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="odwpZeZwMHebjpMu6Clq-3" value="Personal income is the amount of money collectively received by the inhabitants of a country. Sources of personal income include money earned from employment, dividends and distributions paid by investments, rents derived from property ownership, and profit sharing from businesses." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="odwpZeZwMHebjpMu6Clq-3" value="Personal income is the amount of money collectively received by the inhabitants of a country. Sources of personal income include money earned from employment, dividends and distributions paid by investments, rents derived from property ownership, and profit sharing from businesses." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" parent="1" vertex="1" visible="0">
           <mxGeometry x="610" y="340" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
