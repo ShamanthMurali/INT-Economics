@@ -1,191 +1,194 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T01:46:44.343Z" agent="5.0 (X11)" etag="e2KlnsfiZpLayPdORa8x" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T12:25:26.348Z" agent="5.0 (X11)" etag="N2daCDIY0kzRpmo62lgQ" version="15.6.3" type="github">
   <diagram id="PGOdqxws785is5lVN4YJ" name="Page-1">
-    <mxGraphModel dx="2112" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2697" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-1" target="HaSQ_AHaS6twKnQ4gnEO-3">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-1" target="HaSQ_AHaS6twKnQ4gnEO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-1" value="Foreign exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-1" value="Foreign exchange" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-3" target="HaSQ_AHaS6twKnQ4gnEO-5">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-3" target="HaSQ_AHaS6twKnQ4gnEO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-3" value="Foreign exchange refers to money denominated in a currency other than the domestic currency. Every country has its own currency which is known as domestic currency of that country. Currencies of other countries are foreign exchange." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-3" value="Foreign exchange refers to money denominated in a currency other than the domestic currency. Every country has its own currency which is known as domestic currency of that country. Currencies of other countries are foreign exchange." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="60" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-5" target="HaSQ_AHaS6twKnQ4gnEO-8">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-5" target="HaSQ_AHaS6twKnQ4gnEO-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-5" target="HaSQ_AHaS6twKnQ4gnEO-7">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-5" target="HaSQ_AHaS6twKnQ4gnEO-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-5" value="&lt;div&gt;ways to express&lt;/div&gt;&lt;div&gt;nominal exchange&amp;nbsp; rate&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-5" value="&lt;div&gt;ways to express&lt;/div&gt;&lt;div&gt;nominal exchange&amp;nbsp; rate&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-7" target="HaSQ_AHaS6twKnQ4gnEO-12">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-7" target="HaSQ_AHaS6twKnQ4gnEO-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-7" value="indirect quote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-7" value="indirect quote" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-8" target="HaSQ_AHaS6twKnQ4gnEO-10">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-8" target="HaSQ_AHaS6twKnQ4gnEO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-8" value="direct quote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-8" value="direct quote" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-10" value="Exchange rate is expressed for 1 unit of foreign currency in terms number of units of domestic currency. For example 1 $&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Rs 50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-10" value="Exchange rate is expressed for 1 unit of foreign currency in terms number of units of domestic currency. For example 1 $&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Rs 50" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="300" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-12" value="exchange rate is expressed as 1 unit of domestic currency in terms of number of units of foreign currency. For example Re 1 = 0.02$." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-12" value="exchange rate is expressed as 1 unit of domestic currency in terms of number of units of foreign currency. For example Re 1 = 0.02$." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="300" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.8;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-16" target="HaSQ_AHaS6twKnQ4gnEO-10">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.8;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-16" target="HaSQ_AHaS6twKnQ4gnEO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-16" value="Counter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-16" value="Counter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="390" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-17" target="HaSQ_AHaS6twKnQ4gnEO-10">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-17" target="HaSQ_AHaS6twKnQ4gnEO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-17" value="Base" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-17" value="Base" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="390" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.797;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-21" target="HaSQ_AHaS6twKnQ4gnEO-12">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.797;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-21" target="HaSQ_AHaS6twKnQ4gnEO-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-21" value="Counter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-21" value="Counter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="390" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-22" target="HaSQ_AHaS6twKnQ4gnEO-12">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-22" target="HaSQ_AHaS6twKnQ4gnEO-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-22" value="Base" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-22" value="Base" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="390" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-27">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-28">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-29">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-26" target="HaSQ_AHaS6twKnQ4gnEO-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-26" value="Types of exchange rate regime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-26" value="Types of exchange rate regime" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-27" target="HaSQ_AHaS6twKnQ4gnEO-31">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-27" target="HaSQ_AHaS6twKnQ4gnEO-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-27" value="fixed exchange rate regime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-27" value="fixed exchange rate regime" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-28" target="HaSQ_AHaS6twKnQ4gnEO-30">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-28" target="HaSQ_AHaS6twKnQ4gnEO-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-28" value="floating exchange&amp;nbsp; rate regime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-28" value="floating exchange&amp;nbsp; rate regime" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-29" target="HaSQ_AHaS6twKnQ4gnEO-34">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-29" target="HaSQ_AHaS6twKnQ4gnEO-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-29" value="Others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-29" value="Others" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-30" target="HaSQ_AHaS6twKnQ4gnEO-44">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-30" target="HaSQ_AHaS6twKnQ4gnEO-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-30" value="&lt;div&gt;exchange rate is determined by forces of demand and supply of foreign currency.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;there is no per-determined target rate, and exchange rates are likely to change at every moment in time depending upon the changing demand and supply. There is no interference on the part of government or the central bank of the country in the determination of exchange rate. Any&amp;nbsp; intervention by the Central banks in the foreign exchange market is intended for only&amp;nbsp; moderating the rate of exchange and preventing undue fluctuation in the exchange rate. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-30" value="&lt;div&gt;exchange rate is determined by forces of demand and supply of foreign currency.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;there is no per-determined target rate, and exchange rates are likely to change at every moment in time depending upon the changing demand and supply. There is no interference on the part of government or the central bank of the country in the determination of exchange rate. Any&amp;nbsp; intervention by the Central banks in the foreign exchange market is intended for only&amp;nbsp; moderating the rate of exchange and preventing undue fluctuation in the exchange rate. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="580" width="380" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-31" target="HaSQ_AHaS6twKnQ4gnEO-40">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-31" target="HaSQ_AHaS6twKnQ4gnEO-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-31" value="&lt;div&gt;exchange rate is determined or announced by the Government of&amp;nbsp; the country or central bank of the country. Such rate will not be based on demand and supply of foreign currency. It will continue to be same till the authorities change such rate. Fixed exchange rate is also called as pegged exchange rate. For example US$ 1 =Rs.55 may be fixed by Reserve Bank of India and this rate may continue even though at this rate the demand for dollars may be more than supply of dollars.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Government has to take steps to&amp;nbsp; defend such fixed rates. When&amp;nbsp; the demand for currency exceeds supply of foreign currency at&amp;nbsp;&amp;nbsp; fixed rate, Government has to supply foreign currency. where as supply of foreign currency is more than demand for foreign&amp;nbsp; currency, government has to buy foreign currency to maintain the&amp;nbsp; exchange rate. If the government does not steps in it will lead to black marketing of foreign currency.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-31" value="&lt;div&gt;exchange rate is determined or announced by the Government of&amp;nbsp; the country or central bank of the country. Such rate will not be based on demand and supply of foreign currency. It will continue to be same till the authorities change such rate. Fixed exchange rate is also called as pegged exchange rate. For example US$ 1 =Rs.55 may be fixed by Reserve Bank of India and this rate may continue even though at this rate the demand for dollars may be more than supply of dollars.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Government has to take steps to&amp;nbsp; defend such fixed rates. When&amp;nbsp; the demand for currency exceeds supply of foreign currency at&amp;nbsp;&amp;nbsp; fixed rate, Government has to supply foreign currency. where as supply of foreign currency is more than demand for foreign&amp;nbsp; currency, government has to buy foreign currency to maintain the&amp;nbsp; exchange rate. If the government does not steps in it will lead to black marketing of foreign currency.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="580" width="360" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/r9GfzBP.png;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/r9GfzBP.png;" parent="1" vertex="1">
           <mxGeometry x="640" y="580" width="440" height="57.54" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/izbCr1H.png;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/izbCr1H.png;" parent="1" vertex="1">
           <mxGeometry x="640" y="637.54" width="440" height="280.92" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/wQkXJzT.png;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/wQkXJzT.png;" parent="1" vertex="1">
           <mxGeometry x="640" y="918.46" width="440" height="222.54" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/9pAZMgl.png;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/9pAZMgl.png;" parent="1" vertex="1">
           <mxGeometry x="640" y="1141" width="440" height="111.69" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/esR1m6d.png;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/esR1m6d.png;" parent="1" vertex="1">
           <mxGeometry x="640" y="1252.69" width="440" height="152.31" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-40" target="HaSQ_AHaS6twKnQ4gnEO-42">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-40" target="HaSQ_AHaS6twKnQ4gnEO-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;advantages of a fixed rate regime&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. eliminates exchange rate risks and transaction costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. profits are not affected by the exchange rate fluctuations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. greatly enhance international trade and investment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. reduction in speculation on exchange rate movements &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;span&gt;imposes  discipline  on  a  country’s  monetary  authority &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;and more likely to generate lower levels of inflation.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;6. greater trade and investment as stability &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;encourages investment.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;7.&amp;nbsp; enhance the credibility of the country’s monetary-policy.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-40" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;advantages of a fixed rate regime&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. eliminates exchange rate risks and transaction costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. profits are not affected by the exchange rate fluctuations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. greatly enhance international trade and investment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. reduction in speculation on exchange rate movements &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;span&gt;imposes  discipline  on  a  country’s  monetary  authority &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;and more likely to generate lower levels of inflation.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;6. greater trade and investment as stability &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;encourages investment.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;7.&amp;nbsp; enhance the credibility of the country’s monetary-policy.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="850" width="360" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-42" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Need for large idle foreign exchange reserves:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Less flexibility&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-42" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Need for large idle foreign exchange reserves:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Less flexibility&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1141" width="360" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-44" target="HaSQ_AHaS6twKnQ4gnEO-46">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-44" target="HaSQ_AHaS6twKnQ4gnEO-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-44" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;advantages of a fixed rate regime&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. eliminates exchange rate risks and transaction costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. profits are not affected by the exchange rate fluctuations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. greatly enhance international trade and investment.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-44" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;advantages of a fixed rate regime&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. eliminates exchange rate risks and transaction costs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. profits are not affected by the exchange rate fluctuations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. greatly enhance international trade and investment.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="760" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Uncertainty in international trade:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Encouragement to speculative dealing in foreign exchange&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Cause of internal instability&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Uncertainty in international trade:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Encouragement to speculative dealing in foreign exchange&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Cause of internal instability&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="900" width="360" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-51" value="Real exchange rate and nominal exchange rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-51" value="Real exchange rate and nominal exchange rate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="1440" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-52" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1480" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-53" target="HaSQ_AHaS6twKnQ4gnEO-54">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-53" target="HaSQ_AHaS6twKnQ4gnEO-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-53" value="foreign exchange market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1600" width="160" height="40" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-53" value="foreign exchange market" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1570" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-54" value="&lt;div&gt;The&amp;nbsp; foreign&amp;nbsp; exchange&amp;nbsp; market&amp;nbsp; is&amp;nbsp; a&amp;nbsp; market&amp;nbsp; where&amp;nbsp; currencies&amp;nbsp; of different&amp;nbsp; countries&amp;nbsp; are&amp;nbsp; exchanged&amp;nbsp; for&amp;nbsp; each&amp;nbsp; other.&amp;nbsp; In&amp;nbsp; other&amp;nbsp; words foreign exchange market (FOREX) is a market for purchasing and selling different currencies.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Dealers on the foreign exchange market&lt;/u&gt;&lt;/div&gt;&lt;div&gt;central banks, commercial banks, governments, foreign exchange Dealers, multinational corporations&amp;nbsp; that engage in international trade and&amp;nbsp; investments, non-bank financial institutions such as asset-management firms, insurance companies, brokers, arbitrageurs and speculators&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1660" width="400" height="160" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-54" value="&lt;div&gt;The&amp;nbsp; foreign&amp;nbsp; exchange&amp;nbsp; market&amp;nbsp; is&amp;nbsp; a&amp;nbsp; market&amp;nbsp; where&amp;nbsp; currencies&amp;nbsp; of different&amp;nbsp; countries&amp;nbsp; are&amp;nbsp; exchanged&amp;nbsp; for&amp;nbsp; each&amp;nbsp; other.&amp;nbsp; In&amp;nbsp; other&amp;nbsp; words foreign exchange market (FOREX) is a market for purchasing and selling different currencies.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Dealers on the foreign exchange market&lt;/u&gt;&lt;/div&gt;&lt;div&gt;central banks, commercial banks, governments, foreign exchange Dealers, multinational corporations&amp;nbsp; that engage in international trade and&amp;nbsp; investments, non-bank financial institutions such as asset-management firms, insurance companies, brokers, arbitrageurs and speculators&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1630" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-56" target="HaSQ_AHaS6twKnQ4gnEO-57">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-56" target="HaSQ_AHaS6twKnQ4gnEO-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-56" value="foreign exchange market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1860" width="160" height="40" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-56" value="foreign exchange market" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1830" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-57" value="&lt;div&gt;Home-currency &lt;u&gt;depreciation&lt;/u&gt; (which is the same as foreign-currency&amp;nbsp; appre-ciation) takes place when there is an increase in the home currency price of the foreign currency (or, alternatively, a decrease in the foreign&amp;nbsp; currency price of the home currency). The home currency thus becomes relatively less valuable. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Home-currency&amp;nbsp; &lt;u&gt;appreciation&lt;/u&gt;&amp;nbsp; (or foreign-currency&amp;nbsp; depreciation)&amp;nbsp; takes&amp;nbsp; place when there is a decrease in the home currency price of foreign currency (or alternatively,&amp;nbsp; an&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; the&amp;nbsp; foreign&amp;nbsp; currency&amp;nbsp; price&amp;nbsp; of&amp;nbsp; home&amp;nbsp; currency).&amp;nbsp; The home currency thus becomes relatively more valuable.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1920" width="400" height="170" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-57" value="&lt;div&gt;Home-currency &lt;u&gt;depreciation&lt;/u&gt; (which is the same as foreign-currency&amp;nbsp; appre-ciation) takes place when there is an increase in the home currency price of the foreign currency (or, alternatively, a decrease in the foreign&amp;nbsp; currency price of the home currency). The home currency thus becomes relatively less valuable. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Home-currency&amp;nbsp; &lt;u&gt;appreciation&lt;/u&gt;&amp;nbsp; (or foreign-currency&amp;nbsp; depreciation)&amp;nbsp; takes&amp;nbsp; place when there is a decrease in the home currency price of foreign currency (or alternatively,&amp;nbsp; an&amp;nbsp; increase&amp;nbsp; in&amp;nbsp; the&amp;nbsp; foreign&amp;nbsp; currency&amp;nbsp; price&amp;nbsp; of&amp;nbsp; home&amp;nbsp; currency).&amp;nbsp; The home currency thus becomes relatively more valuable.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1890" width="400" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-59" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/sbNu1F8.png;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2110" width="520" height="320" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-59" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/sbNu1F8.png;" parent="1" vertex="1">
+          <mxGeometry x="140" y="2080" width="520" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-60" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/ePvsOoC.png;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2430" width="520" height="226" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-60" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/ePvsOoC.png;" parent="1" vertex="1">
+          <mxGeometry x="140" y="2400" width="520" height="226" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/rCHE8mY.png;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2760" width="520" height="73" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/rCHE8mY.png;" parent="1" vertex="1">
+          <mxGeometry x="140" y="2730" width="520" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/kr7MbWq.png;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2833" width="520" height="258" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/kr7MbWq.png;" parent="1" vertex="1">
+          <mxGeometry x="140" y="2803" width="520" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-63" target="HaSQ_AHaS6twKnQ4gnEO-65">
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HaSQ_AHaS6twKnQ4gnEO-63" target="HaSQ_AHaS6twKnQ4gnEO-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-63" value="Effects of Exchange Rate Fluctuations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3130" width="120" height="40" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-63" value="Effects of Exchange Rate Fluctuations" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="3100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-65" value="&lt;div&gt;1. &lt;u&gt;International Trade&lt;/u&gt;.&lt;/div&gt;&lt;div&gt; Changes in exchange rate has a direct effect on export and import of a country. on depreciation, imports will reduce as&amp;nbsp; imported&amp;nbsp; goods&amp;nbsp; will&amp;nbsp; become&amp;nbsp; costlier&amp;nbsp; than and&amp;nbsp; exports will increase as exported goods will become cheaper than before in foreign market.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Price Level&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;In case of depreciation of home currency, imports become costlier therefore price level rises. Also increase in exports reduces availability of goods for domestic markets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Domestic demand&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Depreciation increases the prices of imported&amp;nbsp; goods,&amp;nbsp; therefore&amp;nbsp; demand&amp;nbsp; for&amp;nbsp; domestic&amp;nbsp; goods&amp;nbsp; rises.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;Factor Mobility&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Depreciation of domestic currency leads to rise in&amp;nbsp; production of exported goods and import substitute&amp;nbsp; goods.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;Wage levels. &lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If Exports Sector is labour-oriented, increased demand leads to higher employment and income levels. This happens when&amp;nbsp; there is depreciation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. &lt;u&gt;Trade balance&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;Depreciation of domestic currency increases exports and reduces imports, therefore it leads to improvement in trade balance. In case of appreciation of domestic currency, imports rise and exports fall which leads to trade deficit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;Profits of exports firms and imports firms&lt;/u&gt;.&lt;/div&gt;&lt;div&gt; Depreciation of domestic currency increases the profits of exports firms and decreases the profits of firms which import goods or services. Appreciation of domestic currency increases the profits of importing firms and reduces the profits of exporting firms&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="3190" width="390" height="520" as="geometry" />
+        <mxCell id="HaSQ_AHaS6twKnQ4gnEO-65" value="&lt;div&gt;1. &lt;u&gt;International Trade&lt;/u&gt;.&lt;/div&gt;&lt;div&gt; Changes in exchange rate has a direct effect on export and import of a country. on depreciation, imports will reduce as&amp;nbsp; imported&amp;nbsp; goods&amp;nbsp; will&amp;nbsp; become&amp;nbsp; costlier&amp;nbsp; than and&amp;nbsp; exports will increase as exported goods will become cheaper than before in foreign market.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Price Level&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;In case of depreciation of home currency, imports become costlier therefore price level rises. Also increase in exports reduces availability of goods for domestic markets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;Domestic demand&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Depreciation increases the prices of imported&amp;nbsp; goods,&amp;nbsp; therefore&amp;nbsp; demand&amp;nbsp; for&amp;nbsp; domestic&amp;nbsp; goods&amp;nbsp; rises.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;Factor Mobility&lt;/u&gt;. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Depreciation of domestic currency leads to rise in&amp;nbsp; production of exported goods and import substitute&amp;nbsp; goods.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;Wage levels. &lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If Exports Sector is labour-oriented, increased demand leads to higher employment and income levels. This happens when&amp;nbsp; there is depreciation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. &lt;u&gt;Trade balance&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;Depreciation of domestic currency increases exports and reduces imports, therefore it leads to improvement in trade balance. In case of appreciation of domestic currency, imports rise and exports fall which leads to trade deficit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;Profits of exports firms and imports firms&lt;/u&gt;.&lt;/div&gt;&lt;div&gt; Depreciation of domestic currency increases the profits of exports firms and decreases the profits of firms which import goods or services. Appreciation of domestic currency increases the profits of importing firms and reduces the profits of exporting firms&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="3160" width="390" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="jESU_Zbv4YrAJVr7lOrR-1" value="&lt;div&gt;`\text{Real Exchange Rate}&amp;nbsp; =&amp;nbsp; \text{Nominal exchange rate}xx(\text{Domestic&amp;nbsp; price index}/\text{Foreign price index})`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1480" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jESU_Zbv4YrAJVr7lOrR-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1480" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
