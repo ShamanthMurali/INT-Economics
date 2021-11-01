@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T12:15:46.228Z" agent="5.0 (X11)" etag="C4FyEubsMgi4ZYZXV_Hr" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T12:18:10.627Z" agent="5.0 (X11)" etag="VBV4cAZh367LRExQ8fOA" version="15.6.3" type="github">
   <diagram id="eVq7P0OTf-j4sIJypD3C" name="Page-1">
-    <mxGraphModel dx="1378" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -455,7 +455,7 @@
             <mxRectangle x="560" y="650" width="200" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DuYHdu0TzIvNKpncwadV-14" value="define the specific characteristics&amp;nbsp; that a product should have, such as its size, shape, design, labeling / marking / packaging, functionality or performance and production methods, excluding measures covered by the SPS Agreement." style="rounded=0;whiteSpace=wrap;html=1;" parent="DuYHdu0TzIvNKpncwadV-13" vertex="1">
+        <mxCell id="DuYHdu0TzIvNKpncwadV-14" value="&lt;div&gt;define the specific characteristics&amp;nbsp; that a product should have, such as its size, shape, design, labeling / marking / packaging, functionality or performance and production methods, excluding measures covered by the SPS Agreement.&lt;/div&gt;&lt;div&gt;Example: Food&amp;nbsp; laws, quality standards,&amp;nbsp; industrial&amp;nbsp; standards&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="DuYHdu0TzIvNKpncwadV-13" vertex="1">
           <mxGeometry y="40" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DuYHdu0TzIvNKpncwadV-18" value="Import Quotas" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
