@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T12:09:19.426Z" agent="5.0 (X11)" etag="tzdcKyO4GQ2BVv4iSZF5" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T12:11:17.534Z" agent="5.0 (X11)" etag="273fmNibH4_fAyBjZ0R5" version="15.6.3" type="github">
   <diagram id="wOJo9cTKTQIo0i3dbINE" name="Page-1">
-    <mxGraphModel dx="1958" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1614" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZsTUJB5aU-Uwl8Yi9dzX-10" target="ZsTUJB5aU-Uwl8Yi9dzX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-10" value="New monetary aggregate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
+        <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-10" value="&lt;div&gt;New monetary aggregate&lt;/div&gt;&lt;div&gt;[High Powered Money]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="480" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZsTUJB5aU-Uwl8Yi9dzX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZsTUJB5aU-Uwl8Yi9dzX-12" target="ZsTUJB5aU-Uwl8Yi9dzX-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -203,6 +203,9 @@
         </mxCell>
         <mxCell id="te3v2NuigoQNSNAvL-Lj-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="300" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="te3v2NuigoQNSNAvL-Lj-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
