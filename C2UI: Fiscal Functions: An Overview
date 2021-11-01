@@ -1,196 +1,196 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T11:14:26.721Z" agent="5.0 (X11)" etag="SuJU7LCd9Q0GxI22bzxQ" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T11:26:07.361Z" agent="5.0 (X11)" etag="u9Ko-CV2ISFbyvjg6_H6" version="15.6.3" type="github">
   <diagram id="tASYNJEIHVQ-auHKKPOJ" name="Page-1">
-    <mxGraphModel dx="2928" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-5">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-4">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-3">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-1" target="kAFeOXGMNP89W8bKWZrL-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-1" value="Public finance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-1" value="Public finance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-3" target="kAFeOXGMNP89W8bKWZrL-19">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-3" target="kAFeOXGMNP89W8bKWZrL-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-3" value="Stabilization Functions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-3" value="Stabilization Functions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="947.5" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-4" target="kAFeOXGMNP89W8bKWZrL-15">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-4" target="kAFeOXGMNP89W8bKWZrL-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-4" value="Redistribution function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-4" value="Redistribution function" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-5" target="kAFeOXGMNP89W8bKWZrL-9">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-5" target="kAFeOXGMNP89W8bKWZrL-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-5" value="Allocation function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-5" value="Allocation function" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-125" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-9" target="kAFeOXGMNP89W8bKWZrL-11">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-9" target="kAFeOXGMNP89W8bKWZrL-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-9" value="resource allocation at economic level must be done in most optimum manner as mis-allocations of resources ca result in market failure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-9" value="resource allocation at economic level must be done in most optimum manner as mis-allocations of resources ca result in market failure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-205" y="140" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-11" target="kAFeOXGMNP89W8bKWZrL-13">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-11" target="kAFeOXGMNP89W8bKWZrL-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Reasons for market failure&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Imperfect&amp;nbsp;&amp;nbsp; competition&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; presence&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; monopoly&amp;nbsp;&amp;nbsp; power&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; different&amp;nbsp;&amp;nbsp; degrees&amp;nbsp; leading&amp;nbsp; to&amp;nbsp; under-production&amp;nbsp; and&amp;nbsp; higher&amp;nbsp; prices&amp;nbsp; than&amp;nbsp; would&amp;nbsp; exist&amp;nbsp; under&amp;nbsp; conditions&amp;nbsp; of&amp;nbsp; competition.&amp;nbsp; These&amp;nbsp; distort&amp;nbsp; the&amp;nbsp; choices&amp;nbsp; available&amp;nbsp; to&amp;nbsp; consumers and reduce their welfare.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Markets&amp;nbsp; typically&amp;nbsp; fail&amp;nbsp; to&amp;nbsp; provide&amp;nbsp; collective&amp;nbsp; goods&amp;nbsp; which&amp;nbsp; are,&amp;nbsp; by&amp;nbsp; their&amp;nbsp; very&amp;nbsp; nature, consumed in common by all people.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Markets fail to provide the right quantity of merit goods. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Common&amp;nbsp; property&amp;nbsp; resources&amp;nbsp; are&amp;nbsp; overused&amp;nbsp; and&amp;nbsp; exhausted&amp;nbsp; in&amp;nbsp; individual&amp;nbsp; pursuit of self-interest.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Externalities which&amp;nbsp; arise&amp;nbsp; when&amp;nbsp; the&amp;nbsp; production&amp;nbsp; and&amp;nbsp; consumption&amp;nbsp; of&amp;nbsp; a&amp;nbsp; good&amp;nbsp; or&amp;nbsp; service&amp;nbsp; affect&amp;nbsp; people&amp;nbsp; and&amp;nbsp; they&amp;nbsp; cannot&amp;nbsp; influence&amp;nbsp; through&amp;nbsp; markets&amp;nbsp; the&amp;nbsp; decision&amp;nbsp; about&amp;nbsp; how&amp;nbsp; much&amp;nbsp; of&amp;nbsp; the&amp;nbsp; good&amp;nbsp; or&amp;nbsp; service&amp;nbsp; should&amp;nbsp; be&amp;nbsp; produced&amp;nbsp; e.g.&amp;nbsp; pollution. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Factor immobility which causes unemployment and inefficiency. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Imperfect information, and•Inequalities in the distribution of income and wealth.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="210" width="510" height="320" as="geometry" />
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Reasons for market failure&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Imperfect&amp;nbsp;&amp;nbsp; competition&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; presence&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; monopoly&amp;nbsp;&amp;nbsp; power&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; different&amp;nbsp;&amp;nbsp; degrees&amp;nbsp; leading&amp;nbsp; to&amp;nbsp; under-production&amp;nbsp; and&amp;nbsp; higher&amp;nbsp; prices&amp;nbsp; than&amp;nbsp; would&amp;nbsp; exist&amp;nbsp; under&amp;nbsp; conditions&amp;nbsp; of&amp;nbsp; competition.&amp;nbsp; These&amp;nbsp; distort&amp;nbsp; the&amp;nbsp; choices&amp;nbsp; available&amp;nbsp; to&amp;nbsp; consumers and reduce their welfare.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Markets&amp;nbsp; typically&amp;nbsp; fail&amp;nbsp; to&amp;nbsp; provide&amp;nbsp; collective&amp;nbsp; goods&amp;nbsp; which&amp;nbsp; are,&amp;nbsp; by&amp;nbsp; their&amp;nbsp; very&amp;nbsp; nature, consumed in common by all people.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Markets fail to provide the right quantity of merit goods. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Common&amp;nbsp; property&amp;nbsp; resources&amp;nbsp; are&amp;nbsp; overused&amp;nbsp; and&amp;nbsp; exhausted&amp;nbsp; in&amp;nbsp; individual&amp;nbsp; pursuit of self-interest.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Externalities which&amp;nbsp; arise&amp;nbsp; when&amp;nbsp; the&amp;nbsp; production&amp;nbsp; and&amp;nbsp; consumption&amp;nbsp; of&amp;nbsp; a&amp;nbsp; good&amp;nbsp; or&amp;nbsp; service&amp;nbsp; affect&amp;nbsp; people&amp;nbsp; and&amp;nbsp; they&amp;nbsp; cannot&amp;nbsp; influence&amp;nbsp; through&amp;nbsp; markets&amp;nbsp; the&amp;nbsp; decision&amp;nbsp; about&amp;nbsp; how&amp;nbsp; much&amp;nbsp; of&amp;nbsp; the&amp;nbsp; good&amp;nbsp; or&amp;nbsp; service&amp;nbsp; should&amp;nbsp; be&amp;nbsp; produced&amp;nbsp; e.g.&amp;nbsp; pollution. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Factor immobility which causes unemployment and inefficiency. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Imperfect information, and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Inequalities in the distribution of income and wealth.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="210" width="510" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Allocation instruments used by government&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• government&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; directly&amp;nbsp;&amp;nbsp; produce&amp;nbsp;&amp;nbsp; an economic&amp;nbsp;&amp;nbsp; good&amp;nbsp;&amp;nbsp; (for&amp;nbsp;&amp;nbsp; example, electricity and public transportation services) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• government&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; influence&amp;nbsp;&amp;nbsp; private&amp;nbsp;&amp;nbsp; allocation&amp;nbsp;&amp;nbsp; through&amp;nbsp;&amp;nbsp; incentives&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; disincentives&amp;nbsp; (for&amp;nbsp; example,&amp;nbsp; tax&amp;nbsp; concessions&amp;nbsp; and&amp;nbsp; subsidies&amp;nbsp; may&amp;nbsp; be&amp;nbsp; given&amp;nbsp; for&amp;nbsp; the&amp;nbsp; production&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; that&amp;nbsp; promote&amp;nbsp; social&amp;nbsp; welfare&amp;nbsp; and&amp;nbsp; higher taxes may be imposed on goods such as cigarettes and alcohol)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• government&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; influence&amp;nbsp;&amp;nbsp; allocation&amp;nbsp;&amp;nbsp; through&amp;nbsp;&amp;nbsp; its&amp;nbsp;&amp;nbsp; competition&amp;nbsp;&amp;nbsp; policies,&amp;nbsp;&amp;nbsp; merger&amp;nbsp; policies&amp;nbsp; etc.&amp;nbsp;&amp;nbsp; which&amp;nbsp; affect&amp;nbsp; the&amp;nbsp; structure&amp;nbsp; of&amp;nbsp; industry&amp;nbsp; and&amp;nbsp; commerce(for&amp;nbsp; example,&amp;nbsp; the&amp;nbsp; Competition&amp;nbsp; Act&amp;nbsp; in&amp;nbsp; India&amp;nbsp; promotes&amp;nbsp; competition&amp;nbsp; and&amp;nbsp; prevents anti-competitive activities)&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• governments’&amp;nbsp; regulatory&amp;nbsp; activities&amp;nbsp; such&amp;nbsp; as&amp;nbsp; licensing,&amp;nbsp; controls,&amp;nbsp; minimum&amp;nbsp; wages, and directives on location of industry influence resource allocation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• government sets legal and administrative frameworks, and&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• any mixture of intermediate methods may be adopted by governments&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="550" width="510" height="310" as="geometry" />
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-13" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Allocation instruments used by government&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• government&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; directly&amp;nbsp;&amp;nbsp; produce&amp;nbsp;&amp;nbsp; an economic&amp;nbsp;&amp;nbsp; good&amp;nbsp;&amp;nbsp; (for&amp;nbsp;&amp;nbsp; example, electricity and public transportation services) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• government&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; influence&amp;nbsp;&amp;nbsp; private&amp;nbsp;&amp;nbsp; allocation&amp;nbsp;&amp;nbsp; through&amp;nbsp;&amp;nbsp; incentives&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; disincentives&amp;nbsp; (for&amp;nbsp; example,&amp;nbsp; tax&amp;nbsp; concessions&amp;nbsp; and&amp;nbsp; subsidies&amp;nbsp; may&amp;nbsp; be&amp;nbsp; given&amp;nbsp; for&amp;nbsp; the&amp;nbsp; production&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; that&amp;nbsp; promote&amp;nbsp; social&amp;nbsp; welfare&amp;nbsp; and&amp;nbsp; higher taxes may be imposed on goods such as cigarettes and alcohol)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• government&amp;nbsp;&amp;nbsp; may&amp;nbsp;&amp;nbsp; influence&amp;nbsp;&amp;nbsp; allocation&amp;nbsp;&amp;nbsp; through&amp;nbsp;&amp;nbsp; its&amp;nbsp;&amp;nbsp; competition&amp;nbsp;&amp;nbsp; policies,&amp;nbsp;&amp;nbsp; merger&amp;nbsp; policies&amp;nbsp; etc.&amp;nbsp;&amp;nbsp; which&amp;nbsp; affect&amp;nbsp; the&amp;nbsp; structure&amp;nbsp; of&amp;nbsp; industry&amp;nbsp; and&amp;nbsp; commerce(for&amp;nbsp; example,&amp;nbsp; the&amp;nbsp; Competition&amp;nbsp; Act&amp;nbsp; in&amp;nbsp; India&amp;nbsp; promotes&amp;nbsp; competition&amp;nbsp; and&amp;nbsp; prevents anti-competitive activities)&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• governments’&amp;nbsp; regulatory&amp;nbsp; activities&amp;nbsp; such&amp;nbsp; as&amp;nbsp; licensing,&amp;nbsp; controls,&amp;nbsp; minimum&amp;nbsp; wages, and directives on location of industry influence resource allocation. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• government sets legal and administrative frameworks, and&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• any mixture of intermediate methods may be adopted by governments&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="610" width="510" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-15" target="kAFeOXGMNP89W8bKWZrL-17">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-15" target="kAFeOXGMNP89W8bKWZrL-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;The distribution function of the government aims at:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• redistribution&amp;nbsp; of&amp;nbsp; income&amp;nbsp; to&amp;nbsp; achieve&amp;nbsp; an&amp;nbsp; equitable&amp;nbsp; distribution&amp;nbsp; of&amp;nbsp; societal&amp;nbsp; output among households&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• advancing&amp;nbsp; the well-being of those members of the society who suffer from deprivations of different types &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• providing equality in income, wealth and opportunities&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• providing&amp;nbsp; security&amp;nbsp; (in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; fulfillment&amp;nbsp; of&amp;nbsp; basic&amp;nbsp; needs)&amp;nbsp; for&amp;nbsp; people&amp;nbsp; who&amp;nbsp; have hardships, and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• ensuring that everyone enjoys a minimal standard of living&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-15" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;The distribution function of the government aims at:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• redistribution&amp;nbsp; of&amp;nbsp; income&amp;nbsp; to&amp;nbsp; achieve&amp;nbsp; an&amp;nbsp; equitable&amp;nbsp; distribution&amp;nbsp; of&amp;nbsp; societal&amp;nbsp; output among households&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• advancing&amp;nbsp; the well-being of those members of the society who suffer from deprivations of different types &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• providing equality in income, wealth and opportunities&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• providing&amp;nbsp; security&amp;nbsp; (in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; fulfillment&amp;nbsp; of&amp;nbsp; basic&amp;nbsp; needs)&amp;nbsp; for&amp;nbsp; people&amp;nbsp; who&amp;nbsp; have hardships, and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• ensuring that everyone enjoys a minimal standard of living&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="210" y="150" width="510" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-17" value="&lt;div&gt;&amp;nbsp; &lt;u&gt;&lt;b&gt;redistribution&amp;nbsp; function&amp;nbsp; (or&amp;nbsp; market&amp;nbsp; intervention&amp;nbsp; for&amp;nbsp; socio-economic reasons) performed by governments are: &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•taxation policies of the government whereby progressive taxation of the rich is combined with provision of subsidy to the poor households &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•proceeds&amp;nbsp;&amp;nbsp; from&amp;nbsp;&amp;nbsp; progressive&amp;nbsp;&amp;nbsp; taxes&amp;nbsp;&amp;nbsp; used&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp; financing&amp;nbsp;&amp;nbsp; public&amp;nbsp;&amp;nbsp; services,&amp;nbsp;&amp;nbsp; especially those that benefit low-income households (for example, supply of essential food grains at highly subsidized prices to BPL households)&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•employment&amp;nbsp; reservations&amp;nbsp; and&amp;nbsp; preferences&amp;nbsp; to&amp;nbsp; protect&amp;nbsp; certain&amp;nbsp; segments&amp;nbsp; of&amp;nbsp; the population, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•unemployment&amp;nbsp; benefits&amp;nbsp; and&amp;nbsp; transfer&amp;nbsp; payments&amp;nbsp; to&amp;nbsp; provide&amp;nbsp; support&amp;nbsp; to&amp;nbsp; the&amp;nbsp; underprivileged, dependent, and physically handicapped, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•families&amp;nbsp; below&amp;nbsp; the&amp;nbsp; poverty&amp;nbsp; line&amp;nbsp; are&amp;nbsp; provided&amp;nbsp; with&amp;nbsp; monetary&amp;nbsp; aid&amp;nbsp; and&amp;nbsp; aid&amp;nbsp; in&amp;nbsp; kind &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•regulation of manufacture and sale of certain products to ensure health and well-being of consumers, and •special schemes for backward regions and for the vulnerable sections of the population &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-17" value="&lt;div&gt;&amp;nbsp; &lt;u&gt;&lt;b&gt;redistribution&amp;nbsp; function&amp;nbsp; (or&amp;nbsp; market&amp;nbsp; intervention&amp;nbsp; for&amp;nbsp; socio-economic reasons) performed by governments are: &lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•taxation policies of the government whereby progressive taxation of the rich is combined with provision of subsidy to the poor households &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•proceeds&amp;nbsp;&amp;nbsp; from&amp;nbsp;&amp;nbsp; progressive&amp;nbsp;&amp;nbsp; taxes&amp;nbsp;&amp;nbsp; used&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp; financing&amp;nbsp;&amp;nbsp; public&amp;nbsp;&amp;nbsp; services,&amp;nbsp;&amp;nbsp; especially those that benefit low-income households (for example, supply of essential food grains at highly subsidized prices to BPL households)&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•employment&amp;nbsp; reservations&amp;nbsp; and&amp;nbsp; preferences&amp;nbsp; to&amp;nbsp; protect&amp;nbsp; certain&amp;nbsp; segments&amp;nbsp; of&amp;nbsp; the population, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•unemployment&amp;nbsp; benefits&amp;nbsp; and&amp;nbsp; transfer&amp;nbsp; payments&amp;nbsp; to&amp;nbsp; provide&amp;nbsp; support&amp;nbsp; to&amp;nbsp; the&amp;nbsp; underprivileged, dependent, and physically handicapped, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•families&amp;nbsp; below&amp;nbsp; the&amp;nbsp; poverty&amp;nbsp; line&amp;nbsp; are&amp;nbsp; provided&amp;nbsp; with&amp;nbsp; monetary&amp;nbsp; aid&amp;nbsp; and&amp;nbsp; aid&amp;nbsp; in&amp;nbsp; kind &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•regulation of manufacture and sale of certain products to ensure health and well-being of consumers, and &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•special schemes for backward regions and for the vulnerable sections of the population &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="210" y="425" width="510" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-19" target="kAFeOXGMNP89W8bKWZrL-21">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-19" target="kAFeOXGMNP89W8bKWZrL-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-19" value="&lt;div&gt;it is one of the most vital function of fiscal policy and monetary policy which emphasizes on optimum level of resource allocation &lt;br&gt;&lt;/div&gt;&lt;div&gt;in order to attain the desired level of growth and development&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-19" value="&lt;div&gt;it is one of the most vital function of fiscal policy and monetary policy which emphasizes on optimum level of resource allocation &lt;br&gt;&lt;/div&gt;&lt;div&gt;in order to attain the desired level of growth and development&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827.5" y="150" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-21" target="kAFeOXGMNP89W8bKWZrL-23">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-21" target="kAFeOXGMNP89W8bKWZrL-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-21" value="&lt;div&gt;The&amp;nbsp; stabilization&amp;nbsp; function&amp;nbsp; is&amp;nbsp; concerned&amp;nbsp; with&amp;nbsp; the&amp;nbsp; performance&amp;nbsp; of&amp;nbsp; the&amp;nbsp; aggregate&amp;nbsp; economy in terms of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•labour employment and capital utilization, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•overall output and income,&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•general price levels,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•balance of international payments,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•the rate of economic growth. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-21" value="&lt;div&gt;The&amp;nbsp; stabilization&amp;nbsp; function&amp;nbsp; is&amp;nbsp; concerned&amp;nbsp; with&amp;nbsp; the&amp;nbsp; performance&amp;nbsp; of&amp;nbsp; the&amp;nbsp; aggregate&amp;nbsp; economy in terms of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•labour employment and capital utilization, &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•overall output and income,&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•general price levels,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•balance of international payments,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•the rate of economic growth. &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="842.5" y="230" width="330" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-23" target="kAFeOXGMNP89W8bKWZrL-26">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-23" target="kAFeOXGMNP89W8bKWZrL-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-23" target="kAFeOXGMNP89W8bKWZrL-25">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-23" target="kAFeOXGMNP89W8bKWZrL-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-23" value="Macro economic policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-23" value="Macro economic policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="947.5" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-25" target="kAFeOXGMNP89W8bKWZrL-35">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-25" target="kAFeOXGMNP89W8bKWZrL-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-25" target="kAFeOXGMNP89W8bKWZrL-34">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-25" target="kAFeOXGMNP89W8bKWZrL-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-25" value="&lt;div&gt;Monetary policy&lt;/div&gt;&lt;div&gt;(RBI governor)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-25" value="&lt;div&gt;Monetary policy&lt;/div&gt;&lt;div&gt;(RBI governor)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1085" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-26" target="kAFeOXGMNP89W8bKWZrL-31">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-26" target="kAFeOXGMNP89W8bKWZrL-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-26" target="kAFeOXGMNP89W8bKWZrL-30">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-26" target="kAFeOXGMNP89W8bKWZrL-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-26" value="&lt;div&gt;Fiscal Policy&lt;/div&gt;&lt;div&gt;(Finance minister)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-26" value="&lt;div&gt;Fiscal Policy&lt;/div&gt;&lt;div&gt;(Finance minister)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="805" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-30" target="kAFeOXGMNP89W8bKWZrL-39">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kAFeOXGMNP89W8bKWZrL-30" target="kAFeOXGMNP89W8bKWZrL-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-30" value="Contraction fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-30" value="Contraction fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-31" target="kAFeOXGMNP89W8bKWZrL-38">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kAFeOXGMNP89W8bKWZrL-31" target="kAFeOXGMNP89W8bKWZrL-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-31" value="Expansionary finance policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-31" value="Expansionary finance policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-34" target="kAFeOXGMNP89W8bKWZrL-47">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kAFeOXGMNP89W8bKWZrL-34" target="kAFeOXGMNP89W8bKWZrL-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-34" value="Contraction fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-34" value="Contraction fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1155" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-35" target="kAFeOXGMNP89W8bKWZrL-46">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-35" target="kAFeOXGMNP89W8bKWZrL-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-35" value="Expansionary finance policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-35" value="Expansionary finance policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1015" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-38" target="kAFeOXGMNP89W8bKWZrL-52">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-38" target="kAFeOXGMNP89W8bKWZrL-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-38" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expenditure&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-38" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expenditure&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-39" target="kAFeOXGMNP89W8bKWZrL-53">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kAFeOXGMNP89W8bKWZrL-39" target="kAFeOXGMNP89W8bKWZrL-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-39" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expenditure&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-39" value="&lt;div&gt;Tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Expenditure&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="873" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-40" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-40" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="821.5" y="660" as="sourcePoint" />
             <mxPoint x="821.5" y="677" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-41" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-41" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="838.5" y="704" as="sourcePoint" />
             <mxPoint x="838.5" y="687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-44" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-44" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="951.5" y="675" as="sourcePoint" />
             <mxPoint x="951.5" y="658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-45" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-45" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="972.5" y="685" as="sourcePoint" />
             <mxPoint x="972.5" y="702" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-46" target="kAFeOXGMNP89W8bKWZrL-56">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-46" target="kAFeOXGMNP89W8bKWZrL-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-46" value="Interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-46" value="Interest" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1015" y="650" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAFeOXGMNP89W8bKWZrL-47" target="kAFeOXGMNP89W8bKWZrL-57">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kAFeOXGMNP89W8bKWZrL-47" target="kAFeOXGMNP89W8bKWZrL-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-47" value="Interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-47" value="Interest" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1155" y="650" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-50" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-50" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1111.5" y="661" as="sourcePoint" />
             <mxPoint x="1111.5" y="678" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-51" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-51" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1252.5" y="678" as="sourcePoint" />
             <mxPoint x="1252.5" y="661" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-52" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Recession&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-52" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Recession&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="730" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-53" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Inflation / Recovery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-53" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Inflation / Recovery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="873" y="730" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-56" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Recession&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-56" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Recession&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1015" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kAFeOXGMNP89W8bKWZrL-57" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Inflation / Recovery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAFeOXGMNP89W8bKWZrL-57" value="&lt;div&gt;Used during &lt;br&gt;&lt;/div&gt;&lt;div&gt;Inflation / Recovery&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1148" y="710" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
