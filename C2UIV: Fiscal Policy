@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T17:12:44.861Z" agent="5.0 (X11)" etag="UeSFUaUYRPEbBqRNXM3F" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T13:20:30.852Z" agent="5.0 (X11)" etag="LKPGD3om60-X8SS-3PA0" version="15.6.8" type="github">
   <diagram id="M30XoS-LUZGrufTWc0ez" name="Page-1">
-    <mxGraphModel dx="3491" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2808" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,7 +387,7 @@
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-up-c-128.png" parent="1" vertex="1">
           <mxGeometry x="-805.8699999999997" y="689" width="13.75" height="13.75" as="geometry" />
         </mxCell>
-        <mxCell id="VM9yePtdfOpJjgd5AzSa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p0kaOpylP1oFJ6HbIQK-96" target="VM9yePtdfOpJjgd5AzSa-6">
+        <mxCell id="VM9yePtdfOpJjgd5AzSa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8p0kaOpylP1oFJ6HbIQK-96" target="VM9yePtdfOpJjgd5AzSa-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8p0kaOpylP1oFJ6HbIQK-96" value="Balanced budget muliplier" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -531,7 +531,7 @@
         <mxCell id="35GgQiStkZLXX9v2gaiL-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="35GgQiStkZLXX9v2gaiL-59" target="35GgQiStkZLXX9v2gaiL-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35GgQiStkZLXX9v2gaiL-59" value="Types of Fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="35GgQiStkZLXX9v2gaiL-59" value="Limitations of Fiscal policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40.500000000000114" y="2440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="35GgQiStkZLXX9v2gaiL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="35GgQiStkZLXX9v2gaiL-60" target="35GgQiStkZLXX9v2gaiL-61" edge="1">
@@ -611,19 +611,19 @@
             <mxRectangle x="2" y="2940" width="330" height="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VM9yePtdfOpJjgd5AzSa-4" value="government spending would sometimes substitute&amp;nbsp; private&amp;nbsp; spending. crowding&amp;nbsp; out&amp;nbsp; view&amp;nbsp; is&amp;nbsp; that&amp;nbsp; a&amp;nbsp; rapid&amp;nbsp; growth&amp;nbsp; of&amp;nbsp; government&amp;nbsp; spending&amp;nbsp; leads&amp;nbsp; to&amp;nbsp; a&amp;nbsp; transfer&amp;nbsp; of&amp;nbsp; scarce&amp;nbsp; productive&amp;nbsp; resources from the private sector to the public sector where productivity might be lower. When the government increases its spending by borrowing&amp;nbsp; from&amp;nbsp; the&amp;nbsp; loanable&amp;nbsp; funds&amp;nbsp; from&amp;nbsp; the market&amp;nbsp; the&amp;nbsp; demand&amp;nbsp; for&amp;nbsp; loans&amp;nbsp; increases&amp;nbsp; and&amp;nbsp; this&amp;nbsp; pushes&amp;nbsp; the&amp;nbsp; interest&amp;nbsp; rates&amp;nbsp; up. Private&amp;nbsp; investments&amp;nbsp; are&amp;nbsp; sensitive&amp;nbsp; to interest rates and therefore some private investment spending is discouraged" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="35GgQiStkZLXX9v2gaiL-82">
+        <mxCell id="VM9yePtdfOpJjgd5AzSa-4" value="government spending would sometimes substitute&amp;nbsp; private&amp;nbsp; spending. crowding&amp;nbsp; out&amp;nbsp; view&amp;nbsp; is&amp;nbsp; that&amp;nbsp; a&amp;nbsp; rapid&amp;nbsp; growth&amp;nbsp; of&amp;nbsp; government&amp;nbsp; spending&amp;nbsp; leads&amp;nbsp; to&amp;nbsp; a&amp;nbsp; transfer&amp;nbsp; of&amp;nbsp; scarce&amp;nbsp; productive&amp;nbsp; resources from the private sector to the public sector where productivity might be lower. When the government increases its spending by borrowing&amp;nbsp; from&amp;nbsp; the&amp;nbsp; loanable&amp;nbsp; funds&amp;nbsp; from&amp;nbsp; the market&amp;nbsp; the&amp;nbsp; demand&amp;nbsp; for&amp;nbsp; loans&amp;nbsp; increases&amp;nbsp; and&amp;nbsp; this&amp;nbsp; pushes&amp;nbsp; the&amp;nbsp; interest&amp;nbsp; rates&amp;nbsp; up. Private&amp;nbsp; investments&amp;nbsp; are&amp;nbsp; sensitive&amp;nbsp; to interest rates and therefore some private investment spending is discouraged" style="rounded=0;whiteSpace=wrap;html=1;" parent="35GgQiStkZLXX9v2gaiL-82" vertex="1">
           <mxGeometry y="40" width="330" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="VM9yePtdfOpJjgd5AzSa-1" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VM9yePtdfOpJjgd5AzSa-1" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-780" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VM9yePtdfOpJjgd5AzSa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VM9yePtdfOpJjgd5AzSa-6" target="VM9yePtdfOpJjgd5AzSa-8">
+        <mxCell id="VM9yePtdfOpJjgd5AzSa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VM9yePtdfOpJjgd5AzSa-6" target="VM9yePtdfOpJjgd5AzSa-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VM9yePtdfOpJjgd5AzSa-6" value="&lt;div&gt;The&amp;nbsp; government&amp;nbsp; budget&amp;nbsp; is&amp;nbsp; said&amp;nbsp; to&amp;nbsp; be&amp;nbsp; in&amp;nbsp; balance&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;when&amp;nbsp; ∆G&amp;nbsp; =&amp;nbsp; ∆&amp;nbsp; T.&amp;nbsp;&amp;nbsp; The&amp;nbsp; balanced&amp;nbsp; budget multiplier is always equal to 1. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VM9yePtdfOpJjgd5AzSa-6" value="&lt;div&gt;The&amp;nbsp; government&amp;nbsp; budget&amp;nbsp; is&amp;nbsp; said&amp;nbsp; to&amp;nbsp; be&amp;nbsp; in&amp;nbsp; balance&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;when&amp;nbsp; ∆G&amp;nbsp; =&amp;nbsp; ∆&amp;nbsp; T.&amp;nbsp;&amp;nbsp; The&amp;nbsp; balanced&amp;nbsp; budget multiplier is always equal to 1. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-398.5" y="1340" width="199" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VM9yePtdfOpJjgd5AzSa-8" value="`=(DeltaY)/(DeltaG)+(DeltaY)/(DeltaT)`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VM9yePtdfOpJjgd5AzSa-8" value="`=(DeltaY)/(DeltaG)+(DeltaY)/(DeltaT)`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-359" y="1440" width="118.5" height="60" as="geometry" />
         </mxCell>
       </root>
