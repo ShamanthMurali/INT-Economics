@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T12:24:35.874Z" agent="5.0 (X11)" etag="8-oa6Rs0I-kJExC74GTc" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T07:18:50.318Z" agent="5.0 (X11)" etag="6F3ot5Mkr2wQcsilnOGl" version="15.8.2" type="github">
   <diagram id="PxakexG5ndWzPj7PKFZY" name="Page-1">
-    <mxGraphModel dx="2808" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5923" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,9 +224,6 @@
         <mxCell id="dr2HNGAFYHvFMOD003ks-1" value="Price floor and price ceiling" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1">
           <mxGeometry x="1310" y="490" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Br47WfQ5ZC2vri_BRqnm-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="150" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-62" value="Theory" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1360" y="140" width="120" height="40" as="geometry">
             <mxRectangle x="1400" y="140" width="400" height="350" as="alternateBounds" />
@@ -237,6 +234,9 @@
         </mxCell>
         <mxCell id="9Jaz9FJUo0GVrB3KNpO1-61" value="&lt;div&gt;Public&amp;nbsp; goods&amp;nbsp; possess&amp;nbsp; the&amp;nbsp; characteristics&amp;nbsp; of&amp;nbsp; non&amp;nbsp; excludable.&amp;nbsp;&amp;nbsp;&amp;nbsp; This&amp;nbsp; creates&amp;nbsp; a problem of free rider When goods are prone to free rider problem,&amp;nbsp;&amp;nbsp; such goods&amp;nbsp; will not have markets as no producer will provide such goods Since&amp;nbsp; such&amp;nbsp; goods&amp;nbsp; do&amp;nbsp; not&amp;nbsp; have&amp;nbsp; a market&amp;nbsp; the&amp;nbsp; government&amp;nbsp; has&amp;nbsp; to&amp;nbsp; provide&amp;nbsp; such goods.In case of pure public goods,&amp;nbsp;&amp;nbsp;&amp;nbsp; which have the characteristic of non rival nature and non exclusion,&amp;nbsp; only Government can provide&amp;nbsp; such goods&amp;nbsp; by using general Government tax revenues.Government provides such goods&amp;nbsp; in two ways&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.Government&amp;nbsp; provides&amp;nbsp; such&amp;nbsp; goods&amp;nbsp; free&amp;nbsp; of&amp;nbsp; charge.&amp;nbsp; The&amp;nbsp; provision&amp;nbsp; of&amp;nbsp; such goods&amp;nbsp; is&amp;nbsp; funded&amp;nbsp; from&amp;nbsp; Taxes&amp;nbsp; collected&amp;nbsp; by&amp;nbsp; the&amp;nbsp; Government.&amp;nbsp; For&amp;nbsp; example free medical facility is provided by Government. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.Such goods may be provided by private producers on payment of fees.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The&amp;nbsp; fees&amp;nbsp; charged&amp;nbsp; by&amp;nbsp; private&amp;nbsp; producers&amp;nbsp; will&amp;nbsp; be&amp;nbsp; fixed&amp;nbsp; and&amp;nbsp; regulated&amp;nbsp; by&amp;nbsp; the Government.&amp;nbsp; The&amp;nbsp; government&amp;nbsp; will&amp;nbsp; also&amp;nbsp; make&amp;nbsp; laws&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; quality&amp;nbsp; of&amp;nbsp; such goods. For example fees for higher education is fixed by Government in case of private&amp;nbsp; colleges.&amp;nbsp; Private&amp;nbsp; producers&amp;nbsp; construct&amp;nbsp; and&amp;nbsp; maintain&amp;nbsp; roads&amp;nbsp; and&amp;nbsp; toll charges are collected by such private producers.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="9Jaz9FJUo0GVrB3KNpO1-62" vertex="1">
           <mxGeometry y="40" width="400" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EKjLurEa_b__aqbIxR52-1" value="RN19" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="990" y="170" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
