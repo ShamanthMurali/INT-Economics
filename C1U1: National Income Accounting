@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T07:11:18.775Z" agent="5.0 (X11)" etag="tKGDK5jMQeN6M9XnD7hv" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T07:16:12.356Z" agent="5.0 (X11)" etag="XcwN4DFcFe7RhIeLG6M_" version="15.8.2" type="github">
   <diagram id="9fR3Zo8RCaFmC9mO_6ro" name="Page-1">
-    <mxGraphModel dx="14633" dy="3433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6367" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -792,29 +792,29 @@
         <mxCell id="1J2Rckc5Jia2ff-T3Qo--1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;important points which one needs to bear in mind while calculating National Income&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) The value of only final goods and services would be included in GDP.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2) Intermediate goods used to produce other goods rather than being sold to final purchasers are not counted as it would involve double counting.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3) Non-economic activities are those which produce goods and services, but since &lt;br&gt;&lt;/div&gt;these are not exchanged in a market transaction they do not command any &lt;br&gt;market value; for e.g. hobbies, housekeeping etc.&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(4)&amp;nbsp;&amp;nbsp; National income is a ‘flow’ measure of output per time period and includes only those goods and services produced in the current period. The value of goods which already exist&amp;nbsp; or previously produced, do not enter into the calculation of national income. &amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(5) Two types of goods used in the production process are counted in GDP namely, &lt;/div&gt;capital goods and inventory." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1860" y="910" width="520" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="1J2Rckc5Jia2ff-T3Qo--2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="900" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1J2Rckc5Jia2ff-T3Qo--3" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="-3200" y="830" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1J2Rckc5Jia2ff-T3Qo--4" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="-3320" y="1152.5" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="dD4DAo6AXfWdsqDQ4Qso-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;How&amp;nbsp; the&amp;nbsp; concept&amp;nbsp; of&amp;nbsp; National&amp;nbsp; Income&amp;nbsp; helps&amp;nbsp; in&amp;nbsp; analyzing&amp;nbsp; an&amp;nbsp; economy’s&amp;nbsp; aggregate &lt;br&gt;behavior? &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;The&amp;nbsp; estimates&amp;nbsp; of&amp;nbsp; national&amp;nbsp; income&amp;nbsp; show&amp;nbsp; the&amp;nbsp; composition&amp;nbsp; and&amp;nbsp; structure&amp;nbsp; of&amp;nbsp; national &lt;br&gt;income in terms of different sectors of the economy, the periodical variations in them &lt;br&gt;and&amp;nbsp; the&amp;nbsp; broad&amp;nbsp; sectoral&amp;nbsp; shifts&amp;nbsp; in&amp;nbsp; an&amp;nbsp; economy&amp;nbsp; over&amp;nbsp; time.&amp;nbsp; It&amp;nbsp; is&amp;nbsp; also&amp;nbsp; possible&amp;nbsp; to&amp;nbsp; make &lt;br&gt;temporal and spatial comparisons of the trend and speed of economic progress and &lt;br&gt;development. Using this information, the government can fix various sector -specific &lt;br&gt;development&amp;nbsp; targets&amp;nbsp; for&amp;nbsp; different&amp;nbsp; sectors&amp;nbsp; of&amp;nbsp; the&amp;nbsp; economy&amp;nbsp; and&amp;nbsp; formulate&amp;nbsp; suitable &lt;br&gt;&lt;div&gt;development plans and policies to increase growth. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;National&amp;nbsp; income&amp;nbsp; estimates&amp;nbsp; also&amp;nbsp; throw&amp;nbsp; light&amp;nbsp; on&amp;nbsp; income&amp;nbsp; distribution&amp;nbsp; and&amp;nbsp; the&amp;nbsp; possible &lt;br&gt;inequality in the distribution among different categories of income earners. It is also &lt;br&gt;possible&amp;nbsp; to&amp;nbsp; make&amp;nbsp; comparisons&amp;nbsp; of&amp;nbsp; structural&amp;nbsp; statistics ,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; ratios&amp;nbsp; of&amp;nbsp; investment, &lt;br&gt;taxes, or government expenditures to GDP. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1860" y="1190" width="520" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="YaH_kIU8RjUZLCw0kKbP-5" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
+        <mxCell id="YaH_kIU8RjUZLCw0kKbP-5" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" parent="1" vertex="1">
           <mxGeometry x="1820" y="1192.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YaH_kIU8RjUZLCw0kKbP-7" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
+        <mxCell id="YaH_kIU8RjUZLCw0kKbP-7" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" parent="1" vertex="1">
           <mxGeometry x="-3340" y="1330" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YaH_kIU8RjUZLCw0kKbP-8" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
-          <mxGeometry x="-3360" y="1180" width="40" height="20" as="geometry" />
+        <mxCell id="YaH_kIU8RjUZLCw0kKbP-8" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" parent="1" vertex="1">
+          <mxGeometry x="-3340" y="1180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YaH_kIU8RjUZLCw0kKbP-9" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
-          <mxGeometry x="-3360" y="1160" width="40" height="20" as="geometry" />
+        <mxCell id="YaH_kIU8RjUZLCw0kKbP-9" value="RN21" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" parent="1" vertex="1">
+          <mxGeometry x="-3340" y="1160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yoSHDRo-OmzgySLI5hp-2" value="RN19" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="-3340" y="1200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yoSHDRo-OmzgySLI5hp-5" value="RN19" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="-3217.5" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yoSHDRo-OmzgySLI5hp-6" value="RN19" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="940" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
