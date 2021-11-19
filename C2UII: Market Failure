@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T12:04:46.799Z" agent="5.0 (X11)" etag="LaybEncZ8v1ckbR41Z2k" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T07:17:57.533Z" agent="5.0 (X11)" etag="DmsDBb5T2qPUf8YMtyTQ" version="15.8.2" type="github">
   <diagram id="bC11Y3c3_GZaFNSsFz0K" name="Page-1">
-    <mxGraphModel dx="1561" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5918" dy="3160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -391,8 +391,8 @@
         <mxCell id="3dlbmDzRoKMXdMmCx6VQ-46" value="&lt;div&gt;moral hazards are also a result of asymmetric information. A moral hazard is a situation where a party will take risks because the cost that&amp;nbsp; could&amp;nbsp; incur&amp;nbsp; will&amp;nbsp; not&amp;nbsp; be&amp;nbsp; felt&amp;nbsp; by&amp;nbsp; the&amp;nbsp; party&amp;nbsp; taking&amp;nbsp; the&amp;nbsp; risk.&amp;nbsp;&amp;nbsp;&amp;nbsp; For example&amp;nbsp;&amp;nbsp; insureced&amp;nbsp;&amp;nbsp; consumers&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; likely&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; take&amp;nbsp;&amp;nbsp; greer&amp;nbsp;&amp;nbsp; risks, knowing that a claim will be paid for by the insurance company.Moral&amp;nbsp;&amp;nbsp; hazard&amp;nbsp;&amp;nbsp; is&amp;nbsp;&amp;nbsp; opportunism&amp;nbsp;&amp;nbsp; characterized&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; Informed person`s&amp;nbsp; taking&amp;nbsp; advantage&amp;nbsp; of&amp;nbsp; a&amp;nbsp; less –informed&amp;nbsp; person&amp;nbsp; through&amp;nbsp; an unobserved action.It&amp;nbsp;&amp;nbsp; arises&amp;nbsp;&amp;nbsp; from&amp;nbsp;&amp;nbsp; lack&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; information&amp;nbsp;&amp;nbsp; about&amp;nbsp;&amp;nbsp; someone`s&amp;nbsp;&amp;nbsp; future behaviour.When&amp;nbsp; an&amp;nbsp; employee&amp;nbsp; is&amp;nbsp; selected&amp;nbsp; for&amp;nbsp; a&amp;nbsp; job,&amp;nbsp; the&amp;nbsp; employer&amp;nbsp; takes&amp;nbsp; risk about the future behaviour of such employee.Doctors prescribing unnecessary&amp;nbsp; Test and medicines to patients is an&amp;nbsp; example&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;of&amp;nbsp; moral&amp;nbsp; hazard&amp;nbsp; as&amp;nbsp; patients&amp;nbsp; lack&amp;nbsp; information&amp;nbsp; and actions of doctors are&amp;nbsp; not observedMoral&amp;nbsp;&amp;nbsp; hazard&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; adverse&amp;nbsp;&amp;nbsp; selections&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; due&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; asymmetric information which is one of the cause of market failure.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3180" y="200" width="400" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="GuguvrKZbHdLp_gOzSv8-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="700" width="40" height="40" as="geometry" />
+        <mxCell id="RhUiQlK2jR2nP5L7iwBR-1" value="RN19" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="730" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
